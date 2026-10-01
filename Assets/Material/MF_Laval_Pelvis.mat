@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: MF_Laval_Pelvis
+  m_Shader: {fileID: 4800000, guid: 4a424ca603f675b4e9d51ce8f3139e46, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Base_Mask:
+        m_Texture: {fileID: 2800000, guid: a07f1f1eabbe97f42815d962d0c11810, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Detail:
+        m_Texture: {fileID: 2800000, guid: a07f1f1eabbe97f42815d962d0c11810, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Matcap1:
+        m_Texture: {fileID: 2800000, guid: 2152a296b5620144d96f7faf95800167, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Occlusion:
+        m_Texture: {fileID: 2800000, guid: d81bf5230b944804e8841037f701898f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sticker:
+        m_Texture: {fileID: 2800000, guid: 9abae0ce07011d446a182e2e42659db8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sticker_Mask:
+        m_Texture: {fileID: 2800000, guid: 5d2e359012fc9c444bd97f46ffef4901, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - PixelSnap: 0
+    - _Ambiant_Light: 0
+    - _Emission: 0
+    m_Colors:
+    - _Color: {r: 0.1254902, g: 0.2862745, b: 0.3803922, a: 1}
+    - _Color1: {r: 1, g: 1, b: 1, a: 1}
+    - _Color2: {r: 1, g: 1, b: 1, a: 1}
+    - _Color3: {r: 1, g: 1, b: 1, a: 1}
+    - _Sticker_Color: {r: 1, g: 0, b: 0, a: 1}
+    - _Sticker_Color1: {r: 0, g: 0.4588235, b: 0.7450981, a: 1}
+    - _Sticker_Color2: {r: 0.6509804, g: 0.5215687, b: 0.2078431, a: 1}

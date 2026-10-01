@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: MF_Lion_Arm_Sticker_Plate01c
+  m_Shader: {fileID: 4800000, guid: 4a424ca603f675b4e9d51ce8f3139e46, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Base_Mask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Detail:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Matcap1:
+        m_Texture: {fileID: 2800000, guid: bd8ac7cbd28baf64595e8843f0cfaa07, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Occlusion:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sticker:
+        m_Texture: {fileID: 2800000, guid: d759f447233b28a498d4813d7eccc4b3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sticker_Mask:
+        m_Texture: {fileID: 2800000, guid: 6b6fe0fb79d5a7049af0a6ba8073fb7d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - PixelSnap: 0
+    - _Ambiant_Light: 0
+    - _Emission: 0
+    - _EmissionLM: 0
+    - _Shininess: 0.078125
+    m_Colors:
+    - _Color: {r: 0.4078431, g: 0.4039216, b: 0.4, a: 1}
+    - _Color1: {r: 0.9411765, g: 0.9490196, b: 0.945098, a: 1}
+    - _Color2: {r: 0.945098, g: 0.9529412, b: 0.9490196, a: 1}
+    - _Color3: {r: 1, g: 1, b: 1, a: 1}
+    - _Decal_Color: {r: 0.1372549, g: 0.282353, b: 0.3843137, a: 1}
+    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _Sticker_Color: {r: 0.1372549, g: 0.282353, b: 0.3843137, a: 1}
+    - _Sticker_Color1: {r: 0, g: 0.372549, b: 0.6431373, a: 1}
+    - _Sticker_Color2: {r: 0.6509804, g: 0.5215687, b: 0.2078431, a: 1}

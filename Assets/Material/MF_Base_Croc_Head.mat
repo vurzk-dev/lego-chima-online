@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: MF_Base_Croc_Head
+  m_Shader: {fileID: 4800000, guid: 4a424ca603f675b4e9d51ce8f3139e46, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Base_Mask:
+        m_Texture: {fileID: 2800000, guid: 7725d872f9ff6fc49b1479b3f1a46128, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Detail:
+        m_Texture: {fileID: 2800000, guid: 51eefd6eaba19c043a5074a9469d9e2a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Matcap1:
+        m_Texture: {fileID: 2800000, guid: 2152a296b5620144d96f7faf95800167, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Occlusion:
+        m_Texture: {fileID: 2800000, guid: b82db66c8fd9c0147bab7b1229dc9321, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sticker:
+        m_Texture: {fileID: 2800000, guid: c322c5e5af933eb48a98c6ce78c5be0b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sticker_Mask:
+        m_Texture: {fileID: 2800000, guid: 12b5b42d6f2e8864da18737ea4aca7bb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - PixelSnap: 0
+    - _Ambiant_Light: 0
+    - _Emission: 0
+    m_Colors:
+    - _Color: {r: 0.0530367, g: 0.5147059, b: 0.01513842, a: 1}
+    - _Color1: {r: 0.7379309, g: 1, b: 0, a: 1}
+    - _Color2: {r: 1, g: 0.2058824, b: 0.2058824, a: 1}
+    - _Color3: {r: 0.9264706, g: 0, b: 0, a: 1}
+    - _MainColor: {r: 0.05490196, g: 0.5137255, b: 0.01568628, a: 1}
+    - _Sticker_Color1: {r: 0.9632353, g: 0.02124786, b: 0.02124786, a: 1}
+    - _Sticker_Color1B: {r: 0.9647059, g: 0.01960784, b: 0.01960784, a: 1}
+    - _Sticker_Color1R: {r: 1, g: 0.2666667, b: 0.2666667, a: 1}
+    - _Sticker_Color2: {r: 1, g: 0.2647059, b: 0.2647059, a: 1}

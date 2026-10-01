@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: AF_Bear_Surface
+  m_Shader: {fileID: 4800000, guid: 7fec6e41e12753a49bf75cb0d59f6f6b, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 9592a2b72cea02f41aaf4bd58547964d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BaseOpacity: 0.2985075
+    - _Color1Mul: 2.96
+    - _Density: 0
+    - _EdgeAlpha: 0
+    - _EmissiveStrength: 1.11
+    - _FresnelPower: 12.6
+    - _FrezFalloff: 1.19403
+    - _FrezPow: 0.358209
+    - _Gloss: 0.9402986
+    - _HeightFade: 3.384328
+    - _Metalics: 0
+    - _RampPinch: 1.19
+    - _Reflection: 0
+    - _Shininess: 0.06955095
+    - _SpecularPower: 1.27
+    - _SpecularStrength: 0.65
+    m_Colors:
+    - _Color: {r: 0, g: 0.6223779, b: 1, a: 1}
+    - _Color1: {r: 0.2431499, g: 0.7201206, b: 0.880597, a: 1}
+    - _Emission: {r: 0, g: 0, b: 0, a: 0}
+    - _FreshnelColor: {r: 0, g: 0.2380469, b: 0.7279412, a: 1}
+    - _FresnelColor: {r: 0.1716418, g: 0.4438995, b: 1, a: 1}
+    - _MainColor: {r: 0.07228781, g: 0.2550063, b: 0.4402985, a: 1}
+    - _ReflectColor: {r: 1, g: 1, b: 1, a: 0.5}
+    - _SpecColor: {r: 0.5298507, g: 0.5857427, b: 1, a: 1}
+    - _SpecularColor: {r: 1, g: 0, b: 0, a: 1}
+    - _TintColor: {r: 0, g: 0.1544118, b: 0.3088235, a: 1}

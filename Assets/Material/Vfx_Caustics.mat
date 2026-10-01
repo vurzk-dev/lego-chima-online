@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: Vfx_Caustics
+  m_Shader: {fileID: 4800000, guid: 8c959df6fdb2f614bb0919ea9efcc4c4, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: bdeec4c76271e8f4aa805626cd74d99a, type: 3}
+        m_Scale: {x: 25, y: 25}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Alpha1CTRL: 0.5
+    - _Alpha2CTRL: 0.5
+    - _Brightness: 2
+    - _Cutoff: 0.5
+    - _Displace: 100
+    - _DisplaceSpeed: 1
+    - _Emission: 1
+    - _Exposure: 1
+    - _Flow: 1
+    - _FlowU: 1
+    - _FlowV: 1
+    - _Gamma: 1.1
+    - _InvFade: 0.26
+    - _Multiplier: 0.53
+    - _Opacity: 0.5
+    - _Outline: 0
+    - _Rotation: 0
+    - _Scale: 100
+    - _ShakeBending: 1
+    - _ShakeDisplacement: 1
+    - _ShakeTime: 1
+    - _ShakeWindspeed: 1
+    - _Shininess: 1
+    - _Size: 1
+    - _Speed: 0.15
+    - _VertAnimDisplacement: 2.8
+    - _VertAnimDisplacementB: 0.1
+    - _VertAnimSpeed: 100.39
+    - _VertAnimSpeedB: 100
+    m_Colors:
+    - _Color: {r: 0.5661765, g: 0.8922921, b: 1, a: 1}
+    - _Emission: {r: 0, g: 0, b: 0, a: 0}
+    - _FlowU: {r: 1, g: 1, b: 1, a: 1}
+    - _FlowV: {r: 1, g: 1, b: 1, a: 1}
+    - _MoveUvs: {r: 0.1, g: 0.3, b: 0.2, a: 0.1}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Tint: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    - _TintColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    - _WaveUvs: {r: 0.005, g: 80, b: 100, a: 8}

@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: ec787457ff36c0146be3da91a3374add
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UISocialBar_WEB_1_0
+  - first:
+      213: 21300002
+    second: UISocialBar_WEB_1_2
+  - first:
+      213: 21300004
+    second: UISocialBar_WEB_1_4
+  - first:
+      213: 21300006
+    second: UISocialBar_WEB_1_5
+  - first:
+      213: 21300008
+    second: UISocialBar_WEB_1_8
+  - first:
+      213: 21300010
+    second: UISocialBar_WEB_1_10
+  - first:
+      213: 21300012
+    second: UISocialBar_WEB_1_11
+  - first:
+      213: 21300014
+    second: UISocialBar_WEB_1_12
+  - first:
+      213: 21300016
+    second: UISocialBar_WEB_1_13
+  - first:
+      213: 21300018
+    second: UISocialBar_WEB_1_14
+  - first:
+      213: 21300020
+    second: UISocialBar_WEB_1_21
+  - first:
+      213: 21300022
+    second: UISocialBar_WEB_1_22
+  - first:
+      213: 21300024
+    second: UISocialBar_WEB_1_23
+  - first:
+      213: 21300026
+    second: UISocialBar_WEB_1_24
+  - first:
+      213: 21300028
+    second: UISocialBar_WEB_1_25
+  - first:
+      213: 21300030
+    second: UISocialBar_WEB_1_26
+  - first:
+      213: 21300032
+    second: UISocialBar_WEB_1_27
+  - first:
+      213: 21300034
+    second: UISocialBar_WEB_1_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UISocialBar_WEB_1_0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 281
+        width: 84
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -44.5}
+        - {x: -42, y: -18.5}
+        - {x: -42, y: 0.5}
+        - {x: -38, y: 44.5}
+        - {x: 42, y: 44.5}
+        - {x: 42, y: -44.5}
+      physicsShape:
+      - - {x: -38, y: 44.5}
+        - {x: -42, y: -5.5}
+        - {x: -42, y: -24.5}
+        - {x: -41, y: -44.5}
+        - {x: 42, y: -44.5}
+        - {x: 42, y: 44.5}
+      - - {x: 0, y: -16.5}
+        - {x: 1, y: 3.5}
+        - {x: -23, y: 13.5}
+        - {x: -11, y: 31.5}
+        - {x: -11, y: 33.5}
+        - {x: 34, y: 36.5}
+        - {x: 32, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialBar_WEB_1_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 235
+        width: 76
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: -21.5}
+        - {x: -38, y: -21.5}
+        - {x: -38, y: -11.5}
+        - {x: -6, y: 21.5}
+        - {x: 21, y: 21.5}
+        - {x: 38, y: -9.5}
+      physicsShape:
+      - - {x: -3, y: 20.5}
+        - {x: -37, y: -14.5}
+        - {x: -38, y: -15.5}
+        - {x: -38, y: -20.5}
+        - {x: -33, y: -21.5}
+        - {x: -25, y: -21.5}
+        - {x: -4, y: -14.5}
+        - {x: 28, y: -21.5}
+        - {x: 38, y: -21.5}
+        - {x: 38, y: -15.5}
+        - {x: 37, y: -13.5}
+        - {x: 2, y: 20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialBar_WEB_1_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 117
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.5, y: -63.5}
+        - {x: -58.5, y: -63.5}
+        - {x: -58.5, y: 63.5}
+        - {x: 58.5, y: 63.5}
+      physicsShape:
+      - - {x: 58.5, y: 31.5}
+        - {x: 58.5, y: 58.5}
+        - {x: 34.5, y: 58.5}
+        - {x: 32.5, y: 56.5}
+        - {x: 32.5, y: 55.5}
+        - {x: 17.5, y: 58.5}
+        - {x: -52.5, y: 58.5}
+        - {x: -52.5, y: -57.5}
+        - {x: 58.5, y: -57.5}
+        - {x: 58.5, y: -35.5}
+        - {x: 28.5, y: -33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialBar_WEB_1_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 143
+        width: 84
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -44.5}
+        - {x: -42, y: -18.5}
+        - {x: -42, y: 0.5}
+        - {x: -38, y: 44.5}
+        - {x: 42, y: 44.5}
+        - {x: 42, y: -44.5}
+      physicsShape:
+      - - {x: -38, y: 44.5}
+        - {x: -42, y: -5.5}
+        - {x: -42, y: -24.5}
+        - {x: -41, y: -44.5}
+        - {x: 42, y: -44.5}
+        - {x: 42, y: 44.5}
+      - - {x: 0, y: -16.5}
+        - {x: 1, y: 3.5}
+        - {x: -23, y: 13.5}
+        - {x: -11, y: 31.5}
+        - {x: -11, y: 33.5}
+        - {x: 34, y: 36.5}
+        - {x: 32, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialBar_WEB_1_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 77
+        width: 23
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -8.5}
+        - {x: -11.5, y: 8.5}
+        - {x: 11.5, y: 8.5}
+        - {x: 11.5, y: -8.5}
+      physicsShape:
+      - - {x: -11.5, y: 8.5}
+        - {x: -11.5, y: -7.5}
+        - {x: -9.5, y: -8.5}
+        - {x: 9.5, y: -8.5}
+        - {x: 11.5, y: -6.5}
+        - {x: 11.5, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialBar_WEB_1_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 5
+        width: 84
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -44.5}
+        - {x: -42, y: -18.5}
+        - {x: -42, y: 0.5}
+        - {x: -38, y: 44.5}
+        - {x: 42, y: 44.5}
+        - {x: 42, y: -44.5}
+      physicsShape:
+      - - {x: -38, y: 44.5}
+        - {x: -42, y: -5.5}
+        - {x: -42, y: -24.5}
+        - {x: -41, y: -44.5}
+        - {x: 42, y: -44.5}
+        - {x: 42, y: 44.5}
+      - - {x: 0, y: -16.5}
+        - {x: -4, y: 1.5}
+        - {x: -8, y: 5.5}
+        - {x: -5, y: 19.5}
+        - {x: -5, y: 36.5}
+        - {x: 34, y: 36.5}
+        - {x: 32, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialBar_WEB_1_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 5
+        width: 84
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -44.5}
+        - {x: -42, y: -18.5}
+        - {x: -42, y: 0.5}
+        - {x: -38, y: 44.5}
+        - {x: 42, y: 44.5}
+        - {x: 42, y: -44.5}
+      physicsShape:
+      - - {x: -38, y: 44.5}
+        - {x: -42, y: -5.5}
+        - {x: -42, y: -24.5}
+        - {x: -41, y: -44.5}
+        - {x: 42, y: -44.5}
+        - {x: 42, y: 44.5}
+      - - {x: 0, y: -16.5}
+        - {x: 1, y: 3.5}
+        - {x: -23, y: 13.5}
+        - {x: -11, y: 31.5}
+        - {x: -11, y: 33.5}
+        - {x: 34, y: 36.5}
+        - {x: 32, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialBar_WEB_1_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 15
+        width: 53
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -28.5}
+        - {x: -26.5, y: -25.5}
+        - {x: -26.5, y: 28.5}
+        - {x: 26.5, y: 28.5}
+        - {x: 26.5, y: -28.5}
+      physicsShape:
+      - - {x: 10.5, y: 27.5}
+        - {x: -13.5, y: 27.5}
+        - {x: -25.5, y: 17.5}
+        - {x: -25.5, y: -16.5}
+        - {x: -18.5, y: -27.5}
+        - {x: -13.5, y: -28.5}
+        - {x: 24.5, y: -28.5}
+        - {x: 26.5, y: -26.5}
+        - {x: 26.5, y: 5.5}
+        - {x: 24.5, y: 17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialBar_WEB_1_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 15
+        width: 53
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -28.5}
+        - {x: -26.5, y: -25.5}
+        - {x: -26.5, y: 28.5}
+        - {x: 26.5, y: 28.5}
+        - {x: 26.5, y: -28.5}
+      physicsShape:
+      - - {x: 10.5, y: 27.5}
+        - {x: -13.5, y: 27.5}
+        - {x: -25.5, y: 20.5}
+        - {x: -25.5, y: -15.5}
+        - {x: -21.5, y: -28.5}
+        - {x: 20.5, y: -28.5}
+        - {x: 26.5, y: -23.5}
+        - {x: 26.5, y: -2.5}
+        - {x: 24.5, y: 13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialBar_WEB_1_14
+      rect:
+        serializedVersion: 2
+        x: 118.0267
+        y: 15
+        width: 51.97325
+        height: 55.92388
+      alignment: 9
+      pivot: {x: 0.4901224, y: 0.5096213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.01337, y: -27.96194}
+        - {x: -26.01337, y: -15.96194}
+        - {x: -26.01337, y: 18.03806}
+        - {x: -23.01337, y: 28.03806}
+        - {x: 15.98663, y: 28.03806}
+        - {x: 25.98663, y: 24.03806}
+        - {x: 25.98663, y: -26.96194}
+        - {x: 24.98663, y: -27.96194}
+      physicsShape:
+      - - {x: 9.986628, y: 27.03806}
+        - {x: -13.01337, y: 27.03806}
+        - {x: -25.01337, y: 17.03806}
+        - {x: -26.01337, y: 11.03806}
+        - {x: -26.01337, y: -15.96194}
+        - {x: -22.01337, y: -25.96194}
+        - {x: -11.01337, y: -27.96194}
+        - {x: 21.98663, y: -27.96194}
+        - {x: 25.98663, y: -21.96194}
+        - {x: 25.98663, y: -4.961939}
+        - {x: 21.98663, y: 12.03806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialBar_WEB_1_21
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 143
+        width: 84
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -44.5}
+        - {x: -42, y: -18.5}
+        - {x: -42, y: 0.5}
+        - {x: -38, y: 44.5}
+        - {x: 42, y: 44.5}
+        - {x: 42, y: -44.5}
+      physicsShape:
+      - - {x: -38, y: 44.5}
+        - {x: -42, y: -5.5}
+        - {x: -42, y: -24.5}
+        - {x: -41, y: -44.5}
+        - {x: 42, y: -44.5}
+        - {x: 42, y: 44.5}
+      - - {x: 0, y: -16.5}
+        - {x: 1, y: 3.5}
+        - {x: -23, y: 13.5}
+        - {x: -11, y: 31.5}
+        - {x: -11, y: 33.5}
+        - {x: 34, y: 36.5}
+        - {x: 32, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialBar_WEB_1_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 97
+        width: 76
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: -21.5}
+        - {x: -38, y: -21.5}
+        - {x: -38, y: -11.5}
+        - {x: -6, y: 21.5}
+        - {x: 21, y: 21.5}
+        - {x: 38, y: -9.5}
+      physicsShape:
+      - - {x: -3, y: 20.5}
+        - {x: -37, y: -14.5}
+        - {x: -38, y: -15.5}
+        - {x: -38, y: -20.5}
+        - {x: -33, y: -21.5}
+        - {x: -25, y: -21.5}
+        - {x: -4, y: -14.5}
+        - {x: 28, y: -21.5}
+        - {x: 38, y: -21.5}
+        - {x: 38, y: -15.5}
+        - {x: 37, y: -13.5}
+        - {x: 2, y: 20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialBar_WEB_1_23
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 97
+        width: 76
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: -21.5}
+        - {x: -38, y: -21.5}
+        - {x: -38, y: -11.5}
+        - {x: -6, y: 21.5}
+        - {x: 21, y: 21.5}
+        - {x: 38, y: -9.5}
+      physicsShape:
+      - - {x: -3, y: 20.5}
+        - {x: -37, y: -14.5}
+        - {x: -38, y: -15.5}
+        - {x: -38, y: -20.5}
+        - {x: -33, y: -21.5}
+        - {x: -25, y: -21.5}
+        - {x: -4, y: -14.5}
+        - {x: 28, y: -21.5}
+        - {x: 38, y: -21.5}
+        - {x: 38, y: -15.5}
+        - {x: 37, y: -13.5}
+        - {x: 2, y: 20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialBar_WEB_1_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 281
+        width: 84
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -44.5}
+        - {x: -42, y: -18.5}
+        - {x: -42, y: 0.5}
+        - {x: -38, y: 44.5}
+        - {x: 42, y: 44.5}
+        - {x: 42, y: -44.5}
+      physicsShape:
+      - - {x: -38, y: 44.5}
+        - {x: -42, y: -5.5}
+        - {x: -42, y: -24.5}
+        - {x: -41, y: -44.5}
+        - {x: 42, y: -44.5}
+        - {x: 42, y: 44.5}
+      - - {x: 0, y: -16.5}
+        - {x: -4, y: 1.5}
+        - {x: -8, y: 5.5}
+        - {x: -5, y: 19.5}
+        - {x: -5, y: 36.5}
+        - {x: 34, y: 36.5}
+        - {x: 32, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialBar_WEB_1_25
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 281
+        width: 84
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -44.5}
+        - {x: -42, y: -18.5}
+        - {x: -42, y: 0.5}
+        - {x: -38, y: 44.5}
+        - {x: 42, y: 44.5}
+        - {x: 42, y: -44.5}
+      physicsShape:
+      - - {x: -38, y: 44.5}
+        - {x: -42, y: -5.5}
+        - {x: -42, y: -24.5}
+        - {x: -41, y: -44.5}
+        - {x: 42, y: -44.5}
+        - {x: 42, y: 44.5}
+      - - {x: 0, y: -16.5}
+        - {x: 1, y: 3.5}
+        - {x: -23, y: 13.5}
+        - {x: -11, y: 31.5}
+        - {x: -11, y: 33.5}
+        - {x: 34, y: 36.5}
+        - {x: 32, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialBar_WEB_1_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 376
+        width: 501
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 250.5, y: -66.5}
+        - {x: -250.5, y: -66.5}
+        - {x: -250.5, y: 57.5}
+        - {x: -201.5, y: 57.5}
+        - {x: -201.5, y: 61.5}
+        - {x: -200.5, y: 62.5}
+        - {x: -200.5, y: 66.5}
+        - {x: -178.5, y: 66.5}
+        - {x: -177.5, y: 65.5}
+        - {x: -164.5, y: 65.5}
+        - {x: -152.5, y: 59.5}
+        - {x: -150.5, y: 59.5}
+        - {x: -147.5, y: 57.5}
+        - {x: 88.49999, y: 57.5}
+        - {x: 100.5, y: 63.5}
+        - {x: 102.5, y: 63.5}
+        - {x: 107.5, y: 66.5}
+        - {x: 129.5, y: 66.5}
+        - {x: 129.5, y: 62.5}
+        - {x: 130.5, y: 61.5}
+        - {x: 129.5, y: 57.5}
+        - {x: 223.5, y: 57.5}
+        - {x: 226.5, y: 56.5}
+        - {x: 250.5, y: 31.5}
+      physicsShape:
+      - - {x: 119.5, y: 62.5}
+        - {x: 84.5, y: 62.5}
+        - {x: -151.5, y: 51.5}
+        - {x: -165.5, y: 62.5}
+        - {x: -193.5, y: 62.5}
+        - {x: -250.5, y: 55.5}
+        - {x: -250.5, y: -65.5}
+        - {x: 242.5, y: -65.5}
+        - {x: 244.5, y: -63.5}
+        - {x: 244.5, y: 25.5}
+        - {x: 222.5, y: 56.5}
+      - - {x: 188.5, y: 30.5}
+        - {x: 223.5, y: 12.5}
+        - {x: 224.5, y: -41.5}
+        - {x: 188.5, y: -45.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialBar_WEB_1_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 281
+        width: 84
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -44.5}
+        - {x: -42, y: -18.5}
+        - {x: -42, y: 0.5}
+        - {x: -38, y: 44.5}
+        - {x: 42, y: 44.5}
+        - {x: 42, y: -44.5}
+      physicsShape:
+      - - {x: -38, y: 44.5}
+        - {x: -42, y: -5.5}
+        - {x: -42, y: -24.5}
+        - {x: -41, y: -44.5}
+        - {x: 42, y: -44.5}
+        - {x: 42, y: 44.5}
+      - - {x: 0, y: -16.5}
+        - {x: 1, y: 3.5}
+        - {x: -23, y: 13.5}
+        - {x: -11, y: 31.5}
+        - {x: -11, y: 33.5}
+        - {x: 34, y: 36.5}
+        - {x: 32, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialBar_WEB_1_29
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 143
+        width: 84
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -44.5}
+        - {x: -42, y: -18.5}
+        - {x: -42, y: 0.5}
+        - {x: -38, y: 44.5}
+        - {x: 42, y: 44.5}
+        - {x: 42, y: -44.5}
+      physicsShape:
+      - - {x: -38, y: 44.5}
+        - {x: -42, y: -5.5}
+        - {x: -42, y: -24.5}
+        - {x: -41, y: -44.5}
+        - {x: 42, y: -44.5}
+        - {x: 42, y: 44.5}
+      - - {x: 0, y: -16.5}
+        - {x: -4, y: 1.5}
+        - {x: -8, y: 5.5}
+        - {x: -5, y: 19.5}
+        - {x: -5, y: 36.5}
+        - {x: 34, y: 36.5}
+        - {x: 32, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UISocialBar_WEB_1_0: 21300000
+      UISocialBar_WEB_1_22: 21300022
+      UISocialBar_WEB_1_5: 21300006
+      UISocialBar_WEB_1_12: 21300014
+      UISocialBar_WEB_1_29: 21300034
+      UISocialBar_WEB_1_23: 21300024
+      UISocialBar_WEB_1_8: 21300008
+      UISocialBar_WEB_1_10: 21300010
+      UISocialBar_WEB_1_24: 21300026
+      UISocialBar_WEB_1_2: 21300002
+      UISocialBar_WEB_1_26: 21300030
+      UISocialBar_WEB_1_11: 21300012
+      UISocialBar_WEB_1_14: 21300018
+      UISocialBar_WEB_1_13: 21300016
+      UISocialBar_WEB_1_27: 21300032
+      UISocialBar_WEB_1_25: 21300028
+      UISocialBar_WEB_1_4: 21300004
+      UISocialBar_WEB_1_21: 21300020
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5099 @@
+fileFormatVersion: 2
+guid: a725564f5d237c94098550d87676fe02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SansaSoft_Bold_XP_0
+  - first:
+      213: 21300002
+    second: SansaSoft_Bold_XP_1
+  - first:
+      213: 21300004
+    second: SansaSoft_Bold_XP_2
+  - first:
+      213: 21300006
+    second: SansaSoft_Bold_XP_3
+  - first:
+      213: 21300008
+    second: SansaSoft_Bold_XP_4
+  - first:
+      213: 21300010
+    second: SansaSoft_Bold_XP_5
+  - first:
+      213: 21300012
+    second: SansaSoft_Bold_XP_6
+  - first:
+      213: 21300014
+    second: SansaSoft_Bold_XP_7
+  - first:
+      213: 21300016
+    second: SansaSoft_Bold_XP_8
+  - first:
+      213: 21300018
+    second: SansaSoft_Bold_XP_9
+  - first:
+      213: 21300020
+    second: SansaSoft_Bold_XP_10
+  - first:
+      213: 21300022
+    second: SansaSoft_Bold_XP_11
+  - first:
+      213: 21300024
+    second: SansaSoft_Bold_XP_12
+  - first:
+      213: 21300026
+    second: SansaSoft_Bold_XP_13
+  - first:
+      213: 21300028
+    second: SansaSoft_Bold_XP_14
+  - first:
+      213: 21300030
+    second: SansaSoft_Bold_XP_15
+  - first:
+      213: 21300032
+    second: SansaSoft_Bold_XP_16
+  - first:
+      213: 21300034
+    second: SansaSoft_Bold_XP_17
+  - first:
+      213: 21300036
+    second: SansaSoft_Bold_XP_18
+  - first:
+      213: 21300038
+    second: SansaSoft_Bold_XP_19
+  - first:
+      213: 21300040
+    second: SansaSoft_Bold_XP_20
+  - first:
+      213: 21300042
+    second: SansaSoft_Bold_XP_21
+  - first:
+      213: 21300044
+    second: SansaSoft_Bold_XP_22
+  - first:
+      213: 21300046
+    second: SansaSoft_Bold_XP_23
+  - first:
+      213: 21300048
+    second: SansaSoft_Bold_XP_24
+  - first:
+      213: 21300050
+    second: SansaSoft_Bold_XP_25
+  - first:
+      213: 21300052
+    second: SansaSoft_Bold_XP_26
+  - first:
+      213: 21300054
+    second: SansaSoft_Bold_XP_27
+  - first:
+      213: 21300056
+    second: SansaSoft_Bold_XP_28
+  - first:
+      213: 21300058
+    second: SansaSoft_Bold_XP_29
+  - first:
+      213: 21300060
+    second: SansaSoft_Bold_XP_30
+  - first:
+      213: 21300062
+    second: SansaSoft_Bold_XP_31
+  - first:
+      213: 21300064
+    second: SansaSoft_Bold_XP_32
+  - first:
+      213: 21300066
+    second: SansaSoft_Bold_XP_33
+  - first:
+      213: 21300068
+    second: SansaSoft_Bold_XP_34
+  - first:
+      213: 21300070
+    second: SansaSoft_Bold_XP_35
+  - first:
+      213: 21300072
+    second: SansaSoft_Bold_XP_36
+  - first:
+      213: 21300074
+    second: SansaSoft_Bold_XP_37
+  - first:
+      213: 21300076
+    second: SansaSoft_Bold_XP_38
+  - first:
+      213: 21300078
+    second: SansaSoft_Bold_XP_39
+  - first:
+      213: 21300080
+    second: SansaSoft_Bold_XP_40
+  - first:
+      213: 21300082
+    second: SansaSoft_Bold_XP_41
+  - first:
+      213: 21300084
+    second: SansaSoft_Bold_XP_42
+  - first:
+      213: 21300086
+    second: SansaSoft_Bold_XP_43
+  - first:
+      213: 21300088
+    second: SansaSoft_Bold_XP_44
+  - first:
+      213: 21300090
+    second: SansaSoft_Bold_XP_45
+  - first:
+      213: 21300092
+    second: SansaSoft_Bold_XP_46
+  - first:
+      213: 21300094
+    second: SansaSoft_Bold_XP_47
+  - first:
+      213: 21300096
+    second: SansaSoft_Bold_XP_48
+  - first:
+      213: 21300098
+    second: SansaSoft_Bold_XP_49
+  - first:
+      213: 21300100
+    second: SansaSoft_Bold_XP_50
+  - first:
+      213: 21300102
+    second: SansaSoft_Bold_XP_51
+  - first:
+      213: 21300104
+    second: SansaSoft_Bold_XP_52
+  - first:
+      213: 21300106
+    second: SansaSoft_Bold_XP_53
+  - first:
+      213: 21300108
+    second: SansaSoft_Bold_XP_54
+  - first:
+      213: 21300110
+    second: SansaSoft_Bold_XP_55
+  - first:
+      213: 21300112
+    second: SansaSoft_Bold_XP_56
+  - first:
+      213: 21300114
+    second: SansaSoft_Bold_XP_57
+  - first:
+      213: 21300116
+    second: SansaSoft_Bold_XP_58
+  - first:
+      213: 21300118
+    second: SansaSoft_Bold_XP_59
+  - first:
+      213: 21300120
+    second: SansaSoft_Bold_XP_60
+  - first:
+      213: 21300122
+    second: SansaSoft_Bold_XP_61
+  - first:
+      213: 21300124
+    second: SansaSoft_Bold_XP_62
+  - first:
+      213: 21300126
+    second: SansaSoft_Bold_XP_63
+  - first:
+      213: 21300128
+    second: SansaSoft_Bold_XP_64
+  - first:
+      213: 21300130
+    second: SansaSoft_Bold_XP_65
+  - first:
+      213: 21300132
+    second: SansaSoft_Bold_XP_66
+  - first:
+      213: 21300134
+    second: SansaSoft_Bold_XP_67
+  - first:
+      213: 21300136
+    second: SansaSoft_Bold_XP_68
+  - first:
+      213: 21300138
+    second: SansaSoft_Bold_XP_69
+  - first:
+      213: 21300140
+    second: SansaSoft_Bold_XP_70
+  - first:
+      213: 21300142
+    second: SansaSoft_Bold_XP_71
+  - first:
+      213: 21300144
+    second: SansaSoft_Bold_XP_72
+  - first:
+      213: 21300146
+    second: SansaSoft_Bold_XP_73
+  - first:
+      213: 21300148
+    second: SansaSoft_Bold_XP_74
+  - first:
+      213: 21300150
+    second: SansaSoft_Bold_XP_75
+  - first:
+      213: 21300152
+    second: SansaSoft_Bold_XP_76
+  - first:
+      213: 21300154
+    second: SansaSoft_Bold_XP_77
+  - first:
+      213: 21300156
+    second: SansaSoft_Bold_XP_78
+  - first:
+      213: 21300158
+    second: SansaSoft_Bold_XP_79
+  - first:
+      213: 21300160
+    second: SansaSoft_Bold_XP_80
+  - first:
+      213: 21300162
+    second: SansaSoft_Bold_XP_81
+  - first:
+      213: 21300164
+    second: SansaSoft_Bold_XP_82
+  - first:
+      213: 21300166
+    second: SansaSoft_Bold_XP_83
+  - first:
+      213: 21300168
+    second: SansaSoft_Bold_XP_84
+  - first:
+      213: 21300170
+    second: SansaSoft_Bold_XP_85
+  - first:
+      213: 21300172
+    second: SansaSoft_Bold_XP_86
+  - first:
+      213: 21300174
+    second: SansaSoft_Bold_XP_87
+  - first:
+      213: 21300176
+    second: SansaSoft_Bold_XP_88
+  - first:
+      213: 21300178
+    second: SansaSoft_Bold_XP_89
+  - first:
+      213: 21300180
+    second: SansaSoft_Bold_XP_90
+  - first:
+      213: 21300182
+    second: SansaSoft_Bold_XP_91
+  - first:
+      213: 21300184
+    second: SansaSoft_Bold_XP_92
+  - first:
+      213: 21300186
+    second: SansaSoft_Bold_XP_93
+  - first:
+      213: 21300188
+    second: SansaSoft_Bold_XP_94
+  - first:
+      213: 21300190
+    second: SansaSoft_Bold_XP_95
+  - first:
+      213: 21300192
+    second: SansaSoft_Bold_XP_96
+  - first:
+      213: 21300194
+    second: SansaSoft_Bold_XP_97
+  - first:
+      213: 21300196
+    second: SansaSoft_Bold_XP_98
+  - first:
+      213: 21300198
+    second: SansaSoft_Bold_XP_99
+  - first:
+      213: 21300200
+    second: SansaSoft_Bold_XP_100
+  - first:
+      213: 21300202
+    second: SansaSoft_Bold_XP_101
+  - first:
+      213: 21300204
+    second: SansaSoft_Bold_XP_102
+  - first:
+      213: 21300206
+    second: SansaSoft_Bold_XP_103
+  - first:
+      213: 21300208
+    second: SansaSoft_Bold_XP_104
+  - first:
+      213: 21300210
+    second: SansaSoft_Bold_XP_105
+  - first:
+      213: 21300212
+    second: SansaSoft_Bold_XP_106
+  - first:
+      213: 21300214
+    second: SansaSoft_Bold_XP_107
+  - first:
+      213: 21300216
+    second: SansaSoft_Bold_XP_108
+  - first:
+      213: 21300218
+    second: SansaSoft_Bold_XP_109
+  - first:
+      213: 21300220
+    second: SansaSoft_Bold_XP_110
+  - first:
+      213: 21300222
+    second: SansaSoft_Bold_XP_111
+  - first:
+      213: 21300224
+    second: SansaSoft_Bold_XP_112
+  - first:
+      213: 21300226
+    second: SansaSoft_Bold_XP_113
+  - first:
+      213: 21300228
+    second: SansaSoft_Bold_XP_114
+  - first:
+      213: 21300230
+    second: SansaSoft_Bold_XP_115
+  - first:
+      213: 21300232
+    second: SansaSoft_Bold_XP_116
+  - first:
+      213: 21300234
+    second: SansaSoft_Bold_XP_117
+  - first:
+      213: 21300236
+    second: SansaSoft_Bold_XP_118
+  - first:
+      213: 21300238
+    second: SansaSoft_Bold_XP_119
+  - first:
+      213: 21300240
+    second: SansaSoft_Bold_XP_120
+  - first:
+      213: 21300242
+    second: SansaSoft_Bold_XP_121
+  - first:
+      213: 21300244
+    second: SansaSoft_Bold_XP_122
+  - first:
+      213: 21300246
+    second: SansaSoft_Bold_XP_123
+  - first:
+      213: 21300248
+    second: SansaSoft_Bold_XP_124
+  - first:
+      213: 21300250
+    second: SansaSoft_Bold_XP_125
+  - first:
+      213: 21300252
+    second: SansaSoft_Bold_XP_126
+  - first:
+      213: 21300254
+    second: SansaSoft_Bold_XP_127
+  - first:
+      213: 21300256
+    second: SansaSoft_Bold_XP_128
+  - first:
+      213: 21300258
+    second: SansaSoft_Bold_XP_129
+  - first:
+      213: 21300260
+    second: SansaSoft_Bold_XP_130
+  - first:
+      213: 21300262
+    second: SansaSoft_Bold_XP_131
+  - first:
+      213: 21300264
+    second: SansaSoft_Bold_XP_132
+  - first:
+      213: 21300266
+    second: SansaSoft_Bold_XP_133
+  - first:
+      213: 21300268
+    second: SansaSoft_Bold_XP_134
+  - first:
+      213: 21300270
+    second: SansaSoft_Bold_XP_135
+  - first:
+      213: 21300272
+    second: SansaSoft_Bold_XP_136
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 234
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -10}
+        - {x: -8, y: 10}
+        - {x: 8, y: 10}
+        - {x: 8, y: -10}
+      physicsShape:
+      - - {x: 2, y: 9.999999}
+        - {x: -5, y: 9.999999}
+        - {x: -8, y: -8}
+        - {x: -7, y: -9.999999}
+        - {x: 8, y: -9.999999}
+        - {x: 8, y: 2}
+        - {x: 7, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 232
+        width: 16
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -11}
+        - {x: -8, y: 11}
+        - {x: 8, y: 11}
+        - {x: 8, y: -11}
+      physicsShape:
+      - - {x: -8, y: -9}
+        - {x: 8, y: -9}
+        - {x: 8, y: 3}
+        - {x: 5, y: 11}
+        - {x: -3, y: 11}
+        - {x: -8, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 234
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -10}
+        - {x: -8, y: 10}
+        - {x: 8, y: 10}
+        - {x: 8, y: -10}
+      physicsShape:
+      - - {x: -5, y: 9.999999}
+        - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: -5, y: -9.999999}
+        - {x: 4, y: -9.999999}
+        - {x: 8, y: -8}
+        - {x: 8, y: 4}
+        - {x: 6, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 234
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -10}
+        - {x: -8, y: 10}
+        - {x: 8, y: 10}
+        - {x: 8, y: -10}
+      physicsShape:
+      - - {x: 3, y: 9.999999}
+        - {x: -6, y: 9.999999}
+        - {x: -8, y: 8}
+        - {x: -8, y: -9}
+        - {x: -3, y: -9.999999}
+        - {x: 4, y: -9.999999}
+        - {x: 8, y: -5}
+        - {x: 8, y: 1}
+        - {x: 7, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 234
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -10}
+        - {x: -8, y: 10}
+        - {x: 8, y: 10}
+        - {x: 8, y: -10}
+      physicsShape:
+      - - {x: 4, y: 7}
+        - {x: 2, y: 9.999999}
+        - {x: -2, y: 9.999999}
+        - {x: -6, y: 9}
+        - {x: -8, y: -2}
+        - {x: -8, y: -9}
+        - {x: -6, y: -9.999999}
+        - {x: 8, y: -9.999999}
+        - {x: 8, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 234
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -10}
+        - {x: -8, y: 10}
+        - {x: 8, y: 10}
+        - {x: 8, y: -10}
+      physicsShape:
+      - - {x: -7, y: 9.999999}
+        - {x: -8, y: 3}
+        - {x: -8, y: -7}
+        - {x: -3, y: -9.999999}
+        - {x: 4, y: -9.999999}
+        - {x: 8, y: -6}
+        - {x: 8, y: 1}
+        - {x: 5, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 234
+        width: 16
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -11}
+        - {x: -8, y: 11}
+        - {x: 8, y: 11}
+        - {x: 8, y: -11}
+      physicsShape:
+      - - {x: 1, y: 9}
+        - {x: -4, y: 9}
+        - {x: -7, y: 6}
+        - {x: -7, y: -11}
+        - {x: 7, y: -11}
+        - {x: 7, y: 5}
+        - {x: 4, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 234
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -10}
+        - {x: -8, y: 10}
+        - {x: 8, y: 10}
+        - {x: 8, y: -10}
+      physicsShape:
+      - - {x: -2, y: 9.999999}
+        - {x: -7, y: 5}
+        - {x: -7, y: -6}
+        - {x: -6, y: -9.999999}
+        - {x: 4, y: -9.999999}
+        - {x: 7, y: -9}
+        - {x: 7, y: 6}
+        - {x: 4, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 234
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -10}
+        - {x: -8, y: 10}
+        - {x: 8, y: 10}
+        - {x: 8, y: -10}
+      physicsShape:
+      - - {x: -3, y: 9.999999}
+        - {x: -7, y: 5}
+        - {x: -7, y: -9}
+        - {x: -5, y: -9.999999}
+        - {x: 6, y: -9.999999}
+        - {x: 7, y: -6}
+        - {x: 7, y: 7}
+        - {x: 2, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 232
+        width: 17
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -11}
+        - {x: -8.5, y: 11}
+        - {x: 8.5, y: 11}
+        - {x: 8.5, y: -11}
+      physicsShape:
+      - - {x: -4.5, y: 11}
+        - {x: -8.5, y: 0}
+        - {x: -8.5, y: -9}
+        - {x: 7.5, y: -9}
+        - {x: 7.5, y: -1}
+        - {x: 5.5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 234
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -10}
+        - {x: -8, y: 10}
+        - {x: 8, y: 10}
+        - {x: 8, y: -10}
+      physicsShape:
+      - - {x: -5, y: 9.999999}
+        - {x: -7, y: 7}
+        - {x: -7, y: -6}
+        - {x: -6, y: -9.999999}
+        - {x: 3, y: -9.999999}
+        - {x: 7, y: -9}
+        - {x: 7, y: 5}
+        - {x: 2, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 234
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -10}
+        - {x: -8, y: 10}
+        - {x: 8, y: 10}
+        - {x: 8, y: -10}
+      physicsShape:
+      - - {x: -5, y: 9.999999}
+        - {x: -8, y: 4}
+        - {x: -8, y: -9}
+        - {x: -4, y: -9.999999}
+        - {x: 7, y: -9.999999}
+        - {x: 8, y: -9}
+        - {x: 8, y: 5}
+        - {x: 7, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 209
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -10}
+        - {x: -8, y: 10}
+        - {x: 8, y: 10}
+        - {x: 8, y: -10}
+      physicsShape:
+      - - {x: 2, y: 9.999999}
+        - {x: -2, y: 9.999999}
+        - {x: -6, y: 6}
+        - {x: -8, y: -8}
+        - {x: -7, y: -9.999999}
+        - {x: 8, y: -9.999999}
+        - {x: 8, y: -2}
+        - {x: 7, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 209
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -10}
+        - {x: -7.5, y: 10}
+        - {x: 7.5, y: 10}
+        - {x: 7.5, y: -10}
+      physicsShape:
+      - - {x: -7.5, y: -1}
+        - {x: -3.5, y: -9.999999}
+        - {x: 2.5, y: -9.999999}
+        - {x: 4.5, y: -9}
+        - {x: 7.5, y: 4}
+        - {x: 5.5, y: 9.999999}
+        - {x: -2.5, y: 9.999999}
+        - {x: -7.5, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 209
+        width: 14
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -10}
+        - {x: -7, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -10}
+      physicsShape:
+      - - {x: -4, y: 9.999999}
+        - {x: -6, y: 7}
+        - {x: -6, y: -7}
+        - {x: -5, y: -9.999999}
+        - {x: 5, y: -9.999999}
+        - {x: 7, y: -9}
+        - {x: 7, y: 8}
+        - {x: 2, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 209
+        width: 14
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -11.5}
+        - {x: -7, y: 11.5}
+        - {x: 7, y: 11.5}
+        - {x: 7, y: -11.5}
+      physicsShape:
+      - - {x: -6, y: -8.5}
+        - {x: -3, y: -11.5}
+        - {x: 6, y: -11.5}
+        - {x: 6, y: 3.5}
+        - {x: 5, y: 8.5}
+        - {x: -5, y: 8.5}
+        - {x: -6, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 209
+        width: 14
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -10}
+        - {x: -7, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -10}
+      physicsShape:
+      - - {x: 6, y: 7}
+        - {x: 4, y: 9.999999}
+        - {x: -2, y: 9.999999}
+        - {x: -6, y: 5}
+        - {x: -6, y: -7}
+        - {x: -3, y: -9.999999}
+        - {x: 4, y: -9.999999}
+        - {x: 6, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 209
+        width: 14
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -10}
+        - {x: -7, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -10}
+      physicsShape:
+      - - {x: 3, y: 9.999999}
+        - {x: 0, y: 9.999999}
+        - {x: -6, y: 4}
+        - {x: -6, y: -9}
+        - {x: -4, y: -9.999999}
+        - {x: 6, y: -9.999999}
+        - {x: 7, y: -9}
+        - {x: 7, y: 5}
+        - {x: 6, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 209
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -10}
+        - {x: -6.5, y: 10}
+        - {x: 6.5, y: 10}
+        - {x: 6.5, y: -10}
+      physicsShape:
+      - - {x: -2.5, y: 9.999999}
+        - {x: -5.5, y: 9}
+        - {x: -5.5, y: 0}
+        - {x: -3.5, y: -9.999999}
+        - {x: 3.5, y: -9.999999}
+        - {x: 4.5, y: -9}
+        - {x: 5.5, y: 3}
+        - {x: 5.5, y: 7}
+        - {x: 2.5, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 209
+        width: 10
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -10}
+        - {x: -5, y: 10}
+        - {x: 5, y: 10}
+        - {x: 5, y: -10}
+      physicsShape:
+      - - {x: 2, y: 9.999999}
+        - {x: -1, y: 9.999999}
+        - {x: -4, y: 7}
+        - {x: -4, y: -9}
+        - {x: -2, y: -9.999999}
+        - {x: 2, y: -9.999999}
+        - {x: 3, y: -8}
+        - {x: 4, y: 3}
+        - {x: 4, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 209
+        width: 9
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -10}
+        - {x: -4.5, y: 10}
+        - {x: 4.5, y: 10}
+        - {x: 4.5, y: -10}
+      physicsShape:
+      - - {x: -2.5, y: 9.999999}
+        - {x: -4.5, y: 9}
+        - {x: -4.5, y: -9}
+        - {x: -2.5, y: -9.999999}
+        - {x: 3.5, y: -9.999999}
+        - {x: 4.5, y: 0}
+        - {x: 4.5, y: 7}
+        - {x: 1.5, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 210
+        width: 16
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -11}
+        - {x: -8, y: 11}
+        - {x: 8, y: 11}
+        - {x: 8, y: -11}
+      physicsShape:
+      - - {x: 7, y: 7}
+        - {x: 6, y: 8}
+        - {x: -5, y: 8}
+        - {x: -6, y: 6}
+        - {x: -8, y: -4}
+        - {x: -8, y: -9.999999}
+        - {x: -6, y: -11}
+        - {x: 6, y: -11}
+        - {x: 8, y: -9.999999}
+        - {x: 8, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_22
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 210
+        width: 16
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -9.5}
+        - {x: -8, y: 9.5}
+        - {x: 8, y: 9.5}
+        - {x: 8, y: -9.5}
+      physicsShape:
+      - - {x: -7, y: -5.5}
+        - {x: -5, y: -9.5}
+        - {x: 3, y: -9.5}
+        - {x: 7, y: -8.5}
+        - {x: 7, y: 6.5}
+        - {x: 6, y: 9.5}
+        - {x: -4, y: 9.5}
+        - {x: -7, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 210
+        width: 16
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -9.5}
+        - {x: -8, y: 9.5}
+        - {x: 8, y: 9.5}
+        - {x: 8, y: -9.5}
+      physicsShape:
+      - - {x: -6, y: 9.5}
+        - {x: -8, y: 5.5}
+        - {x: -8, y: -7.5}
+        - {x: -4, y: -9.5}
+        - {x: 6, y: -9.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 3.5}
+        - {x: 6, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 185
+        width: 15
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -9.5}
+        - {x: -7.5, y: 9.5}
+        - {x: 7.5, y: 9.5}
+        - {x: 7.5, y: -9.5}
+      physicsShape:
+      - - {x: -5.5, y: 9.5}
+        - {x: -7.5, y: 4.5}
+        - {x: -7.5, y: -5.5}
+        - {x: -2.5, y: -9.5}
+        - {x: 3.5, y: -9.5}
+        - {x: 7.5, y: -3.5}
+        - {x: 7.5, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 184
+        width: 14
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -10}
+        - {x: -7, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -10}
+      physicsShape:
+      - - {x: -6, y: 9.999999}
+        - {x: -6, y: -9}
+        - {x: 6, y: -9}
+        - {x: 6, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 185
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -9.5}
+        - {x: -7, y: 9.5}
+        - {x: 7, y: 9.5}
+        - {x: 7, y: -9.5}
+      physicsShape:
+      - - {x: -4, y: 9.5}
+        - {x: -6, y: 6.5}
+        - {x: -6, y: -8.5}
+        - {x: -3, y: -9.5}
+        - {x: 6, y: -9.5}
+        - {x: 7, y: -8.5}
+        - {x: 7, y: 5.5}
+        - {x: 6, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 184
+        width: 14
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -10}
+        - {x: -7, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -10}
+      physicsShape:
+      - - {x: 1, y: 9.999999}
+        - {x: -6, y: 9.999999}
+        - {x: -7, y: 8}
+        - {x: -7, y: -8}
+        - {x: -5, y: -9}
+        - {x: 0, y: -9}
+        - {x: 7, y: -3}
+        - {x: 7, y: 2}
+        - {x: 5, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 185
+        width: 13
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -9.5}
+        - {x: -6.5, y: 9.5}
+        - {x: 6.5, y: 9.5}
+        - {x: 6.5, y: -9.5}
+      physicsShape:
+      - - {x: 3.5, y: 9.5}
+        - {x: -4.5, y: 9.5}
+        - {x: -5.5, y: 7.5}
+        - {x: -5.5, y: -0.5}
+        - {x: -3.5, y: -7.5}
+        - {x: -1.5, y: -9.5}
+        - {x: 1.5, y: -9.5}
+        - {x: 3.5, y: -8.5}
+        - {x: 5.5, y: 5.5}
+        - {x: 5.5, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 185
+        width: 11
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -9.5}
+        - {x: -5.5, y: 9.5}
+        - {x: 5.5, y: 9.5}
+        - {x: 5.5, y: -9.5}
+      physicsShape:
+      - - {x: -3.5, y: 9.5}
+        - {x: -4.5, y: 3.5}
+        - {x: -4.5, y: -9.5}
+        - {x: 2.5, y: -9.5}
+        - {x: 5.5, y: -5.5}
+        - {x: 5.5, y: 8.5}
+        - {x: 3.5, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 186
+        width: 14
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -9}
+        - {x: -7, y: 9}
+        - {x: 7, y: 9}
+        - {x: 7, y: -9}
+      physicsShape:
+      - - {x: -3, y: 9}
+        - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: -4, y: -9}
+        - {x: 5, y: -9}
+        - {x: 7, y: -7}
+        - {x: 7, y: 2}
+        - {x: 5, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 187
+        width: 14
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8.5}
+        - {x: -7, y: 8.5}
+        - {x: 7, y: 8.5}
+        - {x: 7, y: -8.5}
+      physicsShape:
+      - - {x: -7, y: -5.5}
+        - {x: -5, y: -8.5}
+        - {x: 3, y: -8.5}
+        - {x: 7, y: -7.5}
+        - {x: 7, y: 2.5}
+        - {x: 4, y: 8.5}
+        - {x: -2, y: 8.5}
+        - {x: -6, y: 5.5}
+        - {x: -7, y: 0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 184
+        width: 14
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -10}
+        - {x: -7, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -10}
+      physicsShape:
+      - - {x: -2, y: 9.999999}
+        - {x: -7, y: 8}
+        - {x: -7, y: -4}
+        - {x: -5, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 4}
+        - {x: 4, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_33
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 188
+        width: 14
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8.5}
+        - {x: -7, y: 8.5}
+        - {x: 7, y: 8.5}
+        - {x: 7, y: -8.5}
+      physicsShape:
+      - - {x: -1, y: 8.5}
+        - {x: -7, y: 3.5}
+        - {x: -7, y: -4.5}
+        - {x: -6, y: -8.5}
+        - {x: 6, y: -8.5}
+        - {x: 6, y: 5.5}
+        - {x: 4, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_34
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 188
+        width: 14
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8.5}
+        - {x: -7, y: 8.5}
+        - {x: 7, y: 8.5}
+        - {x: 7, y: -8.5}
+      physicsShape:
+      - - {x: -5, y: 8.5}
+        - {x: -7, y: 4.5}
+        - {x: -7, y: -4.5}
+        - {x: -5, y: -8.5}
+        - {x: 6, y: -8.5}
+        - {x: 6, y: 4.5}
+        - {x: 0, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_35
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 210
+        width: 16
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -9.5}
+        - {x: -8, y: 9.5}
+        - {x: 8, y: 9.5}
+        - {x: 8, y: -9.5}
+      physicsShape:
+      - - {x: -3, y: 9.5}
+        - {x: -8, y: 8.5}
+        - {x: -8, y: -1.5}
+        - {x: -1, y: -9.5}
+        - {x: 8, y: -9.5}
+        - {x: 8, y: 7.5}
+        - {x: 6, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 163
+        width: 14
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8.5}
+        - {x: -7, y: 8.5}
+        - {x: 7, y: 8.5}
+        - {x: 7, y: -8.5}
+      physicsShape:
+      - - {x: -2, y: 8.5}
+        - {x: -5, y: 7.5}
+        - {x: -7, y: 4.5}
+        - {x: -7, y: -3.5}
+        - {x: -5, y: -8.5}
+        - {x: 5, y: -8.5}
+        - {x: 7, y: -6.5}
+        - {x: 7, y: 2.5}
+        - {x: 2, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 163
+        width: 14
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8.5}
+        - {x: -7, y: 8.5}
+        - {x: 7, y: 8.5}
+        - {x: 7, y: -8.5}
+      physicsShape:
+      - - {x: -1, y: 8.5}
+        - {x: -7, y: 1.5}
+        - {x: -7, y: -3.5}
+        - {x: -5, y: -8.5}
+        - {x: 3, y: -8.5}
+        - {x: 7, y: -7.5}
+        - {x: 7, y: 2.5}
+        - {x: 3, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_38
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 163
+        width: 14
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8.5}
+        - {x: -7, y: 8.5}
+        - {x: 7, y: 8.5}
+        - {x: 7, y: -8.5}
+      physicsShape:
+      - - {x: -5, y: 8.5}
+        - {x: -7, y: 5.5}
+        - {x: -7, y: -3.5}
+        - {x: -5, y: -8.5}
+        - {x: 3, y: -8.5}
+        - {x: 7, y: -6.5}
+        - {x: 7, y: 6.5}
+        - {x: 2, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_39
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 163
+        width: 14
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8.5}
+        - {x: -7, y: 8.5}
+        - {x: 7, y: 8.5}
+        - {x: 7, y: -8.5}
+      physicsShape:
+      - - {x: -3, y: 8.5}
+        - {x: -6, y: 4.5}
+        - {x: -6, y: -5.5}
+        - {x: -3, y: -8.5}
+        - {x: 5, y: -8.5}
+        - {x: 7, y: -6.5}
+        - {x: 7, y: 2.5}
+        - {x: 1, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_40
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 163
+        width: 14
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8.5}
+        - {x: -7, y: 8.5}
+        - {x: 7, y: 8.5}
+        - {x: 7, y: -8.5}
+      physicsShape:
+      - - {x: -2, y: 8.5}
+        - {x: -6, y: 2.5}
+        - {x: -6, y: -5.5}
+        - {x: -3, y: -8.5}
+        - {x: 5, y: -8.5}
+        - {x: 7, y: -7.5}
+        - {x: 7, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_41
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 163
+        width: 14
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8.5}
+        - {x: -7, y: 8.5}
+        - {x: 7, y: 8.5}
+        - {x: 7, y: -8.5}
+      physicsShape:
+      - - {x: -1, y: 8.5}
+        - {x: -6, y: 5.5}
+        - {x: -6, y: -6.5}
+        - {x: -5, y: -8.5}
+        - {x: 7, y: -8.5}
+        - {x: 7, y: 4.5}
+        - {x: 2, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_42
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 164
+        width: 12
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -8.5}
+        - {x: -6, y: 8.5}
+        - {x: 6, y: 8.5}
+        - {x: 6, y: -8.5}
+      physicsShape:
+      - - {x: 2, y: 8.5}
+        - {x: -3, y: 8.5}
+        - {x: -5, y: 3.5}
+        - {x: -4, y: -7.5}
+        - {x: -2, y: -8.5}
+        - {x: 4, y: -8.5}
+        - {x: 4, y: -6.5}
+        - {x: 6, y: 3.5}
+        - {x: 6, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_43
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 165
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -8.5}
+        - {x: -5.5, y: 8.5}
+        - {x: 5.5, y: 8.5}
+        - {x: 5.5, y: -8.5}
+      physicsShape:
+      - - {x: -2.5, y: 8.5}
+        - {x: -4.5, y: 3.5}
+        - {x: -4.5, y: -4.5}
+        - {x: -3.5, y: -8.5}
+        - {x: 2.5, y: -8.5}
+        - {x: 4.5, y: -7.5}
+        - {x: 4.5, y: 7.5}
+        - {x: 3.5, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_44
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 166
+        width: 22
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -9}
+        - {x: -11, y: 9}
+        - {x: 11, y: 9}
+        - {x: 11, y: -9}
+      physicsShape:
+      - - {x: -9.999999, y: 7}
+        - {x: -11, y: 6}
+        - {x: -11, y: 0}
+        - {x: -9.999999, y: -7}
+        - {x: -8, y: -9}
+        - {x: 8, y: -9}
+        - {x: 11, y: -1}
+        - {x: 11, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_45
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 164
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9.5}
+        - {x: -10, y: 9.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: -9.5}
+      physicsShape:
+      - - {x: -6, y: 9.5}
+        - {x: -9.999999, y: 0.5}
+        - {x: -9.999999, y: -6.5}
+        - {x: 9, y: -6.5}
+        - {x: 9, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_46
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 188
+        width: 14
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -10}
+        - {x: -7, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -10}
+      physicsShape:
+      - - {x: -4, y: 7}
+        - {x: -6, y: 2}
+        - {x: -6, y: -9.999999}
+        - {x: 7, y: -9.999999}
+        - {x: 7, y: 6}
+        - {x: 6, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_47
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 188
+        width: 14
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8.5}
+        - {x: -7, y: 8.5}
+        - {x: 7, y: 8.5}
+        - {x: 7, y: -8.5}
+      physicsShape:
+      - - {x: -1, y: 8.5}
+        - {x: -7, y: -0.5}
+        - {x: -7, y: -4.5}
+        - {x: -3, y: -8.5}
+        - {x: 5, y: -8.5}
+        - {x: 7, y: -7.5}
+        - {x: 7, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 142
+        width: 18
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -8}
+        - {x: -9, y: 8}
+        - {x: 9, y: 8}
+        - {x: 9, y: -8}
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -8, y: 7}
+        - {x: -8, y: 1}
+        - {x: -7, y: -6}
+        - {x: -5, y: -8}
+        - {x: 6, y: -8}
+        - {x: 8, y: -4}
+        - {x: 8, y: 1}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 142
+        width: 17
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -8}
+        - {x: -8.5, y: 8}
+        - {x: 8.5, y: 8}
+        - {x: 8.5, y: -8}
+      physicsShape:
+      - - {x: -7.5, y: 8}
+        - {x: -7.5, y: -6}
+        - {x: -6.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 8.5, y: -4}
+        - {x: 8.5, y: 7}
+        - {x: 7.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_50
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 142
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -7, y: 7}
+        - {x: -7, y: -7}
+        - {x: -4, y: -8}
+        - {x: 6, y: -8}
+        - {x: 7, y: -4}
+        - {x: 7, y: 6}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 142
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 5}
+        - {x: -8, y: -8}
+        - {x: 4, y: -8}
+        - {x: 8, y: -3}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_52
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 142
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape:
+      - - {x: 5, y: 8}
+        - {x: -7, y: 8}
+        - {x: -7, y: -8}
+        - {x: 5, y: -8}
+        - {x: 8, y: -5}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_53
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 142
+        width: 17
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -8}
+        - {x: -8.5, y: 8}
+        - {x: 8.5, y: 8}
+        - {x: 8.5, y: -8}
+      physicsShape:
+      - - {x: -4.5, y: 8}
+        - {x: -7.5, y: 3}
+        - {x: -7.5, y: -3}
+        - {x: -4.5, y: -8}
+        - {x: 7.5, y: -8}
+        - {x: 7.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_54
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 143
+        width: 16
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8.5}
+        - {x: -8, y: 8.5}
+        - {x: 8, y: 8.5}
+        - {x: 8, y: -8.5}
+      physicsShape:
+      - - {x: -7, y: 7.5}
+        - {x: -7, y: -8.5}
+        - {x: 6, y: -8.5}
+        - {x: 7, y: -7.5}
+        - {x: 7, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_55
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 165
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -8.5}
+        - {x: -5, y: 8.5}
+        - {x: 5, y: 8.5}
+        - {x: 5, y: -8.5}
+      physicsShape:
+      - - {x: -4, y: 8.5}
+        - {x: -4, y: -7.5}
+        - {x: -1, y: -8.5}
+        - {x: 3, y: -8.5}
+        - {x: 4, y: -6.5}
+        - {x: 5, y: 4.5}
+        - {x: 2, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_56
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 144
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -1}
+        - {x: -7, y: -7}
+        - {x: -3, y: -8}
+        - {x: 5, y: -8}
+        - {x: 8, y: 4}
+        - {x: 8, y: 7}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_57
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 145
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape:
+      - - {x: -7, y: 8}
+        - {x: -7, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_58
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 167
+        width: 17
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -8}
+        - {x: -8.5, y: 8}
+        - {x: 8.5, y: 8}
+        - {x: 8.5, y: -8}
+      physicsShape:
+      - - {x: 8.5, y: 8}
+        - {x: -8.5, y: 8}
+        - {x: -8.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 8.5, y: -7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_59
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 167
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -8}
+        - {x: -7.5, y: 8}
+        - {x: 7.5, y: 8}
+        - {x: 7.5, y: -8}
+      physicsShape:
+      - - {x: -2.5, y: 8}
+        - {x: -7.5, y: 4}
+        - {x: -7.5, y: -3}
+        - {x: -2.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 7.5, y: -6}
+        - {x: 7.5, y: 7}
+        - {x: 4.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 16
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8.5}
+        - {x: -8, y: 8.5}
+        - {x: 8, y: 8.5}
+        - {x: 8, y: -8.5}
+      physicsShape:
+      - - {x: -5, y: 8.5}
+        - {x: -7, y: 7.5}
+        - {x: -7, y: -7.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 1.5}
+        - {x: 5, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_61
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 121
+        width: 15
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -9.5}
+        - {x: -7.5, y: 9.5}
+        - {x: 7.5, y: 9.5}
+        - {x: 7.5, y: -9.5}
+      physicsShape:
+      - - {x: -7.5, y: 6.5}
+        - {x: -7.5, y: -9.5}
+        - {x: 7.5, y: -9.5}
+        - {x: 7.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_62
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 121
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -8}
+        - {x: -7.5, y: 8}
+        - {x: 7.5, y: 8}
+        - {x: 7.5, y: -8}
+      physicsShape:
+      - - {x: -7.5, y: 8}
+        - {x: -7.5, y: 1}
+        - {x: -3.5, y: -8}
+        - {x: 2.5, y: -8}
+        - {x: 4.5, y: -7}
+        - {x: 7.5, y: 6}
+        - {x: 6.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_63
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 120
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -8.5}
+        - {x: -7.5, y: 8.5}
+        - {x: 7.5, y: 8.5}
+        - {x: 7.5, y: -8.5}
+      physicsShape:
+      - - {x: 0.5, y: 8.5}
+        - {x: -6.5, y: 5.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 7.5, y: -1.5}
+        - {x: 7.5, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_64
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 120
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -8.5}
+        - {x: -7.5, y: 8.5}
+        - {x: 7.5, y: 8.5}
+        - {x: 7.5, y: -8.5}
+      physicsShape:
+      - - {x: -5.5, y: 8.5}
+        - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 5.5, y: -7.5}
+        - {x: 6.5, y: -6.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 1.5, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_65
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 121
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -7, y: 6}
+        - {x: -7, y: -8}
+        - {x: -2, y: -8}
+        - {x: 6, y: -5}
+        - {x: 7, y: -4}
+        - {x: 7, y: 4}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_66
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 121
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -7, y: 6}
+        - {x: -7, y: -6}
+        - {x: -3, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: 7}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_67
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 120
+        width: 14
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -10}
+        - {x: -7, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -10}
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -7, y: 6}
+        - {x: -7, y: -3}
+        - {x: -6, y: -8}
+        - {x: 5, y: -8}
+        - {x: 7, y: -7}
+        - {x: 7, y: 4}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 123
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -7, y: 5}
+        - {x: -7, y: -4}
+        - {x: -5, y: -8}
+        - {x: 5, y: -8}
+        - {x: 7, y: -5}
+        - {x: 7, y: 6}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_69
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 146
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape:
+      - - {x: 6, y: 8}
+        - {x: -7, y: 8}
+        - {x: -7, y: -8}
+        - {x: 5, y: -8}
+        - {x: 7, y: -7}
+        - {x: 7, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_70
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 146
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape:
+      - - {x: 5, y: 8}
+        - {x: -4, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -3}
+        - {x: -6, y: -7}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 7, y: -6}
+        - {x: 8, y: -3}
+        - {x: 8, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_71
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 144
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -9}
+        - {x: -8, y: 9}
+        - {x: 8, y: 9}
+        - {x: 8, y: -9}
+      physicsShape:
+      - - {x: 3, y: 9}
+        - {x: -5, y: 9}
+        - {x: -8, y: 1}
+        - {x: -8, y: -7}
+        - {x: 8, y: -7}
+        - {x: 8, y: 5}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -10}
+        - {x: -10, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: -10}
+      physicsShape:
+      - - {x: -6, y: 9.999999}
+        - {x: -7, y: 9}
+        - {x: -7, y: -3}
+        - {x: -6, y: -5}
+        - {x: 8, y: -5}
+        - {x: 8, y: 4}
+        - {x: 5, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_73
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 116
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -10}
+        - {x: -10, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: -10}
+      physicsShape:
+      - - {x: -7, y: 9.999999}
+        - {x: -7, y: -5}
+        - {x: 8, y: -5}
+        - {x: 8, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_74
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 116
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -10}
+        - {x: -10, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: -10}
+      physicsShape:
+      - - {x: -7, y: 9.999999}
+        - {x: -7, y: 7}
+        - {x: -3, y: -5}
+        - {x: 2, y: -5}
+        - {x: 5, y: -4}
+        - {x: 8, y: 9}
+        - {x: 8, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_75
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 116
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -10}
+        - {x: -10, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: -10}
+      physicsShape:
+      - - {x: -1, y: 9.999999}
+        - {x: -6, y: 6}
+        - {x: -6, y: -2}
+        - {x: -5, y: -5}
+        - {x: 6, y: -5}
+        - {x: 8, y: -4}
+        - {x: 8, y: 8}
+        - {x: 6, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_76
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 116
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -10}
+        - {x: -10, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: -10}
+      physicsShape:
+      - - {x: 4, y: 9.999999}
+        - {x: -5, y: 9.999999}
+        - {x: -6, y: 9}
+        - {x: -6, y: -3}
+        - {x: -5, y: -5}
+        - {x: 6, y: -5}
+        - {x: 7, y: -3}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_77
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 116
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -10}
+        - {x: -10, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: -10}
+      physicsShape:
+      - - {x: -7, y: 9.999999}
+        - {x: -7, y: -5}
+        - {x: 0, y: -5}
+        - {x: 6, y: -3}
+        - {x: 7, y: 2}
+        - {x: 7, y: 8}
+        - {x: 5, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_78
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 116
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -10}
+        - {x: -10, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: -10}
+      physicsShape:
+      - - {x: -8, y: 9.999999}
+        - {x: -8, y: -3}
+        - {x: -4, y: -5}
+        - {x: 5, y: -5}
+        - {x: 5, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_79
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 101
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -7, y: 6}
+        - {x: -7, y: -6}
+        - {x: -5, y: -8}
+        - {x: 3, y: -8}
+        - {x: 6, y: -5}
+        - {x: 6, y: 5}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_80
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 124
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -6, y: 4}
+        - {x: -4, y: 2}
+        - {x: -6, y: -2}
+        - {x: -6, y: -6}
+        - {x: -5, y: -8}
+        - {x: 7, y: -8}
+        - {x: 7, y: 2}
+        - {x: 5, y: 8}
+        - {x: -6, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_81
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 125
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -7, y: 8}
+        - {x: -7, y: -8}
+        - {x: 3, y: -8}
+        - {x: 7, y: -7}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_82
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 125
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -6, y: 7}
+        - {x: -6, y: -4}
+        - {x: -5, y: -7}
+        - {x: 0, y: -8}
+        - {x: 6, y: -8}
+        - {x: 7, y: -5}
+        - {x: 7, y: 0}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_83
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 125
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -7, y: 2}
+        - {x: -7, y: -8}
+        - {x: 4, y: -8}
+        - {x: 7, y: -4}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -7, y: 6}
+        - {x: -7, y: -3}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 7, y: -7}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_85
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 100
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -4}
+        - {x: -5, y: -8}
+        - {x: 3, y: -8}
+        - {x: 5, y: -7}
+        - {x: 6, y: 3}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_86
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 100
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -7, y: -4}
+        - {x: -5, y: -8}
+        - {x: 3, y: -8}
+        - {x: 7, y: -7}
+        - {x: 7, y: 6}
+        - {x: 6, y: 8}
+        - {x: -5, y: 8}
+        - {x: -7, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_87
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 100
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -7, y: 8}
+        - {x: -7, y: -8}
+        - {x: 4, y: -8}
+        - {x: 7, y: -6}
+        - {x: 7, y: 4}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_88
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 100
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -6, y: 6}
+        - {x: -6, y: -8}
+        - {x: 7, y: -8}
+        - {x: 7, y: 5}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_89
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 100
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: 3, y: 8}
+        - {x: -5, y: 8}
+        - {x: -7, y: 4}
+        - {x: -7, y: -7}
+        - {x: -4, y: -8}
+        - {x: 6, y: -8}
+        - {x: 7, y: -7}
+        - {x: 7, y: 2}
+        - {x: 6, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_90
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 100
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -6, y: 6}
+        - {x: -6, y: -5}
+        - {x: -3, y: -8}
+        - {x: 5, y: -8}
+        - {x: 7, y: -6}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_91
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 100
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: 7, y: -8}
+        - {x: 7, y: 4}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_92
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 102
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -6, y: 4}
+        - {x: -6, y: -4}
+        - {x: -2, y: -8}
+        - {x: 5, y: -8}
+        - {x: 7, y: -7}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 103
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: 6, y: 8}
+        - {x: -7, y: 8}
+        - {x: -7, y: -7}
+        - {x: -6, y: -8}
+        - {x: 1, y: -8}
+        - {x: 7, y: -3}
+        - {x: 7, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_94
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 104
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: 4, y: -8}
+        - {x: 7, y: -6}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_95
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 104
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: 1, y: 8}
+        - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: 7, y: -8}
+        - {x: 7, y: 4}
+        - {x: 5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 79
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -7}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 7, y: -6}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_97
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 79
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -6, y: -5}
+        - {x: -5, y: -8}
+        - {x: 7, y: -8}
+        - {x: 7, y: 8}
+        - {x: 2, y: 8}
+        - {x: -6, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_98
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -9.5}
+        - {x: -7, y: 9.5}
+        - {x: 7, y: 9.5}
+        - {x: 7, y: -9.5}
+      physicsShape:
+      - - {x: -7, y: 9.5}
+        - {x: -7, y: -0.5}
+        - {x: -6, y: -6.5}
+        - {x: 5, y: -6.5}
+        - {x: 7, y: -0.5}
+        - {x: 7, y: 8.5}
+        - {x: 6, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_99
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 79
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -7, y: 7}
+        - {x: -7, y: -7}
+        - {x: -5, y: -8}
+        - {x: 5, y: -8}
+        - {x: 7, y: -5}
+        - {x: 7, y: 5}
+        - {x: 2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_100
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 79
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -7, y: 6}
+        - {x: -7, y: -7}
+        - {x: -5, y: -8}
+        - {x: 7, y: -8}
+        - {x: 7, y: 8}
+        - {x: -5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_101
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 79
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: 1, y: 8}
+        - {x: -6, y: 8}
+        - {x: -7, y: 6}
+        - {x: -7, y: -7}
+        - {x: -5, y: -8}
+        - {x: 2, y: -8}
+        - {x: 7, y: -3}
+        - {x: 7, y: 1}
+        - {x: 4, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_102
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 79
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -6, y: -5}
+        - {x: -4, y: -8}
+        - {x: 7, y: -8}
+        - {x: 7, y: 4}
+        - {x: 6, y: 8}
+        - {x: -3, y: 8}
+        - {x: -6, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_103
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 79
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -4, y: -8}
+        - {x: 5, y: -8}
+        - {x: 7, y: -7}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_104
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 80
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -8}
+        - {x: -6.5, y: 8}
+        - {x: 6.5, y: 8}
+        - {x: 6.5, y: -8}
+      physicsShape:
+      - - {x: 3.5, y: 8}
+        - {x: -4.5, y: 8}
+        - {x: -5.5, y: 6}
+        - {x: -5.5, y: -4}
+        - {x: -4.5, y: -7}
+        - {x: -2.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 4.5, y: -6}
+        - {x: 5.5, y: 4}
+        - {x: 5.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_105
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 80
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -8}
+        - {x: -6.5, y: 8}
+        - {x: 6.5, y: 8}
+        - {x: 6.5, y: -8}
+      physicsShape:
+      - - {x: 4.5, y: 8}
+        - {x: -6.5, y: 8}
+        - {x: -6.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 6.5, y: -6}
+        - {x: 6.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_106
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 81
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -8}
+        - {x: -6.5, y: 8}
+        - {x: 6.5, y: 8}
+        - {x: 6.5, y: -8}
+      physicsShape:
+      - - {x: -5.5, y: -7}
+        - {x: -2.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 6.5, y: 8}
+        - {x: -5.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_107
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 82
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -8}
+        - {x: -6.5, y: 8}
+        - {x: 6.5, y: 8}
+        - {x: 6.5, y: -8}
+      physicsShape:
+      - - {x: -3.5, y: 8}
+        - {x: -5.5, y: 5}
+        - {x: -5.5, y: -7}
+        - {x: -3.5, y: -8}
+        - {x: 3.5, y: -8}
+        - {x: 6.5, y: -5}
+        - {x: 6.5, y: 6}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_108
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 58
+        width: 12
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -8}
+        - {x: -6, y: 8}
+        - {x: 6, y: 8}
+        - {x: 6, y: -8}
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -5, y: 7}
+        - {x: -5, y: 1}
+        - {x: -4, y: -6}
+        - {x: -3, y: -8}
+        - {x: 2, y: -8}
+        - {x: 5, y: -7}
+        - {x: 6, y: -6}
+        - {x: 6, y: 5}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_109
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 40
+        width: 16
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -17}
+        - {x: -8, y: 17}
+        - {x: 8, y: 17}
+        - {x: 8, y: -17}
+      physicsShape:
+      - - {x: -3, y: -4}
+        - {x: -6, y: -5}
+        - {x: -6, y: -16}
+        - {x: -4, y: -17}
+        - {x: 7, y: -17}
+        - {x: 7, y: -4}
+      - - {x: 2, y: 17}
+        - {x: -4, y: 17}
+        - {x: -7, y: 15}
+        - {x: -7, y: 6}
+        - {x: -6, y: 1}
+        - {x: 2, y: 1}
+        - {x: 4, y: 6}
+        - {x: 4, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_110
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 58
+        width: 11
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -8}
+        - {x: -5.5, y: 8}
+        - {x: 5.5, y: 8}
+        - {x: 5.5, y: -8}
+      physicsShape:
+      - - {x: -3.5, y: -7}
+        - {x: -2.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 4.5, y: 8}
+        - {x: -5.5, y: 8}
+        - {x: -5.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_111
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 58
+        width: 11
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -8}
+        - {x: -5.5, y: 8}
+        - {x: 5.5, y: 8}
+        - {x: 5.5, y: -8}
+      physicsShape:
+      - - {x: 4.5, y: 8}
+        - {x: -5.5, y: 8}
+        - {x: -5.5, y: -7}
+        - {x: -3.5, y: -8}
+        - {x: 2.5, y: -8}
+        - {x: 4.5, y: -7}
+        - {x: 5.5, y: -4}
+        - {x: 5.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_112
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 58
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -8}
+        - {x: -5, y: 8}
+        - {x: 5, y: 8}
+        - {x: 5, y: -8}
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -4, y: -7}
+        - {x: -1, y: -8}
+        - {x: 3, y: -8}
+        - {x: 5, y: -6}
+        - {x: 5, y: 6}
+        - {x: 4, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_113
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 58
+        width: 9
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -8}
+        - {x: -4.5, y: 8}
+        - {x: 4.5, y: 8}
+        - {x: 4.5, y: -8}
+      physicsShape:
+      - - {x: 1.5, y: 8}
+        - {x: -2.5, y: 8}
+        - {x: -3.5, y: 6}
+        - {x: -3.5, y: -7}
+        - {x: -1.5, y: -8}
+        - {x: 2.5, y: -8}
+        - {x: 3.5, y: -6}
+        - {x: 3.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_114
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 59
+        width: 13
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -7.5}
+        - {x: -6.5, y: 7.5}
+        - {x: 6.5, y: 7.5}
+        - {x: 6.5, y: -7.5}
+      physicsShape:
+      - - {x: 3.5, y: 7.5}
+        - {x: -2.5, y: 7.5}
+        - {x: -5.5, y: 6.5}
+        - {x: -5.5, y: -4.5}
+        - {x: -3.5, y: -7.5}
+        - {x: 4.5, y: -7.5}
+        - {x: 5.5, y: -5.5}
+        - {x: 5.5, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_115
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 61
+        width: 20
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -6.5}
+        - {x: -10, y: 6.5}
+        - {x: 10, y: 6.5}
+        - {x: 10, y: -6.5}
+      physicsShape:
+      - - {x: -5, y: 6.5}
+        - {x: -9.999999, y: 5.5}
+        - {x: -9.999999, y: -2.5}
+        - {x: -8, y: -6.5}
+        - {x: 9, y: -6.5}
+        - {x: 9.999999, y: -5.5}
+        - {x: 9.999999, y: 4.5}
+        - {x: 9, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_116
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 62
+        width: 19
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -6.5}
+        - {x: -9.5, y: 6.5}
+        - {x: 9.5, y: 6.5}
+        - {x: 9.5, y: -6.5}
+      physicsShape:
+      - - {x: 6.5, y: 6.5}
+        - {x: -7.5, y: 6.5}
+        - {x: -9.5, y: 4.5}
+        - {x: -9.5, y: -4.5}
+        - {x: -8.5, y: -6.5}
+        - {x: 7.5, y: -6.5}
+        - {x: 9.5, y: -4.5}
+        - {x: 9.5, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_117
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 62
+        width: 18
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -6.5}
+        - {x: -9, y: 6.5}
+        - {x: 9, y: 6.5}
+        - {x: 9, y: -6.5}
+      physicsShape:
+      - - {x: -7, y: 6.5}
+        - {x: -9, y: 5.5}
+        - {x: -9, y: -5.5}
+        - {x: -6, y: -6.5}
+        - {x: 8, y: -6.5}
+        - {x: 9, y: -4.5}
+        - {x: 9, y: 4.5}
+        - {x: 8, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_118
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 63
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -6.5}
+        - {x: -7, y: 6.5}
+        - {x: 7, y: 6.5}
+        - {x: 7, y: -6.5}
+      physicsShape:
+      - - {x: -6, y: 6.5}
+        - {x: -7, y: 2.5}
+        - {x: -7, y: -2.5}
+        - {x: -3, y: -6.5}
+        - {x: 4, y: -6.5}
+        - {x: 7, y: -2.5}
+        - {x: 7, y: 5.5}
+        - {x: 4, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_119
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 64
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -6.5}
+        - {x: -7, y: 6.5}
+        - {x: 7, y: 6.5}
+        - {x: 7, y: -6.5}
+      physicsShape:
+      - - {x: -6, y: -5.5}
+        - {x: -5, y: -6.5}
+        - {x: 7, y: -6.5}
+        - {x: 7, y: 6.5}
+        - {x: -6, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -6.5}
+        - {x: -7, y: 6.5}
+        - {x: 7, y: 6.5}
+        - {x: 7, y: -6.5}
+      physicsShape:
+      - - {x: -4, y: 6.5}
+        - {x: -6, y: 4.5}
+        - {x: -6, y: -4.5}
+        - {x: -5, y: -6.5}
+        - {x: 6, y: -6.5}
+        - {x: 7, y: -4.5}
+        - {x: 7, y: 3.5}
+        - {x: 4, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_121
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 36
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -10}
+        - {x: -10, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: -10}
+      physicsShape:
+      - - {x: -6, y: 7}
+        - {x: -9, y: 6}
+        - {x: -9, y: -5}
+        - {x: -6, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 6}
+        - {x: 3, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_122
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -6.5}
+        - {x: -7, y: 6.5}
+        - {x: 7, y: 6.5}
+        - {x: 7, y: -6.5}
+      physicsShape:
+      - - {x: -2, y: 6.5}
+        - {x: -6, y: 2.5}
+        - {x: -6, y: -3.5}
+        - {x: -3, y: -6.5}
+        - {x: 7, y: -6.5}
+        - {x: 7, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_123
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 40
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -6.5}
+        - {x: -7, y: 6.5}
+        - {x: 7, y: 6.5}
+        - {x: 7, y: -6.5}
+      physicsShape:
+      - - {x: -3, y: 6.5}
+        - {x: -7, y: 2.5}
+        - {x: -7, y: -2.5}
+        - {x: -4, y: -6.5}
+        - {x: 3, y: -6.5}
+        - {x: 7, y: -2.5}
+        - {x: 7, y: 4.5}
+        - {x: 5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_124
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 40
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -6.5}
+        - {x: -6.5, y: 6.5}
+        - {x: 6.5, y: 6.5}
+        - {x: 6.5, y: -6.5}
+      physicsShape:
+      - - {x: -6.5, y: 6.5}
+        - {x: -6.5, y: -4.5}
+        - {x: -5.5, y: -6.5}
+        - {x: 3.5, y: -6.5}
+        - {x: 5.5, y: -5.5}
+        - {x: 5.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_125
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -6.5}
+        - {x: -6.5, y: 6.5}
+        - {x: 6.5, y: 6.5}
+        - {x: 6.5, y: -6.5}
+      physicsShape:
+      - - {x: -2.5, y: 6.5}
+        - {x: -6.5, y: 3.5}
+        - {x: -6.5, y: -2.5}
+        - {x: -5.5, y: -6.5}
+        - {x: 5.5, y: -6.5}
+        - {x: 5.5, y: 4.5}
+        - {x: 4.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_126
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 41
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -6.5}
+        - {x: -7, y: 6.5}
+        - {x: 7, y: 6.5}
+        - {x: 7, y: -6.5}
+      physicsShape:
+      - - {x: -7, y: 6.5}
+        - {x: -7, y: -6.5}
+        - {x: 3, y: -6.5}
+        - {x: 6, y: -5.5}
+        - {x: 6, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_127
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 40
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -8}
+        - {x: -6.5, y: 8}
+        - {x: 6.5, y: 8}
+        - {x: 6.5, y: -8}
+      physicsShape:
+      - - {x: -2.5, y: 8}
+        - {x: -6.5, y: 4}
+        - {x: -6.5, y: -3}
+        - {x: -4.5, y: -5}
+        - {x: 2.5, y: -5}
+        - {x: 5.5, y: -3}
+        - {x: 5.5, y: 7}
+        - {x: 3.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_128
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 43
+        width: 12
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -6.5}
+        - {x: -6, y: 6.5}
+        - {x: 6, y: 6.5}
+        - {x: 6, y: -6.5}
+      physicsShape:
+      - - {x: 3, y: 6.5}
+        - {x: -3, y: 6.5}
+        - {x: -5, y: 4.5}
+        - {x: -5, y: -4.5}
+        - {x: -3, y: -6.5}
+        - {x: 2, y: -6.5}
+        - {x: 5, y: -0.5}
+        - {x: 5, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_129
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 47
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -5}
+        - {x: -6, y: 5}
+        - {x: 6, y: 5}
+        - {x: 6, y: -5}
+      physicsShape:
+      - - {x: -6, y: 3}
+        - {x: -6, y: -4}
+        - {x: -5, y: -5}
+        - {x: 4, y: -5}
+        - {x: 6, y: -4}
+        - {x: 6, y: 2}
+        - {x: 3, y: 5}
+        - {x: -3, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_130
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 50
+        width: 9
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -3.5}
+        - {x: -4.5, y: 3.5}
+        - {x: 4.5, y: 3.5}
+        - {x: 4.5, y: -3.5}
+      physicsShape:
+      - - {x: -2.5, y: 3.5}
+        - {x: -3.5, y: 1.5}
+        - {x: -3.5, y: -2.5}
+        - {x: -1.5, y: -3.5}
+        - {x: 1.5, y: -3.5}
+        - {x: 3.5, y: -1.5}
+        - {x: 3.5, y: 1.5}
+        - {x: 1.5, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_131
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 52
+        width: 9
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -3}
+        - {x: -4.5, y: 3}
+        - {x: 4.5, y: 3}
+        - {x: 4.5, y: -3}
+      physicsShape:
+      - - {x: -1.5, y: 3}
+        - {x: -3.5, y: 2}
+        - {x: -3.5, y: -1}
+        - {x: -2.5, y: -3}
+        - {x: 1.5, y: -3}
+        - {x: 3.5, y: -1}
+        - {x: 3.5, y: 1}
+        - {x: 1.5, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_132
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 83
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -8}
+        - {x: -6.5, y: 8}
+        - {x: 6.5, y: 8}
+        - {x: 6.5, y: -8}
+      physicsShape:
+      - - {x: -3.5, y: 8}
+        - {x: -6.5, y: 7}
+        - {x: -6.5, y: -5}
+        - {x: -5.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 5.5, y: -3}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_133
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 83
+        width: 9
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -8}
+        - {x: -4.5, y: 8}
+        - {x: 4.5, y: 8}
+        - {x: 4.5, y: -8}
+      physicsShape:
+      - - {x: 1.5, y: 8}
+        - {x: -2.5, y: 8}
+        - {x: -3.5, y: 6}
+        - {x: -3.5, y: -7}
+        - {x: -1.5, y: -8}
+        - {x: 2.5, y: -8}
+        - {x: 3.5, y: -6}
+        - {x: 3.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_134
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 58
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -8}
+        - {x: -5, y: 8}
+        - {x: 5, y: 8}
+        - {x: 5, y: -8}
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -4, y: -8}
+        - {x: 4, y: -8}
+        - {x: 4, y: 7}
+        - {x: 2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_135
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 65
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -6.5}
+        - {x: -6.5, y: 6.5}
+        - {x: 6.5, y: 6.5}
+        - {x: 6.5, y: -6.5}
+      physicsShape:
+      - - {x: -6.5, y: 6.5}
+        - {x: -6.5, y: 0.5}
+        - {x: -3.5, y: -6.5}
+        - {x: 2.5, y: -6.5}
+        - {x: 5.5, y: -5.5}
+        - {x: 6.5, y: -0.5}
+        - {x: 6.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SansaSoft_Bold_XP_136
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 45
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -6}
+        - {x: -6, y: 6}
+        - {x: 6, y: 6}
+        - {x: 6, y: -6}
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -6, y: 4}
+        - {x: -6, y: -1}
+        - {x: -3, y: -6}
+        - {x: 3, y: -6}
+        - {x: 6, y: -3}
+        - {x: 6, y: 1}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SansaSoft_Bold_XP_103: 21300206
+      SansaSoft_Bold_XP_17: 21300034
+      SansaSoft_Bold_XP_114: 21300228
+      SansaSoft_Bold_XP_27: 21300054
+      SansaSoft_Bold_XP_122: 21300244
+      SansaSoft_Bold_XP_31: 21300062
+      SansaSoft_Bold_XP_104: 21300208
+      SansaSoft_Bold_XP_72: 21300144
+      SansaSoft_Bold_XP_56: 21300112
+      SansaSoft_Bold_XP_101: 21300202
+      SansaSoft_Bold_XP_83: 21300166
+      SansaSoft_Bold_XP_96: 21300192
+      SansaSoft_Bold_XP_41: 21300082
+      SansaSoft_Bold_XP_133: 21300266
+      SansaSoft_Bold_XP_16: 21300032
+      SansaSoft_Bold_XP_78: 21300156
+      SansaSoft_Bold_XP_20: 21300040
+      SansaSoft_Bold_XP_108: 21300216
+      SansaSoft_Bold_XP_105: 21300210
+      SansaSoft_Bold_XP_80: 21300160
+      SansaSoft_Bold_XP_36: 21300072
+      SansaSoft_Bold_XP_134: 21300268
+      SansaSoft_Bold_XP_51: 21300102
+      SansaSoft_Bold_XP_116: 21300232
+      SansaSoft_Bold_XP_19: 21300038
+      SansaSoft_Bold_XP_70: 21300140
+      SansaSoft_Bold_XP_30: 21300060
+      SansaSoft_Bold_XP_81: 21300162
+      SansaSoft_Bold_XP_62: 21300124
+      SansaSoft_Bold_XP_57: 21300114
+      SansaSoft_Bold_XP_76: 21300152
+      SansaSoft_Bold_XP_126: 21300252
+      SansaSoft_Bold_XP_68: 21300136
+      SansaSoft_Bold_XP_64: 21300128
+      SansaSoft_Bold_XP_123: 21300246
+      SansaSoft_Bold_XP_0: 21300000
+      SansaSoft_Bold_XP_106: 21300212
+      SansaSoft_Bold_XP_22: 21300044
+      SansaSoft_Bold_XP_86: 21300172
+      SansaSoft_Bold_XP_94: 21300188
+      SansaSoft_Bold_XP_125: 21300250
+      SansaSoft_Bold_XP_100: 21300200
+      SansaSoft_Bold_XP_32: 21300064
+      SansaSoft_Bold_XP_48: 21300096
+      SansaSoft_Bold_XP_115: 21300230
+      SansaSoft_Bold_XP_92: 21300184
+      SansaSoft_Bold_XP_132: 21300264
+      SansaSoft_Bold_XP_95: 21300190
+      SansaSoft_Bold_XP_112: 21300224
+      SansaSoft_Bold_XP_75: 21300150
+      SansaSoft_Bold_XP_59: 21300118
+      SansaSoft_Bold_XP_50: 21300100
+      SansaSoft_Bold_XP_14: 21300028
+      SansaSoft_Bold_XP_135: 21300270
+      SansaSoft_Bold_XP_8: 21300016
+      SansaSoft_Bold_XP_26: 21300052
+      SansaSoft_Bold_XP_71: 21300142
+      SansaSoft_Bold_XP_47: 21300094
+      SansaSoft_Bold_XP_79: 21300158
+      SansaSoft_Bold_XP_9: 21300018
+      SansaSoft_Bold_XP_29: 21300058
+      SansaSoft_Bold_XP_55: 21300110
+      SansaSoft_Bold_XP_34: 21300068
+      SansaSoft_Bold_XP_24: 21300048
+      SansaSoft_Bold_XP_58: 21300116
+      SansaSoft_Bold_XP_10: 21300020
+      SansaSoft_Bold_XP_77: 21300154
+      SansaSoft_Bold_XP_107: 21300214
+      SansaSoft_Bold_XP_117: 21300234
+      SansaSoft_Bold_XP_73: 21300146
+      SansaSoft_Bold_XP_102: 21300204
+      SansaSoft_Bold_XP_85: 21300170
+      SansaSoft_Bold_XP_11: 21300022
+      SansaSoft_Bold_XP_98: 21300196
+      SansaSoft_Bold_XP_1: 21300002
+      SansaSoft_Bold_XP_21: 21300042
+      SansaSoft_Bold_XP_61: 21300122
+      SansaSoft_Bold_XP_113: 21300226
+      SansaSoft_Bold_XP_7: 21300014
+      SansaSoft_Bold_XP_119: 21300238
+      SansaSoft_Bold_XP_131: 21300262
+      SansaSoft_Bold_XP_89: 21300178
+      SansaSoft_Bold_XP_37: 21300074
+      SansaSoft_Bold_XP_121: 21300242
+      SansaSoft_Bold_XP_54: 21300108
+      SansaSoft_Bold_XP_23: 21300046
+      SansaSoft_Bold_XP_46: 21300092
+      SansaSoft_Bold_XP_128: 21300256
+      SansaSoft_Bold_XP_74: 21300148
+      SansaSoft_Bold_XP_82: 21300164
+      SansaSoft_Bold_XP_15: 21300030
+      SansaSoft_Bold_XP_127: 21300254
+      SansaSoft_Bold_XP_136: 21300272
+      SansaSoft_Bold_XP_67: 21300134
+      SansaSoft_Bold_XP_33: 21300066
+      SansaSoft_Bold_XP_52: 21300104
+      SansaSoft_Bold_XP_39: 21300078
+      SansaSoft_Bold_XP_49: 21300098
+      SansaSoft_Bold_XP_87: 21300174
+      SansaSoft_Bold_XP_18: 21300036
+      SansaSoft_Bold_XP_25: 21300050
+      SansaSoft_Bold_XP_63: 21300126
+      SansaSoft_Bold_XP_43: 21300086
+      SansaSoft_Bold_XP_69: 21300138
+      SansaSoft_Bold_XP_5: 21300010
+      SansaSoft_Bold_XP_130: 21300260
+      SansaSoft_Bold_XP_97: 21300194
+      SansaSoft_Bold_XP_110: 21300220
+      SansaSoft_Bold_XP_129: 21300258
+      SansaSoft_Bold_XP_12: 21300024
+      SansaSoft_Bold_XP_40: 21300080
+      SansaSoft_Bold_XP_45: 21300090
+      SansaSoft_Bold_XP_90: 21300180
+      SansaSoft_Bold_XP_3: 21300006
+      SansaSoft_Bold_XP_4: 21300008
+      SansaSoft_Bold_XP_6: 21300012
+      SansaSoft_Bold_XP_109: 21300218
+      SansaSoft_Bold_XP_65: 21300130
+      SansaSoft_Bold_XP_111: 21300222
+      SansaSoft_Bold_XP_84: 21300168
+      SansaSoft_Bold_XP_60: 21300120
+      SansaSoft_Bold_XP_13: 21300026
+      SansaSoft_Bold_XP_66: 21300132
+      SansaSoft_Bold_XP_88: 21300176
+      SansaSoft_Bold_XP_42: 21300084
+      SansaSoft_Bold_XP_35: 21300070
+      SansaSoft_Bold_XP_38: 21300076
+      SansaSoft_Bold_XP_93: 21300186
+      SansaSoft_Bold_XP_53: 21300106
+      SansaSoft_Bold_XP_28: 21300056
+      SansaSoft_Bold_XP_124: 21300248
+      SansaSoft_Bold_XP_99: 21300198
+      SansaSoft_Bold_XP_120: 21300240
+      SansaSoft_Bold_XP_118: 21300236
+      SansaSoft_Bold_XP_91: 21300182
+      SansaSoft_Bold_XP_2: 21300004
+      SansaSoft_Bold_XP_44: 21300088
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,900 @@
+fileFormatVersion: 2
+guid: 99a6aa52c4e74f14a938748d1693e4a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UIAbilityBar2_0
+  - first:
+      213: 21300002
+    second: UIAbilityBar2_1
+  - first:
+      213: 21300004
+    second: UIAbilityBar2_2
+  - first:
+      213: 21300006
+    second: UIAbilityBar2_3
+  - first:
+      213: 21300008
+    second: UIAbilityBar2_4
+  - first:
+      213: 21300010
+    second: UIAbilityBar2_5
+  - first:
+      213: 21300012
+    second: UIAbilityBar2_6
+  - first:
+      213: 21300014
+    second: UIAbilityBar2_7
+  - first:
+      213: 21300016
+    second: UIAbilityBar2_8
+  - first:
+      213: 21300018
+    second: UIAbilityBar2_9
+  - first:
+      213: 21300020
+    second: UIAbilityBar2_11
+  - first:
+      213: 21300022
+    second: UIAbilityBar2_14
+  - first:
+      213: 21300024
+    second: UIAbilityBar2_15
+  - first:
+      213: 21300026
+    second: UIAbilityBar2_22
+  - first:
+      213: 21300028
+    second: UIAbilityBar2_25
+  - first:
+      213: 21300030
+    second: UIAbilityBar2_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UIAbilityBar2_0
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 983
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -18}
+        - {x: -11, y: 18}
+        - {x: 11, y: 18}
+        - {x: 11, y: -18}
+      physicsShape:
+      - - {x: -9.999999, y: 18}
+        - {x: -11, y: 14}
+        - {x: -11, y: -18}
+        - {x: 11, y: -18}
+        - {x: 11, y: 16}
+        - {x: 8, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIAbilityBar2_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 660
+        width: 248
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 51}
+        - {x: -22, y: -65}
+        - {x: 42, y: -53}
+        - {x: 69, y: -8}
+        - {x: 53, y: 41}
+      physicsShape:
+      - - {x: 69, y: -76}
+        - {x: 84, y: -61}
+        - {x: 93, y: -47}
+        - {x: 101, y: -26}
+        - {x: 103, y: -16}
+        - {x: 103, y: 14}
+        - {x: 100, y: 28}
+        - {x: 90, y: 49}
+        - {x: 84, y: 58}
+        - {x: 66, y: 77}
+        - {x: 53, y: 87}
+        - {x: 26, y: 97.99999}
+        - {x: 15, y: 98.99999}
+        - {x: 8, y: 100}
+        - {x: -9.999999, y: 100}
+        - {x: -26, y: 97.99999}
+        - {x: -39, y: 94}
+        - {x: -57, y: 85}
+        - {x: -79.99999, y: 65}
+        - {x: -91, y: 50}
+        - {x: -96, y: 37}
+        - {x: -103, y: 23}
+        - {x: -103, y: -17}
+        - {x: -102, y: -19}
+        - {x: -96, y: -42}
+        - {x: -89, y: -53}
+        - {x: -82, y: -63}
+        - {x: -62, y: -83}
+        - {x: -53, y: -89}
+        - {x: -29, y: -98.99999}
+        - {x: -14, y: -101}
+        - {x: 13, y: -101}
+        - {x: 28, y: -97.99999}
+        - {x: 40, y: -95}
+        - {x: 60, y: -83}
+      - - {x: -28, y: -85}
+        - {x: -49, y: -75}
+        - {x: -70, y: -57}
+        - {x: -77, y: -46}
+        - {x: -84, y: -33}
+        - {x: -85, y: -28}
+        - {x: -90, y: -7}
+        - {x: -90, y: 6}
+        - {x: -83, y: 34}
+        - {x: -71, y: 54}
+        - {x: -58, y: 66.99999}
+        - {x: -48, y: 74}
+        - {x: -30, y: 82}
+        - {x: -12, y: 85.99999}
+        - {x: 9.999999, y: 87}
+        - {x: 9.999999, y: 85.99999}
+        - {x: 26, y: 83}
+        - {x: 46, y: 74}
+        - {x: 61, y: 64}
+        - {x: 75, y: 48}
+        - {x: 82, y: 35}
+        - {x: 89, y: 9.999999}
+        - {x: 89, y: -12}
+        - {x: 84, y: -34}
+        - {x: 71, y: -55}
+        - {x: 57, y: -69}
+        - {x: 36, y: -81}
+        - {x: 7, y: -88}
+        - {x: -7, y: -88}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIAbilityBar2_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 660
+        width: 248
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 51}
+        - {x: -22, y: -65}
+        - {x: 42, y: -53}
+        - {x: 69, y: -8}
+        - {x: 53, y: 41}
+      physicsShape:
+      - - {x: 69, y: -76}
+        - {x: 84, y: -61}
+        - {x: 93, y: -47}
+        - {x: 101, y: -26}
+        - {x: 103, y: -16}
+        - {x: 103, y: 14}
+        - {x: 100, y: 28}
+        - {x: 90, y: 49}
+        - {x: 84, y: 58}
+        - {x: 66, y: 77}
+        - {x: 53, y: 87}
+        - {x: 26, y: 97.99999}
+        - {x: 15, y: 98.99999}
+        - {x: 8, y: 100}
+        - {x: -9.999999, y: 100}
+        - {x: -26, y: 97.99999}
+        - {x: -39, y: 94}
+        - {x: -57, y: 85}
+        - {x: -79.99999, y: 65}
+        - {x: -91, y: 50}
+        - {x: -96, y: 37}
+        - {x: -103, y: 23}
+        - {x: -103, y: -17}
+        - {x: -102, y: -19}
+        - {x: -96, y: -42}
+        - {x: -89, y: -53}
+        - {x: -82, y: -63}
+        - {x: -62, y: -83}
+        - {x: -53, y: -89}
+        - {x: -29, y: -98.99999}
+        - {x: -14, y: -101}
+        - {x: 13, y: -101}
+        - {x: 28, y: -97.99999}
+        - {x: 40, y: -95}
+        - {x: 60, y: -83}
+      - - {x: -28, y: -85}
+        - {x: -49, y: -75}
+        - {x: -70, y: -57}
+        - {x: -77, y: -46}
+        - {x: -84, y: -33}
+        - {x: -85, y: -28}
+        - {x: -90, y: -7}
+        - {x: -90, y: 6}
+        - {x: -83, y: 34}
+        - {x: -71, y: 54}
+        - {x: -58, y: 66.99999}
+        - {x: -48, y: 74}
+        - {x: -30, y: 82}
+        - {x: -12, y: 85.99999}
+        - {x: 9.999999, y: 87}
+        - {x: 9.999999, y: 85.99999}
+        - {x: 26, y: 83}
+        - {x: 46, y: 74}
+        - {x: 61, y: 64}
+        - {x: 75, y: 48}
+        - {x: 82, y: 35}
+        - {x: 89, y: 9.999999}
+        - {x: 89, y: -12}
+        - {x: 84, y: -34}
+        - {x: 71, y: -55}
+        - {x: 57, y: -69}
+        - {x: 36, y: -81}
+        - {x: 7, y: -88}
+        - {x: -7, y: -88}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIAbilityBar2_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 527
+        width: 120
+        height: 121.9239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5044131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: -60.96194}
+        - {x: -60, y: -51.96194}
+        - {x: -60, y: 53.03806}
+        - {x: -44, y: 61.03806}
+        - {x: 56, y: 61.03806}
+        - {x: 60, y: 45.03806}
+        - {x: 60, y: -49.96194}
+        - {x: 51, y: -60.96194}
+      physicsShape:
+      - - {x: 41, y: 15.03806}
+        - {x: 37, y: 26.03806}
+        - {x: 18, y: 40.03806}
+        - {x: -15, y: 40.03806}
+        - {x: -28, y: 37.03806}
+        - {x: -41, y: 15.03806}
+        - {x: -41, y: -12.96194}
+        - {x: -35, y: -27.96194}
+        - {x: -15, y: -41.96194}
+        - {x: 17, y: -41.96194}
+        - {x: 40, y: -24.96194}
+        - {x: 41, y: -12.96194}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIAbilityBar2_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 527
+        width: 123
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: -62}
+        - {x: -61.5, y: -60}
+        - {x: -61.5, y: 38}
+        - {x: -46.5, y: 62}
+        - {x: 59.5, y: 62}
+        - {x: 61.5, y: 52}
+        - {x: 61.5, y: -58}
+        - {x: 58.5, y: -62}
+      physicsShape:
+      - - {x: 42.5, y: -14}
+        - {x: 42.5, y: 16}
+        - {x: 24.5, y: 38}
+        - {x: 12.5, y: 41}
+        - {x: -13.5, y: 41}
+        - {x: -33.5, y: 26}
+        - {x: -40.5, y: 16}
+        - {x: -40.5, y: -24}
+        - {x: -17.5, y: -42}
+        - {x: 7.5, y: -42}
+        - {x: 18.5, y: -39}
+        - {x: 25.5, y: -35}
+        - {x: 37.5, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIAbilityBar2_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 549
+        width: 100
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -49.5}
+        - {x: -35, y: -49.5}
+        - {x: -50, y: -24.5}
+        - {x: -50, y: 32.5}
+        - {x: -25, y: 49.5}
+        - {x: 27, y: 49.5}
+        - {x: 50, y: 28.5}
+        - {x: 50, y: -26.5}
+        - {x: 48, y: -33.5}
+      physicsShape:
+      - - {x: 50, y: -12.5}
+        - {x: 50, y: 14.5}
+        - {x: 46, y: 27.5}
+        - {x: 26, y: 45.5}
+        - {x: 16, y: 49.5}
+        - {x: -16, y: 49.5}
+        - {x: -30, y: 43.5}
+        - {x: -44, y: 29.5}
+        - {x: -50, y: 16.5}
+        - {x: -50, y: -15.5}
+        - {x: -47, y: -24.5}
+        - {x: -37, y: -37.5}
+        - {x: -21, y: -49.5}
+        - {x: 17, y: -49.5}
+        - {x: 29, y: -42.5}
+        - {x: 39, y: -34.5}
+        - {x: 48, y: -20.5}
+      - - {x: -27, y: -31.5}
+        - {x: -35, y: -22.5}
+        - {x: -41, y: -4.5}
+        - {x: -39, y: 15.5}
+        - {x: -26, y: 32.5}
+        - {x: 3, y: 40.5}
+        - {x: 25, y: 32.5}
+        - {x: 39, y: 13.5}
+        - {x: 40, y: -3.5}
+        - {x: 31, y: -26.5}
+        - {x: 22, y: -34.5}
+        - {x: 9, y: -40.5}
+        - {x: -4, y: -40.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIAbilityBar2_6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 560
+        width: 87
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: -29.5}
+        - {x: -43.5, y: -24.5}
+        - {x: -43.5, y: 25.5}
+        - {x: -26.5, y: 43.5}
+        - {x: 30.5, y: 43.5}
+        - {x: 43.5, y: 35.5}
+        - {x: 43.5, y: -27.5}
+        - {x: 37.5, y: -43.5}
+        - {x: -23.5, y: -43.5}
+      physicsShape:
+      - - {x: 18.5, y: 43.5}
+        - {x: -25.5, y: 43.5}
+        - {x: -43.5, y: 34.5}
+        - {x: -43.5, y: -36.5}
+        - {x: -35.5, y: -43.5}
+        - {x: 26.5, y: -43.5}
+        - {x: 43.5, y: -36.5}
+        - {x: 43.5, y: 23.5}
+        - {x: 29.5, y: 41.5}
+      - - {x: -20.5, y: -25.5}
+        - {x: -30.5, y: -10.5}
+        - {x: -25.5, y: 20.5}
+        - {x: -10.5, y: 31.5}
+        - {x: 5.5, y: 31.5}
+        - {x: 20.5, y: 25.5}
+        - {x: 31.5, y: 7.5}
+        - {x: 30.5, y: -10.5}
+        - {x: 20.5, y: -25.5}
+        - {x: 6.5, y: -31.5}
+        - {x: -5.5, y: -31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIAbilityBar2_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 613
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -17}
+        - {x: -18, y: -17}
+        - {x: -18, y: -11}
+        - {x: -12, y: -3}
+        - {x: -18, y: 1}
+        - {x: -18, y: 16}
+        - {x: -17, y: 17}
+        - {x: 18, y: 17}
+      physicsShape:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIAbilityBar2_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 572
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -17}
+        - {x: -17, y: -17}
+        - {x: -17, y: 16}
+        - {x: -16, y: 17}
+        - {x: 17, y: 17}
+        - {x: 17, y: -16}
+      physicsShape:
+      - - {x: -14, y: 17}
+        - {x: -17, y: 14}
+        - {x: -17, y: -16}
+        - {x: 8, y: -16}
+        - {x: 17, y: -9}
+        - {x: 17, y: 12}
+        - {x: 16, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIAbilityBar2_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 457
+        width: 61
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -30.5}
+        - {x: -30.5, y: -30.5}
+        - {x: -30.5, y: 30.5}
+        - {x: 30.5, y: 30.5}
+      physicsShape:
+      - - {x: -30.5, y: 30.5}
+        - {x: -30.5, y: -30.5}
+        - {x: 29.5, y: -30.5}
+        - {x: 30.5, y: -29.5}
+        - {x: 30.5, y: 30.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIAbilityBar2_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 476
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -21}
+        - {x: -22, y: -11}
+        - {x: -22, y: 13}
+        - {x: -18, y: 21}
+        - {x: -16, y: 22}
+        - {x: 13, y: 22}
+        - {x: 22, y: 19}
+        - {x: 22, y: -22}
+        - {x: -18, y: -22}
+      physicsShape:
+      - - {x: -18, y: 3}
+        - {x: -21, y: 0}
+        - {x: -19, y: -5}
+        - {x: -16, y: -5}
+        - {x: -13, y: -4}
+        - {x: -13, y: 1}
+        - {x: -14, y: 3}
+      - - {x: -13, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: 9.999999}
+        - {x: -13, y: 7}
+        - {x: -9.999999, y: 7}
+        - {x: -7, y: 9.999999}
+        - {x: -7, y: 13}
+        - {x: -9.999999, y: 16}
+      - - {x: -2, y: 21}
+        - {x: -3, y: 18}
+        - {x: -3, y: 13}
+        - {x: -2, y: 12}
+        - {x: 2, y: 12}
+        - {x: 5, y: 13}
+        - {x: 5, y: 20}
+        - {x: 3, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIAbilityBar2_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 504
+        width: 29
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -30.5}
+        - {x: -14.5, y: 30.5}
+        - {x: 14.5, y: 30.5}
+        - {x: 14.5, y: -30.5}
+      physicsShape:
+      - - {x: -13.5, y: 30.5}
+        - {x: -14.5, y: 26.5}
+        - {x: -14.5, y: -25.5}
+        - {x: -10.5, y: -29.5}
+        - {x: 3.5, y: -29.5}
+        - {x: 14.5, y: -17.5}
+        - {x: 14.5, y: 16.5}
+        - {x: 6.5, y: 30.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIAbilityBar2_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 387
+        width: 61
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -30.5}
+        - {x: -30.5, y: -30.5}
+        - {x: -30.5, y: 30.5}
+        - {x: 30.5, y: 30.5}
+      physicsShape:
+      - - {x: -30.5, y: 30.5}
+        - {x: -30.5, y: -29.5}
+        - {x: -29.5, y: -30.5}
+        - {x: 30.5, y: -30.5}
+        - {x: 30.5, y: 30.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIAbilityBar2_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 331
+        width: 61
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: -30.5}
+        - {x: -30.5, y: -30.5}
+        - {x: -30.5, y: 30.5}
+        - {x: 30.5, y: 30.5}
+        - {x: 30.5, y: -29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIAbilityBar2_25
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 357
+        width: 71
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: -35.5}
+        - {x: -35.5, y: -24.5}
+        - {x: -35.5, y: 19.5}
+        - {x: -34.5, y: 22.5}
+        - {x: -24.5, y: 35.5}
+        - {x: 22.5, y: 35.5}
+        - {x: 35.5, y: 32.5}
+        - {x: 35.5, y: -27.5}
+        - {x: 20.5, y: -35.5}
+      physicsShape:
+      - - {x: -18.5, y: 35.5}
+        - {x: -33.5, y: 22.5}
+        - {x: -35.5, y: 17.5}
+        - {x: -35.5, y: -18.5}
+        - {x: -34.5, y: -24.5}
+        - {x: -22.5, y: -35.5}
+        - {x: 31.5, y: -35.5}
+        - {x: 35.5, y: -19.5}
+        - {x: 35.5, y: 22.5}
+        - {x: 24.5, y: 35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIAbilityBar2_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 263
+        width: 61
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -30.5}
+        - {x: -30.5, y: -30.5}
+        - {x: -30.5, y: 30.5}
+        - {x: 30.5, y: 30.5}
+      physicsShape:
+      - - {x: -30.5, y: 30.5}
+        - {x: -30.5, y: -29.5}
+        - {x: -29.5, y: -30.5}
+        - {x: 30.5, y: -30.5}
+        - {x: 30.5, y: 30.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UIAbilityBar2_0: 21300000
+      UIAbilityBar2_1: 21300002
+      UIAbilityBar2_5: 21300010
+      UIAbilityBar2_7: 21300014
+      UIAbilityBar2_3: 21300006
+      UIAbilityBar2_4: 21300008
+      UIAbilityBar2_29: 21300030
+      UIAbilityBar2_9: 21300018
+      UIAbilityBar2_8: 21300016
+      UIAbilityBar2_2: 21300004
+      UIAbilityBar2_14: 21300022
+      UIAbilityBar2_22: 21300026
+      UIAbilityBar2_15: 21300024
+      UIAbilityBar2_25: 21300028
+      UIAbilityBar2_6: 21300012
+      UIAbilityBar2_11: 21300020
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

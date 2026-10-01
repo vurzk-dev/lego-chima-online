@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: WP_Projectile_Shoulder_01
+  m_Shader: {fileID: 4800000, guid: d6ad92f90736de24795e25e754dd702e, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Base_Mask:
+        m_Texture: {fileID: 2800000, guid: 2e6d27bcc56a1b94d87c59bca2be71b6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Detail:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Matcap1:
+        m_Texture: {fileID: 2800000, guid: a6dc5fbeff5653c45835aee21082f073, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Occlusion:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sticker:
+        m_Texture: {fileID: 2800000, guid: 2e6d27bcc56a1b94d87c59bca2be71b6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sticker_Mask:
+        m_Texture: {fileID: 2800000, guid: f230bcbd465cf3b4c94965d1ce2d70b6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - PixelSnap: 0
+    - _Ambiant_Light: 0.0439474
+    - _Emission: 0
+    m_Colors:
+    - _Color: {r: 0.3230703, g: 0.2408109, b: 0.3507463, a: 1}
+    - _Color1: {r: 0.6313726, g: 0.6313726, b: 0.6313726, a: 1}
+    - _Color2: {r: 0.1176471, g: 0.1137255, b: 0.1176471, a: 1}
+    - _Color3: {r: 0.1176471, g: 0.1137255, b: 0.1176471, a: 1}
+    - _Sticker_Color1: {r: 0, g: 0.3607843, b: 0.5019608, a: 1}
+    - _Sticker_Color2: {r: 0.5137255, g: 0.0627451, b: 0, a: 1}

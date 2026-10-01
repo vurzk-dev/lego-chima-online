@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: TerrainTile1
+  m_Shader: {fileID: 4800000, guid: 8cece2cfb9d40f040b54d966b45b5d6c, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Control:
+        m_Texture: {fileID: 2800000, guid: 0191d9904028532439d1b7d813fc25c0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Control2:
+        m_Texture: {fileID: 2800000, guid: e5b4f1c893cc3e540820957b24483111, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Splat0:
+        m_Texture: {fileID: 2800000, guid: 537d27d4f0353d949aa92b495402865f, type: 3}
+        m_Scale: {x: 48, y: 48}
+        m_Offset: {x: 0, y: 0}
+    - _Splat1:
+        m_Texture: {fileID: 2800000, guid: ef4ec82351547a44984190f86c8420b9, type: 3}
+        m_Scale: {x: 48, y: 48}
+        m_Offset: {x: 0, y: 0}
+    - _Splat2:
+        m_Texture: {fileID: 2800000, guid: 14c10baa49ba0e741abbb4105a0a18c8, type: 3}
+        m_Scale: {x: 48, y: 28}
+        m_Offset: {x: 0, y: 0}
+    - _Splat3:
+        m_Texture: {fileID: 2800000, guid: 582bce81e503b64418fad8f3a539c766, type: 3}
+        m_Scale: {x: 48, y: 48}
+        m_Offset: {x: 0, y: 0}
+    - _Splat4:
+        m_Texture: {fileID: 2800000, guid: 38bf7dafd37f6644bbddb13a47397b78, type: 3}
+        m_Scale: {x: 48, y: 48}
+        m_Offset: {x: 0, y: 0}
+    - _Splat5:
+        m_Texture: {fileID: 2800000, guid: 8e0887195eed76949b45f6a789331b48, type: 3}
+        m_Scale: {x: 75, y: 75}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: {}
+    m_Colors:
+    - _Tiling3: {r: 1, g: 1, b: 0, a: 0}
+    - _Tiling4: {r: 1, g: 1, b: 0, a: 0}
+    - _Tiling5: {r: 1, g: 1, b: 0, a: 0}

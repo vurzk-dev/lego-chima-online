@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: MF_Base_IceBear_Head
+  m_Shader: {fileID: 4800000, guid: 4a424ca603f675b4e9d51ce8f3139e46, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Base_Mask:
+        m_Texture: {fileID: 2800000, guid: ad84b2bc817152f4e851b5dfe937cc73, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Detail:
+        m_Texture: {fileID: 2800000, guid: a5a07c1d92d92d641b035bc89bd2cc66, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Matcap1:
+        m_Texture: {fileID: 2800000, guid: 2152a296b5620144d96f7faf95800167, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Occlusion:
+        m_Texture: {fileID: 2800000, guid: 52163456470874e429e2f66cb6ab818c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sticker:
+        m_Texture: {fileID: 2800000, guid: 720228f810cf38c40bd06f5e363a0deb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sticker_Mask:
+        m_Texture: {fileID: 2800000, guid: 19691f43cd23d6e4281ede1d67eaaa62, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - PixelSnap: 0
+    - _Ambiant_Light: 0
+    - _Emission: -0.06
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color1: {r: 0.2901961, g: 0.2039216, b: 0.1607843, a: 1}
+    - _Color2: {r: 0.8970588, g: 0.3693771, b: 0.3693771, a: 1}
+    - _Color3: {r: 0.3529412, g: 0.2750865, b: 0.2750865, a: 1}
+    - _Sticker_Color1: {r: 0.8455882, g: 0.5471453, b: 0.5471453, a: 1}
+    - _Sticker_Color2: {r: 0.8235294, g: 0.02422148, b: 0.02422148, a: 1}

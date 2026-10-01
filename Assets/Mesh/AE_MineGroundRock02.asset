@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_Name: AE_MineGroundRock02
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 51
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 19
+    localAABB:
+      m_Center: {x: 5.960464E-08, y: -0.1451942, z: 0.1833427}
+      m_Extent: {x: 0.4610468, y: 1.124713, z: 0.1833427}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes:
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 1
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer:
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 0
+    m_VertexCount: 0
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 0
+    _typelessdata:
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 57
+      m_Range: 2.249424
+      m_Start: -1.269907
+      m_Data: d2560a10ec6108e97282ffff1f8690ed96b83ce24247db93bcaf6ed7d2a9a06506b17edeec7afec4684317869030200b7a616108b9b7a7c54d8637b949a9696f07610829166bef9d5641ba31f60700006108095a6610ebe7cdae43f3b5d46d610829166bef9d5641badcc095e17f610819637f0000108690b108b847db6108d96e89cb232e74b42e27f8ffff610809
+      m_BitSize: 20
+    m_UV:
+      m_NumItems: 76
+      m_Range: 0.9900665
+      m_Start: 0.00390625
+      m_Data: 05e67332dbe1290919d1422851b159621899e04358b9806bc9ac71701a9e8d649ac537434a8c6352c7bbe3301899e043a180f7434a8c63522292c235c7bbe3305ab6bf0819d14228dbe129099922ad630000c751b324a236b08f934bb67a00006696ad6360aecc57ff9e393587faf228d1921400ffffa50ec07c4e82ac8d4566898f8d8ecb7cae64dcf6cc720422456cb11b8d8e0000cc6c
+      m_BitSize: 16
+    m_Normals:
+      m_NumItems: 38
+      m_Range: 1.864079
+      m_Start: -0.9544735
+      m_Data: 676b9cd5e1a1493c7a7290c8f97f5fd71764707b8ed6948e80c1d504899c0074968e800008195c4d00f8199ac4591d0e
+      m_BitSize: 10
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 19
+      m_Data: ffff07
+      m_BitSize: 1
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 51
+      m_Data: 20083180206314304c31e390339039099d43124a6ab1c6967b8d2de8e08a5142
+      m_BitSize: 5
+    m_UVInfo: 85
+  m_LocalAABB:
+    m_Center: {x: 5.960464E-08, y: -0.1451942, z: 0.1833427}
+    m_Extent: {x: 0.4610468, y: 1.124713, z: 0.1833427}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshOptimized: 1

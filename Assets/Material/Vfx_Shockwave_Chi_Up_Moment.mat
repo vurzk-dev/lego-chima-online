@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: Vfx_Shockwave_Chi_Up_Moment
+  m_Shader: {fileID: 4800000, guid: cbfdfc06905ab0142874a40caf5c9c37, type: 3}
+  m_ShaderKeywords: _NORMAL_SIN_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Texture1:
+        m_Texture: {fileID: 2800000, guid: f78d83c4f96d6134f89c5bb54bfb9994, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2:
+        m_Texture: {fileID: 2800000, guid: 249b75b8c732f914c968179a090783e8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - PixelSnap: 0
+    - _AO: 2.4
+    - _Alpha1CTRL: 0.5
+    - _Alpha2CTRL: 0.5
+    - _AlphaWeakness: 0.17
+    - _Ambiant_Light: 0
+    - _Amp: 0
+    - _Amplitude: -0.12
+    - _Animated_switch: 0
+    - _BaseLight: 0.35
+    - _BaseOpacity: 1.29
+    - _Base_switch: 0
+    - _Bias: 0.88
+    - _BlinkingTimeOffsScale: 14.28
+    - _Brightness: 0.79
+    - _BumpPower: 0.576
+    - _BumpScale: 1
+    - _CenterX: 0.5
+    - _CenterY: 0.5
+    - _ColorMultiptier: 1
+    - _Cutoff: 0.078
+    - _Cycle: 1
+    - _Desaturate_Control: 0.255
+    - _DetailNormalMapScale: 1
+    - _DetailTexOpacity: 0.5
+    - _DetailTexScaleUvs: 3.19
+    - _Distort: 0.7
+    - _DstBlend: 0
+    - _Duty_cyclefactor: 0.0940171
+    - _Emission: 0
+    - _Flashing_Speed: 5
+    - _Freq: 0
+    - _Frequency: 7.06
+    - _FreshnelPower: 1.119608
+    - _Fresnel: 0
+    - _FresnelPower: 0
+    - _FresnelScale: 0.75
+    - _FresnelWidth: 3
+    - _Fresnel_Power_Animated: 0
+    - _Fresnel_Power_Base: 0
+    - _Gamma: 1
+    - _GerstnerIntensity: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _HeatForce: 0.37
+    - _HeatTime: 1
+    - _IntersectionThreshold: 0.129
+    - _MasterOpacity: 1.06
+    - _Max_value: 1
+    - _Metallic: 0
+    - _Min_value: 0.9
+    - _Mode: 0
+    - _Multiplier: 0.62
+    - _NoiseAmount: 0.1044776
+    - _Normal_Sin: 0.9
+    - _Occlusion: 7.5
+    - _OcclusionStrength: 1
+    - _Opacity: 0.53
+    - _Parallax: 0.02
+    - _Radius: 0.161
+    - _Rate: 1
+    - _RotationCenter1: 0.719
+    - _RotationCenter2: 0.293
+    - _RotationSpeed1: 0
+    - _RotationSpeed2: 0
+    - _Scale: 0.5
+    - _Scroll2X: -1
+    - _Scroll2Y: -2
+    - _ScrollSpeed1X: 4.36
+    - _ScrollSpeed1Y: 3.86
+    - _ScrollSpeed2X: 3.46
+    - _ScrollSpeed2Y: 2.96
+    - _ScrollSpeedAlpha1X: 0
+    - _ScrollSpeedAlpha1Y: 0
+    - _ScrollSpeedAlpha2X: 0
+    - _ScrollSpeedAlpha2Y: 0
+    - _ScrollSpeedU: 2
+    - _ScrollSpeedV: 0
+    - _ScrollX: -0.29
+    - _ScrollY: -0.48
+    - _ShakeBending: 0.978
+    - _ShakeDisplacement: 1.13
+    - _ShakeTime: 1.2
+    - _ShakeWindspeed: 3.26
+    - _Shininess: 200
+    - _Size: 1
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _Speed: 0
+    - _SquashAmount: 1
+    - _SrcBlend: 1
+    - _Strenght: 2.735043
+    - _Strength: 0.1
+    - _Texture1ScrollX: 0.09
+    - _Texture1ScrollY: 0.44
+    - _Texture2ScrollX: 0.36
+    - _Texture2ScrollY: 0.48
+    - _TimeOffDuration: 0
+    - _TimeOnDuration: 0.14
+    - _TopDepth: 0.346
+    - _TopLevel: 0.243
+    - _UVSec: 0
+    - _Variable1: 0.8
+    - _VertAnimDisplacement: 0.05
+    - _VertAnimDisplacementB: 0.08
+    - _VertAnimSpeed: 6
+    - _VertAnimSpeedB: 5
+    - _WaveLength: 4
+    - _ZWrite: 1
+    - _node_8505: -0.145
+    - fClamp: 1
+    - fDecay: 0.93
+    - fDensity: 0.96
+    - fExposure: 0.6
+    - fWeight: 0.4
+    - fX: 0.5
+    - fY: 0.5
+    - iSamples: 20
+    m_Colors:
+    - _AnimationDirection: {r: 1, g: 1, b: 1, a: 1}
+    - _AnimationTiling: {r: 2.2, g: 2.2, b: -1.1, a: -1.1}
+    - _BaseColor: {r: 0.54, g: 0.95, b: 0.99, a: 0.5}
+    - _BumpDirection: {r: 1, g: 1, b: -1, a: 1}
+    - _BumpTiling: {r: 1, g: 1, b: -2, a: 3}
+    - _Color: {r: 0.7364669, g: 0.8548293, b: 0.8656716, a: 1}
+    - _Color1: {r: 0.6352941, g: 0.6313726, b: 0.627451, a: 1}
+    - _Color2: {r: 0.5294118, g: 0.1529412, b: 0.1176471, a: 1}
+    - _Color3: {r: 0, g: 1, b: 1, a: 1}
+    - _DistortParams: {r: 1, g: 1, b: 2, a: 1.15}
+    - _Edgecolor: {r: 1, g: 0.5147059, b: 0.5147059, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FlowU: {r: 12, g: 1, b: 0, a: 0}
+    - _FlowV: {r: 2, g: 2, b: 0, a: 0}
+    - _Foam: {r: 0.1, g: 0.375, b: 0, a: 0}
+    - _GAmplitude: {r: 0.3, g: 0.35, b: 0.25, a: 0.25}
+    - _GDirectionAB: {r: 0.3, g: 0.85, b: 0.85, a: 0.25}
+    - _GDirectionCD: {r: 0.1, g: 0.9, b: 0.5, a: 0.5}
+    - _GFrequency: {r: 1.3, g: 1.35, b: 1.25, a: 1.25}
+    - _GSpeed: {r: 1.2, g: 1.375, b: 1.1, a: 1.5}
+    - _GSteepness: {r: 1, g: 1, b: 1, a: 1}
+    - _InvFadeParemeter: {r: 0.15, g: 0.15, b: 0.5, a: 1}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ReflectColor: {r: 1, g: 1, b: 1, a: 0.5}
+    - _ReflectionColor: {r: 0.54, g: 0.95, b: 0.99, a: 0.5}
+    - _Scale: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _SpecularColor: {r: 0.72, g: 0.72, b: 0.72, a: 1}
+    - _Sticker_Color1: {r: 0, g: 0.3607843, b: 0.5019608, a: 1}
+    - _Sticker_Color2: {r: 0, g: 0.4980392, b: 0.2470588, a: 1}
+    - _TintColor: {r: 0.5366451, g: 0.8345528, b: 0.9850746, a: 1}
+    - _TopColor: {r: 1, g: 0.894, b: 0.71, a: 1}
+    - _TopDirection: {r: 0, g: 1.5, b: 0, a: 1}
+    - _WorldLightDir: {r: 0, g: 0.1, b: -0.5, a: 0}

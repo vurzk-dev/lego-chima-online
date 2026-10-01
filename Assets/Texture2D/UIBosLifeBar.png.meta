@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: c7055205f06fcc4488e54e90ced84da4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UIBosLifeBar_0
+  - first:
+      213: 21300002
+    second: UIBosLifeBar_1
+  - first:
+      213: 21300004
+    second: UIBosLifeBar_2
+  - first:
+      213: 21300006
+    second: UIBosLifeBar_3
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UIBosLifeBar_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 233
+        width: 224
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -112, y: -11.5}
+        - {x: -112, y: 11.5}
+        - {x: 112, y: 11.5}
+        - {x: 112, y: -11.5}
+      physicsShape:
+      - - {x: -107, y: 6.5}
+        - {x: -107, y: -8.5}
+        - {x: 108, y: -8.5}
+        - {x: 108, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIBosLifeBar_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 50
+        width: 49
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -90}
+        - {x: -24.5, y: -81}
+        - {x: -24.5, y: 80.00001}
+        - {x: -23.5, y: 90}
+        - {x: 9.5, y: 90}
+        - {x: 24.5, y: -52}
+        - {x: 24.5, y: -88}
+        - {x: 9.5, y: -90}
+      physicsShape:
+      - - {x: 7.5, y: -40}
+        - {x: 2.5, y: -30}
+        - {x: 1.5, y: 90}
+        - {x: -19.5, y: 90}
+        - {x: -20.5, y: 47}
+        - {x: -20.5, y: -87.00001}
+        - {x: 14.5, y: -87.00001}
+        - {x: 21.5, y: -86}
+        - {x: 21.5, y: -80.00001}
+        - {x: 20.5, y: -77}
+        - {x: 3.5, y: -70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIBosLifeBar_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 138
+        width: 146
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: -46}
+        - {x: -73, y: -46}
+        - {x: -73, y: 46}
+        - {x: 73, y: 46}
+      physicsShape:
+      - - {x: 73, y: -38}
+        - {x: 73, y: -17}
+        - {x: 38, y: -9}
+        - {x: 26, y: -13}
+        - {x: 27, y: 0}
+        - {x: 57, y: 0}
+        - {x: 59, y: 2}
+        - {x: 58, y: 5}
+        - {x: 38, y: 11}
+        - {x: 20, y: 29}
+        - {x: 1, y: 44}
+        - {x: -29, y: 44}
+        - {x: -47, y: 33}
+        - {x: -57, y: 43}
+        - {x: -60, y: 41}
+        - {x: -63, y: 30}
+        - {x: -73, y: 22}
+        - {x: -73, y: 16}
+        - {x: -59, y: 10}
+        - {x: -59, y: 2}
+        - {x: -50, y: -20}
+        - {x: -63, y: -35}
+        - {x: -62, y: -38}
+        - {x: -51, y: -40}
+        - {x: -29, y: -40}
+        - {x: -27, y: -39}
+        - {x: 26, y: -39}
+        - {x: 36, y: -40}
+        - {x: 56, y: -40}
+      - - {x: -39, y: -11}
+        - {x: -44, y: 2}
+        - {x: -34, y: 2}
+        - {x: -28, y: 6}
+        - {x: -27, y: 19}
+        - {x: -21, y: 35}
+        - {x: 2, y: 30}
+        - {x: 14, y: 10}
+        - {x: 5, y: -12}
+        - {x: -22, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIBosLifeBar_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 63
+        width: 72
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: -36.5}
+        - {x: -36, y: -36.5}
+        - {x: -36, y: 31.5}
+        - {x: -34, y: 36.5}
+        - {x: 34, y: 36.5}
+        - {x: 36, y: 33.5}
+        - {x: 36, y: -23.5}
+      physicsShape:
+      - - {x: -22, y: 36.5}
+        - {x: -26, y: 34.5}
+        - {x: -36, y: 13.5}
+        - {x: -36, y: -21.5}
+        - {x: -18, y: -36.5}
+        - {x: 21, y: -36.5}
+        - {x: 36, y: -20.5}
+        - {x: 36, y: 22.5}
+        - {x: 20, y: 36.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UIBosLifeBar_3: 21300006
+      UIBosLifeBar_2: 21300004
+      UIBosLifeBar_0: 21300000
+      UIBosLifeBar_1: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_Name: Vfx_CharacterCreation_WaterPlane
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 114
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 24
+    localAABB:
+      m_Center: {x: 2.384186E-07, y: 0, z: 0.03340053}
+      m_Extent: {x: 6.595936, y: 6.595936, z: 0}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes:
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 1
+  m_IsReadable: 0
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer:
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 0
+    m_VertexCount: 0
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 0
+    _typelessdata:
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 72
+      m_Range: 13.19187
+      m_Start: -6.595936
+      m_Data: 22893530df5b0ab8cf202289b5a5802289b5cf205b0ab8cf20d976baa580d9763a30df5b0a986da7fb0cb2a58003f39d6da75b0a3830df2289b5a5807c064139ae5b0a98c65181f9bea5800000b004b55b0a08fb4affffbfa58094e31a98ef5b0ab804b5ffffbfa58081f94e39ae5b0af8ffff4b50bba58081f99ec6515b0ae8ffffb0afb4a58094e3ca67105b0ab804b50000b0a580691cc567105b0a08fb4a0000b0a5807c0691c6515b0a080000b0afb4a580
+      m_BitSize: 20
+    m_UV:
+      m_NumItems: 48
+      m_Range: 1
+      m_Start: 0
+      m_Data: 6aa72cdf2cdf8e586aa7cc202cdf6aa78e582cdf8f58cc20cc2069a7cc208e5897ef35ae35ae97efffff01b501b5ffffc65197effa4affff641035ae000001b56410c6510000fa4ac6516410fa4a000035ae641001b5000097efc651fefffa4a
+      m_BitSize: 16
+    m_Normals:
+      m_NumItems: 48
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 24
+      m_Data: ffffff
+      m_BitSize: 1
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 114
+      m_Data: 20880086208088520c31e5003410482481a4904a8bad9408338c2cd65c63ccb8e34c730f3ee70e2cf03c186584b0c828279d72d26a2badf65ea4d0b55250210b0d3650316cb00301
+      m_BitSize: 5
+    m_UVInfo: 5
+  m_LocalAABB:
+    m_Center: {x: 2.384186E-07, y: 0, z: 0.03340053}
+    m_Extent: {x: 6.595936, y: 6.595936, z: 0}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshOptimized: 1

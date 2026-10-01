@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: MF_Eagle_Leg_L
+  m_Shader: {fileID: 4800000, guid: 4a424ca603f675b4e9d51ce8f3139e46, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Base_Mask:
+        m_Texture: {fileID: 2800000, guid: c7683d478e9ab8e40b0071ed1bd3e889, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Detail:
+        m_Texture: {fileID: 2800000, guid: f2b60e4e2c260ca4ca62cc67711b8ba0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Matcap1:
+        m_Texture: {fileID: 2800000, guid: 2152a296b5620144d96f7faf95800167, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Occlusion:
+        m_Texture: {fileID: 2800000, guid: 12856a6e54690e04c9acf2ab0a5659af, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sticker:
+        m_Texture: {fileID: 2800000, guid: 2961806801ab9884daefa076d3c6e690, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sticker_Mask:
+        m_Texture: {fileID: 2800000, guid: 17756a8bc78131142a55ea470e007420, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - PixelSnap: 0
+    - _AmbiantLight: 0
+    - _Ambiant_Light: 0
+    - _Emission: 0
+    - _EmissionLM: 0
+    - _node_3757: 0
+    - _node_3806: 0
+    - _node_7028: 0
+    - _node_9445: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color1: {r: 0, g: 0, b: 0, a: 1}
+    - _Color2: {r: 0, g: 0, b: 0, a: 1}
+    - _Color3: {r: 1, g: 1, b: 1, a: 1}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Sticker_Color1: {r: 0.6904736, g: 0.8528458, b: 0.9485294, a: 1}
+    - _Sticker_Color1B: {r: 0.6901961, g: 0.8509805, b: 0.9490197, a: 1}
+    - _Sticker_Color1R: {r: 0.5568628, g: 0.6352941, b: 0.9333334, a: 1}
+    - _Sticker_Color2: {r: 0.4191176, g: 0.5433062, b: 1, a: 1}

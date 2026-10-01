@@ -1,0 +1,753 @@
+fileFormatVersion: 2
+guid: b246114108ed5604b8565d627b33bbfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UITradingBuyScreenV3_27
+  - first:
+      213: 21300002
+    second: UITradingBuyScreenV3_28
+  - first:
+      213: 21300004
+    second: UITradingBuyScreenV3_48
+  - first:
+      213: 21300006
+    second: UITradingBuyScreenV3_49
+  - first:
+      213: 21300008
+    second: UITradingBuyScreenV3_50
+  - first:
+      213: 21300010
+    second: UITradingBuyScreenV3_55
+  - first:
+      213: 21300012
+    second: UITradingBuyScreenV3_57
+  - first:
+      213: 21300014
+    second: UITradingBuyScreenV3_58
+  - first:
+      213: 21300016
+    second: UITradingBuyScreenV3_61
+  - first:
+      213: 21300018
+    second: UITradingBuyScreenV3_67
+  - first:
+      213: 21300020
+    second: UITradingBuyScreenV3_69
+  - first:
+      213: 21300022
+    second: UITradingBuyScreenV3_74
+  - first:
+      213: 21300024
+    second: UITradingBuyScreenV3_77
+  - first:
+      213: 21300026
+    second: UITradingBuyScreenV3_81
+  - first:
+      213: 21300028
+    second: UITradingBuyScreenV3_82
+  - first:
+      213: 21300030
+    second: UITradingBuyScreenV3_41
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UITradingBuyScreenV3_27
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 730
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -19}
+        - {x: -14, y: 19}
+        - {x: 14, y: 19}
+        - {x: 14, y: -19}
+      physicsShape:
+      - - {x: -14, y: 19}
+        - {x: -14, y: -19}
+        - {x: 9, y: -19}
+        - {x: 14, y: -16}
+        - {x: 14, y: 17}
+        - {x: 11, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITradingBuyScreenV3_28
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 730
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -19}
+        - {x: -14, y: 19}
+        - {x: 14, y: 19}
+        - {x: 14, y: -19}
+      physicsShape:
+      - - {x: -14, y: 19}
+        - {x: -14, y: -19}
+        - {x: 9, y: -19}
+        - {x: 14, y: -16}
+        - {x: 14, y: 17}
+        - {x: 11, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITradingBuyScreenV3_48
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 627
+        width: 29
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -12.5}
+        - {x: -14.5, y: 12.5}
+        - {x: 14.5, y: 12.5}
+        - {x: 14.5, y: -12.5}
+      physicsShape:
+      - - {x: 10.5, y: 5.5}
+        - {x: 1.5, y: 11.5}
+        - {x: -4.5, y: 11.5}
+        - {x: -14.5, y: 3.5}
+        - {x: -14.5, y: -2.5}
+        - {x: -5.5, y: -12.5}
+        - {x: -0.5, y: -12.5}
+        - {x: 13.5, y: -0.5}
+        - {x: 13.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITradingBuyScreenV3_49
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 603
+        width: 49
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -19}
+        - {x: -24.5, y: -13}
+        - {x: -24.5, y: 17}
+        - {x: -19.5, y: 19}
+        - {x: 8.5, y: 19}
+        - {x: 24.5, y: 14}
+        - {x: 24.5, y: -8}
+        - {x: 16.5, y: -19}
+      physicsShape:
+      - - {x: 10.5, y: 19}
+        - {x: -11.5, y: 19}
+        - {x: -24.5, y: 14}
+        - {x: -24.5, y: -16}
+        - {x: -19.5, y: -18}
+        - {x: 16.5, y: -18}
+        - {x: 17.5, y: -16}
+        - {x: 22.5, y: 0}
+        - {x: 22.5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITradingBuyScreenV3_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 594
+        width: 37
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -25}
+        - {x: -18.5, y: -22}
+        - {x: -18.5, y: 25}
+        - {x: 18.5, y: 25}
+        - {x: 18.5, y: -23}
+        - {x: 13.5, y: -25}
+      physicsShape:
+      - - {x: 13.5, y: 24}
+        - {x: 11.5, y: 24}
+        - {x: 4.5, y: 16}
+        - {x: -8.5, y: 24}
+        - {x: -12.5, y: 24}
+        - {x: -16.5, y: 22}
+        - {x: -17.5, y: 14}
+        - {x: -17.5, y: -16}
+        - {x: -16.5, y: -19}
+        - {x: -2.5, y: -23}
+        - {x: 9.5, y: -23}
+        - {x: 17.5, y: -15}
+        - {x: 17.5, y: 2}
+        - {x: 15.5, y: 23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITradingBuyScreenV3_55
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 597
+        width: 30
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -12.5}
+        - {x: -15, y: 12.5}
+        - {x: 15, y: 12.5}
+        - {x: 15, y: -12.5}
+      physicsShape:
+      - - {x: -1, y: 11.5}
+        - {x: -14, y: 4.5}
+        - {x: -14, y: -3.5}
+        - {x: -4, y: -12.5}
+        - {x: 3, y: -12.5}
+        - {x: 14, y: -1.5}
+        - {x: 14, y: 0.5}
+        - {x: 3, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITradingBuyScreenV3_57
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 576
+        width: 40
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -20.5}
+        - {x: -20, y: -15.5}
+        - {x: -20, y: 18.5}
+        - {x: -19, y: 20.5}
+        - {x: 20, y: 20.5}
+        - {x: 20, y: -20.5}
+      physicsShape:
+      - - {x: -19, y: 20.5}
+        - {x: -20, y: 16.5}
+        - {x: -20, y: -11.5}
+        - {x: -9, y: -16.5}
+        - {x: 8, y: -16.5}
+        - {x: 19, y: -9.5}
+        - {x: 19, y: 15.5}
+        - {x: 17, y: 20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITradingBuyScreenV3_58
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 580
+        width: 39
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -20.5}
+        - {x: -19.5, y: -18.5}
+        - {x: -19.5, y: 12.5}
+        - {x: -12.5, y: 20.5}
+        - {x: 14.5, y: 20.5}
+        - {x: 19.5, y: 14.5}
+        - {x: 19.5, y: -18.5}
+        - {x: 15.5, y: -20.5}
+      physicsShape:
+      - - {x: 10.5, y: 20.5}
+        - {x: -10.5, y: 20.5}
+        - {x: -18.5, y: 11.5}
+        - {x: -19.5, y: 7.5}
+        - {x: -19.5, y: -17.5}
+        - {x: -10.5, y: -19.5}
+        - {x: 13.5, y: -19.5}
+        - {x: 18.5, y: -14.5}
+        - {x: 18.5, y: -1.5}
+        - {x: 16.5, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITradingBuyScreenV3_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 554
+        width: 50
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -19}
+        - {x: -25, y: -8}
+        - {x: -25, y: 19}
+        - {x: 25, y: 19}
+        - {x: 25, y: -8}
+        - {x: 19, y: -19}
+      physicsShape:
+      - - {x: -24, y: 18}
+        - {x: -24, y: 6}
+        - {x: -20, y: -13}
+        - {x: -17, y: -18}
+        - {x: 17, y: -18}
+        - {x: 23, y: 1}
+        - {x: 23, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITradingBuyScreenV3_67
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 520
+        width: 43
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: -19}
+        - {x: -21.5, y: -19}
+        - {x: -21.5, y: 18}
+        - {x: -18.5, y: 19}
+        - {x: 18.5, y: 19}
+        - {x: 21.5, y: 13}
+        - {x: 21.5, y: -16}
+      physicsShape:
+      - - {x: 13.5, y: 19}
+        - {x: -14.5, y: 19}
+        - {x: -19.5, y: 18}
+        - {x: -21.5, y: 9}
+        - {x: -21.5, y: -10}
+        - {x: -17.5, y: -15}
+        - {x: -11.5, y: -18}
+        - {x: 14.5, y: -18}
+        - {x: 20.5, y: -15}
+        - {x: 20.5, y: 6}
+        - {x: 19.5, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITradingBuyScreenV3_69
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 552
+        width: 40
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -9}
+        - {x: -20, y: 9}
+        - {x: 20, y: 9}
+        - {x: 20, y: -9}
+      physicsShape:
+      - - {x: -20, y: 9}
+        - {x: -20, y: -9}
+        - {x: 20, y: -9}
+        - {x: 20, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITradingBuyScreenV3_74
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 465
+        width: 43
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: -22}
+        - {x: -21.5, y: -22}
+        - {x: -21.5, y: 7}
+        - {x: -20.5, y: 15}
+        - {x: -13.5, y: 22}
+        - {x: 7.5, y: 22}
+        - {x: 21.5, y: 14}
+      physicsShape:
+      - - {x: -7.5, y: 22}
+        - {x: -11.5, y: 21}
+        - {x: -21.5, y: 2}
+        - {x: -21.5, y: -19}
+        - {x: -13.5, y: -21}
+        - {x: 14.5, y: -21}
+        - {x: 20.5, y: -16}
+        - {x: 20.5, y: 4}
+        - {x: 3.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITradingBuyScreenV3_77
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 500
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -14}
+        - {x: -19.5, y: -4}
+        - {x: -19.5, y: 20}
+        - {x: 17.5, y: 20}
+        - {x: 19.5, y: 17}
+        - {x: 19.5, y: -12}
+        - {x: 5.5, y: -20}
+        - {x: -10.5, y: -20}
+      physicsShape:
+      - - {x: -18.5, y: 20}
+        - {x: -19.5, y: 18}
+        - {x: -19.5, y: -10}
+        - {x: -8.5, y: -20}
+        - {x: 13.5, y: -20}
+        - {x: 19.5, y: -10}
+        - {x: 19.5, y: 20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITradingBuyScreenV3_81
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 487
+        width: 44
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -19}
+        - {x: -22, y: -19}
+        - {x: -22, y: -4}
+        - {x: -20, y: 12}
+        - {x: -15, y: 19}
+        - {x: 12, y: 19}
+        - {x: 22, y: 14}
+      physicsShape:
+      - - {x: -16, y: 19}
+        - {x: -20, y: 3}
+        - {x: -20, y: -18}
+        - {x: 19, y: -18}
+        - {x: 19, y: -4}
+        - {x: 16, y: 9}
+        - {x: 9, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITradingBuyScreenV3_82
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 476
+        width: 32
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -20}
+        - {x: -16, y: -16}
+        - {x: -16, y: 10}
+        - {x: -11, y: 20}
+        - {x: 16, y: 20}
+        - {x: 16, y: -20}
+      physicsShape:
+      - - {x: -1, y: 20}
+        - {x: -5, y: 19}
+        - {x: -8, y: 18}
+        - {x: -11, y: 15}
+        - {x: -16, y: 0}
+        - {x: -16, y: -18}
+        - {x: -6, y: -20}
+        - {x: 14, y: -20}
+        - {x: 15, y: -19}
+        - {x: 16, y: -13}
+        - {x: 16, y: 20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITradingBuyScreenV3_41
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 671
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -17}
+        - {x: -18, y: -9}
+        - {x: -18, y: 14}
+        - {x: -17, y: 16}
+        - {x: -16, y: 17}
+        - {x: 18, y: 17}
+        - {x: 18, y: -12}
+        - {x: 14, y: -17}
+      physicsShape:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -7}
+        - {x: -2, y: -17}
+        - {x: 6, y: -17}
+        - {x: 18, y: -7}
+        - {x: 18, y: 15}
+        - {x: 16, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UITradingBuyScreenV3_67: 21300018
+      UITradingBuyScreenV3_61: 21300016
+      UITradingBuyScreenV3_28: 21300002
+      UITradingBuyScreenV3_50: 21300008
+      UITradingBuyScreenV3_48: 21300004
+      UITradingBuyScreenV3_58: 21300014
+      UITradingBuyScreenV3_77: 21300024
+      UITradingBuyScreenV3_57: 21300012
+      UITradingBuyScreenV3_55: 21300010
+      UITradingBuyScreenV3_41: 21300030
+      UITradingBuyScreenV3_81: 21300026
+      UITradingBuyScreenV3_27: 21300000
+      UITradingBuyScreenV3_74: 21300022
+      UITradingBuyScreenV3_49: 21300006
+      UITradingBuyScreenV3_69: 21300020
+      UITradingBuyScreenV3_82: 21300028
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

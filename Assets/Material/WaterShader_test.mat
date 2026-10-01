@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: WaterShader_test
+  m_Shader: {fileID: 4800000, guid: 6e68bcb0562f0fb46a2c03d456f97113, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTexOne:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AlphaTexThree:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AlphaTexTwo:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TexOne:
+        m_Texture: {fileID: 2800000, guid: 15ce13f792b20ae439bd08e3372e6e41, type: 3}
+        m_Scale: {x: 7, y: 0.7}
+        m_Offset: {x: 0, y: 0}
+    - _TexTwo:
+        m_Texture: {fileID: 2800000, guid: 3c4945d03013cd843bef722b7af8b1f1, type: 3}
+        m_Scale: {x: 7, y: 0.7}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Alpha1CTRL: 0.5
+    - _Alpha2CTRL: 0.5
+    - _AlphaWeakness: 0.16
+    - _Ambient: 1
+    - _Amp: 0.623
+    - _Brightness: 0.85
+    - _ColorTextureOverlay: 0.684
+    - _Cutoff: 0.5
+    - _Displacement: 0.21
+    - _DisplacementTiling: 1.51
+    - _Distortion: 0.1632124
+    - _Freq: 100
+    - _Frequency: 8
+    - _FresnelPower: 0.53
+    - _Gamma: 1
+    - _Gloss: 0.8
+    - _InvFade: 0.44
+    - _InvFadeFoam: 0.52
+    - _LeafWindAmplitude: 0.003619492
+    - _Metallic: 0
+    - _Multiplier: 2.736801
+    - _Opacity: 0.5
+    - _OutlineWidth: 0.1
+    - _Refractivity: 58.9
+    - _RotationCenter1: 0
+    - _RotationCenter2: 0.5
+    - _RotationSpeed1: 0
+    - _RotationSpeed2: 0
+    - _ScrollSpeed1X: 0.1
+    - _ScrollSpeed1Y: 6.3
+    - _ScrollSpeed2X: 0.3
+    - _ScrollSpeed2Y: 10
+    - _ScrollSpeedAlpha1X: 0
+    - _ScrollSpeedAlpha1Y: 0
+    - _ScrollSpeedAlpha2X: 0
+    - _ScrollSpeedAlpha2Y: 0
+    - _ScrollX: 0.05117042
+    - _ScrollY: -0.8443139
+    - _ShakeBending: 1
+    - _ShakeDisplacement: 1
+    - _ShakeTime: 1
+    - _ShakeWindspeed: 1
+    - _Shininess: 16.1
+    - _Speed: 138
+    - _Strength: 2.5
+    - _UNKNOWN1: 4.896691
+    - _UNKNOWN2: 0.2557851
+    - _UNKNOWN4: 6.655503
+    - _Variable1: 0.6
+    - _WaveLength: 0.35
+    - _Wave_position: 0
+    - _WindPower: 0.4958699
+    - _node_2491: 0.2070391
+    - _node_3985: 0.4870586
+    - _node_4111: 4.957328
+    - _node_5992: 0
+    - _node_6043: 0
+    - _node_9312: 0.3362828
+    - _node_9568: 0.5128205
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.8676471, g: 0.8676471, b: 0.8676471, a: 1}
+    - _FlowU: {r: 1, g: 1, b: 0, a: 0}
+    - _FlowV: {r: 1, g: 1, b: 0, a: 0}
+    - _OutlineColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecColor: {r: 0, g: 0.8269591, b: 1, a: 1}
+    - _TintColor: {r: 0.4485294, g: 0.9045731, b: 1, a: 1}
+    - _TransformScale: {r: 1, g: 1, b: 1, a: 1}
+    - _Winddirection: {r: 1, g: 0.5, b: 0.5, a: 0}
+    - _WorldLightDir: {r: 11.18, g: 20, b: 4.3, a: -74.3}
+    - _node_1846: {r: 1, g: 1, b: 1, a: 0}
+    - _node_5784: {r: 0.3014706, g: 0.3014706, b: 0.3014706, a: 0}

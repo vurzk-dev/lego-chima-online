@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_Name: Sign_Illum
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 84
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 32
+    localAABB:
+      m_Center: {x: 0.4452301, y: 0.3913537, z: 1.30095}
+      m_Extent: {x: 0.3543826, y: 0.3028437, z: 0.4423232}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes:
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 1
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer:
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 0
+    m_VertexCount: 0
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 0
+    _typelessdata:
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 96
+      m_Range: 1.654762
+      m_Start: 0.08851005
+      m_Data: 2ce096f8571fb92b46688532f54ddd62845628535e9d49a85e68b1d4cd8984ea85164b61d5ce1f4c96b89353fdfcc154893b059d479739c4bf022477749953fc2bffffcf0e27f1c69153fdec70126f1c059d27861420ced0cd89624801e20c61d54ee80a034df04ddd83ae30d0045f9dc92b050000f091bbc70530bb051fb91b1906b7a8f04ddd9161708b0a5e9d09b70fd529d1cd8970fb509d1261d59e3f22a6229253fdf923622a22059d17c834791b032477814c83b731ffff9f50474a149453fd0a75a44441059d17d9591d0dd5cd89919dd5d15061d50e7763388ef54ddd703796e3585e9d8933693edbf591bb
+      m_BitSize: 20
+    m_UV:
+      m_NumItems: 128
+      m_Range: 1
+      m_Start: 0
+      m_Data: 0000ff7f620d17bf620de540d623e822d62313dd1b4ffefa1b4fff04627a0000627affffa7a5fefaa7a5ff04ecd0e822ecd013dd5de717bf5de7e540c4f4ff7fffffff7f9af217bf9af2e54024dce82224dc13dde1b0fefae1b0ff049c8500009c85ffff575afefa575aff04102fe822102f13dd9f1817bf9f18e5403a0bff7f1602aeca3c087cdc0e04f1b7dc0979ae051064e41f1e8febf91550a4ea225ea1652b81eb54388fe82f3050a1453e79a8734464de414af0d4104661b0364c31c2b351712bdb573f3daa53b5187b593f0fa45f2545bd6d524c9665140586722202027b444cf5875249ce7f1302e78d3f091094273fe099b135b2952511d79bf522
+      m_BitSize: 16
+    m_Normals:
+      m_NumItems: 64
+      m_Range: 1.529561
+      m_Start: -0.7660449
+      m_Data: ab03b03a00ab03b03a00ab03b03a00ab03b03a00ab03b03a00ab03b03a00ab03b03a00ab03b03a0050ec0fc5fe50ec0fc5fe50ec0fc5fe50ec0fc5fe50ec0fc5fe50ec0fc5fe50ec0fc5fe50ec0fc5ff
+      m_BitSize: 10
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 32
+      m_Data:
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 84
+      m_Data: 208830c408a40c328a29c79c82d24127a9b4d44aac2db69a73edc128e39433d23ae9acb65e7b2bce17dfacf3d63bf3bef9eedef70f
+      m_BitSize: 5
+    m_UVInfo: 85
+  m_LocalAABB:
+    m_Center: {x: 0.4452301, y: 0.3913537, z: 1.30095}
+    m_Extent: {x: 0.3543826, y: 0.3028437, z: 0.4423232}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshOptimized: 1

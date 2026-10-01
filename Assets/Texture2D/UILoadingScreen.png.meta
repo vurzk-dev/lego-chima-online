@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: c7e010515d5994a4a8a89f7414a2c100
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UILoadingScreen_Base
+  - first:
+      213: 21300002
+    second: UI_SelfImage
+  - first:
+      213: 21300004
+    second: UILoadingScreen_BAR
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UILoadingScreen_Base
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 121
+        width: 25
+        height: 381
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -190.5}
+        - {x: -12.5, y: 190.5}
+        - {x: 12.5, y: 190.5}
+        - {x: 12.5, y: -190.5}
+      physicsShape:
+      - - {x: 5.5, y: 186.5}
+        - {x: -3.5, y: 186.5}
+        - {x: -8.5, y: 184.5}
+        - {x: -8.5, y: -184.5}
+        - {x: -3.5, y: -187.5}
+        - {x: 6.5, y: -187.5}
+        - {x: 9.5, y: -183.5}
+        - {x: 9.5, y: 181.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SelfImage
+      rect:
+        serializedVersion: 2
+        x: 11.07612
+        y: 344
+        width: 149.9239
+        height: 157
+      alignment: 9
+      pivot: {x: 0.4997462, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.03806, y: -78.5}
+        - {x: -75.03806, y: -74.5}
+        - {x: -75.03806, y: 33.5}
+        - {x: -72.03806, y: 66.5}
+        - {x: -60.03806, y: 78.5}
+        - {x: 36.96194, y: 78.5}
+        - {x: 59.96194, y: 74.5}
+        - {x: 74.96194, y: 44.5}
+        - {x: 74.96194, y: -68.5}
+        - {x: 68.96194, y: -78.5}
+      physicsShape:
+      - - {x: 56.96194, y: -59.5}
+        - {x: 65.96194, y: -50.5}
+        - {x: 64.96194, y: -47.5}
+        - {x: 61.96195, y: -46.5}
+        - {x: 71.96194, y: -10.5}
+        - {x: 71.96194, y: 24.5}
+        - {x: 60.96194, y: 50.5}
+        - {x: 22.96194, y: 76.5}
+        - {x: 14.96194, y: 77.5}
+        - {x: -35.03806, y: 77.5}
+        - {x: -39.03806, y: 76.5}
+        - {x: -61.03806, y: 61.5}
+        - {x: -59.03806, y: 58.5}
+        - {x: -56.03806, y: 57.5}
+        - {x: -49.03806, y: 59.5}
+        - {x: -48.03806, y: 60.5}
+        - {x: -38.03806, y: 61.5}
+        - {x: -40.03806, y: 61.5}
+        - {x: -57.03806, y: 44.5}
+        - {x: -67.03806, y: 28.5}
+        - {x: -69.03806, y: 7.5}
+        - {x: -69.03806, y: -16.5}
+        - {x: -61.03806, y: -40.5}
+        - {x: -51.03806, y: -52.5}
+        - {x: -31.03806, y: -73.5}
+        - {x: -17.03806, y: -78.50001}
+        - {x: -15.03806, y: -78.50001}
+        - {x: -13.03806, y: -77.5}
+        - {x: -13.03806, y: -75.5}
+        - {x: -11.03806, y: -68.5}
+        - {x: 17.96194, y: -72.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UILoadingScreen_BAR
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 139
+        width: 12
+        height: 368
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -184}
+        - {x: -6, y: 184}
+        - {x: 6, y: 184}
+        - {x: 6, y: -184}
+      physicsShape:
+      - - {x: -6, y: 184}
+        - {x: -6, y: -184}
+        - {x: 6, y: -184}
+        - {x: 6, y: 184}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UILoadingScreen_Base: 21300000
+      UI_SelfImage: 21300002
+      UILoadingScreen_BAR: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

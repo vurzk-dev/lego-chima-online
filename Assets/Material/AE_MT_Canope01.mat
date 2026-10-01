@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: AE_MT_Canope01
+  m_Shader: {fileID: 4800000, guid: 62bfdacc115f1d444b35a0caff64cbc8, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 313a28ee3c078444497f95620fe24b28, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AO: 2.4
+    - _Alpha1CTRL: 0.5
+    - _Alpha2CTRL: 0.66
+    - _AlphaWeakness: 0.91
+    - _Amp: 0.048
+    - _BaseLight: 0.2007463
+    - _BendingFactor: 0.99
+    - _Blend1: 0
+    - _Blend2: 0
+    - _Brightness: 0.98
+    - _BumpScale: 1
+    - _Cutoff: 0
+    - _Cycle: 1
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Freq: 3.29
+    - _FreshnelPower: 1.119608
+    - _Gamma: 1
+    - _Gloss: 0.8
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _LeafWindAmplitude: 0.021
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Opacity: 0.946
+    - _Parallax: 0.02
+    - _RotationCenter1: 1
+    - _RotationCenter2: 0
+    - _RotationSpeed1: 0
+    - _RotationSpeed2: 0
+    - _Scroll2X: 0
+    - _Scroll2Y: -0.2
+    - _ScrollSpeed1X: 0
+    - _ScrollSpeed1Y: 0
+    - _ScrollSpeed2X: 0
+    - _ScrollSpeed2Y: 0
+    - _ScrollSpeedAlpha1X: -1.29
+    - _ScrollSpeedAlpha1Y: 0
+    - _ScrollSpeedAlpha2X: 0
+    - _ScrollSpeedAlpha2Y: 0
+    - _ScrollX: 0.05117042
+    - _ScrollY: -0.22
+    - _ShakeBending: 0.078
+    - _ShakeDisplacement: 0
+    - _ShakeTime: 0.44
+    - _ShakeWindspeed: 0
+    - _Shininess: 0.04
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _Speed: 66.6
+    - _SquashAmount: 1
+    - _SrcBlend: 1
+    - _UNKNOWN1: 3.1
+    - _UNKNOWN2: 0
+    - _UNKNOWN4: 1.5
+    - _UVSec: 0
+    - _WaveSpeed: 79
+    - _WaveStrength: 1.08
+    - _WindEdgeFlutter: 0.47
+    - _WindEdgeFlutterFreqScale: 1.89
+    - _WindPower: 0.4958699
+    - _ZWrite: 1
+    - _brightness: 2.755641
+    - _chanel_A: 0
+    - _chanel_B: 0
+    - _chanel_G: 0
+    - _chanel_R: 1
+    - _map01_u_move: -0.03765822
+    - _map01_u_tiling: 5
+    - _map01_v_move: -0.0150376
+    - _map01_v_tiling: 2.5
+    - _map02_u_move: -0.03
+    - _map02_u_tiling: 1.1
+    - _map02_v_move: -0.03
+    - _map02_v_tiling: 2
+    - _map03_u_move: -0.01373429
+    - _map03_u_tiling: 2
+    - _map03_v_move: -0.02907109
+    - _map03_v_tiling: 1
+    - _map_add_transparency: 0.6893204
+    - _node_2491: 0.32
+    - _node_4111: 10
+    - _node_5992: 0
+    - _node_6043: 0
+    - _node_9312: 0.57
+    - _node_9568: 0.5128205
+    - _transparency: 0.4463561
+    - fClamp: 1
+    - fDecay: 0.93
+    - fDensity: 0.96
+    - fExposure: 0.6
+    - fWeight: 0.4
+    - fX: 0.5
+    - fY: 0.5
+    - iSamples: 20
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FlowU: {r: 1, g: 1, b: 0, a: 0}
+    - _FlowV: {r: 1, g: 1, b: 0, a: 0}
+    - _FogColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ReflectColor: {r: 1, g: 1, b: 1, a: 0.5}
+    - _Scale: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _TintColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _Wind: {r: 0, g: 0, b: 0.06, a: 1.25}
+    - _Winddirection: {r: 1, g: 0.5, b: 0.5, a: 0}
+    - _node_1846: {r: 1, g: 1, b: 1, a: 0}
+    - _node_5784: {r: 0.3014706, g: 0.3014706, b: 0.3014706, a: 0}

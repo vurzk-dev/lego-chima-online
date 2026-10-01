@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 34cca99a82eb7b241b6962d20c8e32c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: V1Chat_enter_normal
+  - first:
+      213: 21300002
+    second: V1Chat_0
+  - first:
+      213: 21300004
+    second: V1Chat_enter_pressed
+  - first:
+      213: 21300006
+    second: V1Chat_enter_mouseon
+  - first:
+      213: 21300008
+    second: V1Chat_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: V1Chat_enter_normal
+      rect:
+        serializedVersion: 2
+        x: 355.0761
+        y: 255.0761
+        width: 46.88097
+        height: 45.92388
+      alignment: 9
+      pivot: {x: 0.499646, y: 0.4991711}
+      border: {x: 1.923889, y: 1.923874, z: 1.957081, w: 1.000004}
+      outline:
+      - - {x: 23.4834, y: -23.03806}
+        - {x: -23.5166, y: -23.03806}
+        - {x: -23.5166, y: 22.96194}
+        - {x: 23.4834, y: 22.96194}
+      physicsShape:
+      - - {x: -20.5166, y: 22.96193}
+        - {x: -22.5166, y: 18.96194}
+        - {x: -22.5166, y: -18.03806}
+        - {x: -19.5166, y: -21.03806}
+        - {x: 4.483404, y: -22.03806}
+        - {x: 19.4834, y: -22.03806}
+        - {x: 21.4834, y: -19.03806}
+        - {x: 21.4834, y: 19.96193}
+        - {x: 20.4834, y: 22.96193}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V1Chat_0
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 423
+        width: 207
+        height: 42.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5125352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102.5, y: -21.46194}
+        - {x: -103.5, y: -21.46194}
+        - {x: -103.5, y: 20.53806}
+        - {x: -102.5, y: 21.53806}
+        - {x: 101.5, y: 21.53806}
+        - {x: 103.5, y: 19.53806}
+        - {x: 103.5, y: -20.46194}
+      physicsShape:
+      - - {x: -57.5, y: -13.46194}
+        - {x: -103.5, y: -13.46194}
+        - {x: -103.5, y: -19.46194}
+        - {x: -101.5, y: -21.46194}
+        - {x: 100.5, y: -21.46194}
+        - {x: 102.5, y: -19.46194}
+        - {x: 102.5, y: -16.46194}
+        - {x: 100.5, y: -14.46194}
+      - - {x: -101.5, y: 20.53806}
+        - {x: -103.5, y: 18.53806}
+        - {x: -103.5, y: 12.53806}
+        - {x: -4.5, y: 12.53806}
+        - {x: 100.5, y: 13.53806}
+        - {x: 102.5, y: 15.53806}
+        - {x: 102.5, y: 18.53806}
+        - {x: 100.5, y: 20.53806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V1Chat_enter_pressed
+      rect:
+        serializedVersion: 2
+        x: 355.0761
+        y: 304
+        width: 46.88097
+        height: 45.97325
+      alignment: 9
+      pivot: {x: 0.499646, y: 0.5002909}
+      border: {x: 1.923889, y: 2, z: 2.957081, w: 2.973248}
+      outline:
+      - - {x: 23.4834, y: -22.98663}
+        - {x: -23.5166, y: -22.98663}
+        - {x: -23.5166, y: 23.01337}
+        - {x: 23.4834, y: 23.01337}
+      physicsShape:
+      - - {x: -22.5166, y: 22.01337}
+        - {x: -22.5166, y: -21.98663}
+        - {x: -19.5166, y: -21.98663}
+        - {x: 17.4834, y: -22.98662}
+        - {x: 18.4834, y: -22.98662}
+        - {x: 21.4834, y: -20.98663}
+        - {x: 21.4834, y: 22.01337}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V1Chat_enter_mouseon
+      rect:
+        serializedVersion: 2
+        x: 403.0761
+        y: 303.0761
+        width: 46.88097
+        height: 45.92388
+      alignment: 9
+      pivot: {x: 0.499646, y: 0.4991715}
+      border: {x: 1.923889, y: 1.923889, z: 2.957081, w: 2.999989}
+      outline:
+      - - {x: 23.4834, y: -23.03805}
+        - {x: -23.5166, y: -23.03805}
+        - {x: -23.5166, y: 22.96195}
+        - {x: 23.4834, y: 22.96195}
+      physicsShape:
+      - - {x: -20.5166, y: 22.96195}
+        - {x: -22.5166, y: 18.96195}
+        - {x: -22.5166, y: -18.03805}
+        - {x: -19.5166, y: -21.03805}
+        - {x: 4.483404, y: -22.03805}
+        - {x: 19.4834, y: -22.03805}
+        - {x: 21.4834, y: -19.03805}
+        - {x: 21.4834, y: 19.96195}
+        - {x: 20.4834, y: 22.96195}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V1Chat_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 280
+        width: 259
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129.5, y: -112}
+        - {x: -129.5, y: -112}
+        - {x: -129.5, y: 112}
+        - {x: 129.5, y: 112}
+      physicsShape:
+      - - {x: -129.5, y: 112}
+        - {x: -129.5, y: -112}
+        - {x: 129.5, y: -112}
+        - {x: 129.5, y: 112}
+      - - {x: -121.5, y: -89}
+        - {x: -120.5, y: 90}
+        - {x: -109.5, y: 103}
+        - {x: 107.5, y: 102}
+        - {x: 119.5, y: -91}
+        - {x: 106.5, y: -103}
+        - {x: -107.5, y: -103}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      V1Chat_enter_mouseon: 21300006
+      V1Chat_0: 21300002
+      V1Chat_enter_pressed: 21300004
+      V1Chat_enter_normal: 21300000
+      V1Chat_29: 21300008
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: Vfx_GodRays_Static_Unlit_B
+  m_Shader: {fileID: 4800000, guid: 8c811a27c58811e4a89127afbeedcca4, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: d53bfbdbe8b8af04f825bdb64c64f385, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlphaWeakness: 1
+    - _Amount: 0.5
+    - _Amp: 0.1
+    - _Bias: 0.2
+    - _BlinkingTimeOffsScale: 5
+    - _Brightness: 1
+    - _ContractionAmount: 0
+    - _Cutoff: 0.1
+    - _DetailContrast: 0
+    - _DetailTexUvMul: 1.57
+    - _DetailTexUvMulB: 5.49
+    - _DetailTextureMul: 10.66
+    - _DetailTextureMulB: 15.02
+    - _Emission: 1
+    - _FadeOutDist: 100
+    - _FadeOutDistFar: 13.3
+    - _FadeOutDistNear: 10
+    - _Freq: 2.79
+    - _FresnelPower: 1.52
+    - _GodRaysMasterOpacity: 1.02
+    - _Illuminate: 0.5
+    - _Intensity: 1.5
+    - _InvFade: 0.45
+    - _MasterOpacity: 1
+    - _MaxGrowSize: 2.5
+    - _Multiplier: 1.4
+    - _NoiseAmount: 0.142
+    - _Outline: 0.005
+    - _ReplaySpeed: 1
+    - _RotationCenter1: 0.5
+    - _RotationCenter2: 0.5
+    - _RotationSpeed1: 0
+    - _RotationSpeed2: 0
+    - _Scale: 1
+    - _ScrollSpeed1X: 0
+    - _ScrollSpeed1Y: -4.8
+    - _ScrollSpeed2X: 0
+    - _ScrollSpeed2Y: 0
+    - _ScrollSpeedAlpha1X: 0
+    - _ScrollSpeedAlpha1Y: 0
+    - _ScrollSpeedAlpha2X: 0
+    - _ScrollSpeedAlpha2Y: 0
+    - _ScrollX: 0.25
+    - _ScrollXB: 0.2
+    - _ScrollY: 0.1
+    - _ScrollYB: 0.05
+    - _ShakeBending: 1
+    - _ShakeDisplacement: 1
+    - _ShakeTime: 1
+    - _ShakeWindspeed: 1
+    - _Shininess: 0.7
+    - _SizeGrowEndDist: 50
+    - _SizeGrowStartDist: 5
+    - _SoftEdge: 0.8
+    - _Speed: 0
+    - _StartAmount: 0.1
+    - _Tile: 1
+    - _TimeOffDuration: 0.1
+    - _TimeOnDuration: 5
+    - _Tweak: 0.65
+    - _VertAnimDisplacement: 0.1
+    - _VertAnimSpeed: 30
+    - _Width: 8.71
+    - fClamp: 1
+    - fDecay: 0.93
+    - fDensity: 0.96
+    - fExposure: 0.6
+    - fWeight: 0.4
+    - fX: 0.5
+    - fY: 0.5
+    - iSamples: 20
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorAnimate: {r: 1, g: 1, b: 1, a: 1}
+    - _DetailAnim: {r: 1, g: 1, b: 1, a: 0}
+    - _DifferentFloatValues: {r: 10, g: 15, b: 20, a: 4}
+    - _Displacement: {r: 0, g: 0, b: 0, a: 0}
+    - _DisplacementXz: {r: 0, g: 0, b: 0, a: 0}
+    - _DissColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FadeColor: {r: 1, g: 1, b: 1, a: 0.3}
+    - _NumTexTiles: {r: 4, g: 4, b: 0, a: 0}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _RefrColor: {r: 0.34, g: 0.85, b: 0.92, a: 1}
+    - _RefrColorDepth: {r: 0.34, g: 0.85, b: 0.92, a: 1}
+    - _ScrollUvValues: {r: 0.25, g: 0.1, b: 0.2, a: 0.05}
+    - _ShoreTiling: {r: 10, g: 10, b: 10, a: 10}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecularColor: {r: 0.72, g: 0.72, b: 0.72, a: 1}
+    - _TintColor: {r: 0.6544118, g: 0.46665, b: 0.06255405, a: 0.184}
+    - _UnderwaterColor: {r: 0.782, g: 0.92, b: 0.82, a: 1}
+    - _WaveAndDistance: {r: 0, g: 0, b: 0, a: 0}
+    - _WavingTint: {r: 0.7941176, g: 0.4466913, b: 0.0992647, a: 0.759}

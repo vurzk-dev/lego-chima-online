@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Art/Scenes/Login/Login.unity
+    guid: 7f8ad804360ee6b44a900990f798753b
+  - enabled: 1
+    path: Assets/Art/Scenes/CharSelector/CHARSEL_Players12.unity
+    guid: 2a361037e51f5ec4e8ea8591e1e03e74
+  - enabled: 1
+    path: Assets/Art/Scenes/Domain/OutPostV20.unity
+    guid: b6ce33ad65ac1ee4ab5cd7581cb66462
+  - enabled: 1
+    path: Assets/Art/Scenes/Mines/Mine01/Scenelayer_Cave_Mine01_Art.unity
+    guid: 738bdf6df6858df4fa76162116679e60
+  - enabled: 1
+    path: Assets/Art/Scenes/Forest/scene01/BuildPlayer-Scenelayer01_Art.unity
+    guid: 81ec9a3718159b5459c3986bfed91f63
+  - enabled: 1
+    path: Assets/Art/Scenes/Domain/PlayGround01.unity
+    guid: adad23685f6ec7e4689847ce9af57137

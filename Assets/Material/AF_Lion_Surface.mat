@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: AF_Lion_Surface
+  m_Shader: {fileID: 4800000, guid: 7fec6e41e12753a49bf75cb0d59f6f6b, type: 3}
+  m_ShaderKeywords: _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: d2332dd0996a1254b87b040962571fe1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Amplitude: 0.05
+    - _BaseOpacity: 0.2985075
+    - _BumpAmt: 10
+    - _BumpScale: 1
+    - _CenterX: 0.5
+    - _CenterY: 0.5
+    - _Color1Mul: 2.96
+    - _Cutoff: 0.5
+    - _Density: 0
+    - _DetailNormalMapScale: 1
+    - _Distortion: 0.1632124
+    - _DstBlend: 0
+    - _EdgeAlpha: 0
+    - _Emission: 1
+    - _EmissiveStrength: 1.11
+    - _ForceX: 0
+    - _ForceY: 0.1
+    - _Frequency: 0.5
+    - _FresnelPower: 12.6
+    - _FresnelScale: 0.75
+    - _FrezFalloff: 1.19403
+    - _FrezPow: 0.358209
+    - _GerstnerIntensity: 1
+    - _Gloss: 0.9402986
+    - _GlossMapScale: 0.808
+    - _Glossiness: 1
+    - _GlossyReflections: 1
+    - _HeatTime: 0
+    - _HeightFade: 3.384328
+    - _Intensity: 0.958
+    - _InvFade: 0.252
+    - _Metalics: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Offset: 0.5
+    - _Outline: 0
+    - _Parallax: 0.02
+    - _Radius: 0.2
+    - _RampPinch: 1.19
+    - _Reflection: 0
+    - _Scroll2X: 0
+    - _Scroll2Y: -0.2
+    - _ScrollTimeX: 0
+    - _ScrollTimeY: 0
+    - _ScrollX: 0
+    - _ScrollY: -0.12
+    - _Shininess: 0.06955095
+    - _Size: 1
+    - _SmoothnessTextureChannel: 1
+    - _SpecularHighlights: 1
+    - _SpecularPower: 1.27
+    - _SpecularStrength: 0.65
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _WaveScale: 0.07
+    - _ZWrite: 1
+    - _node_1293: 5.6
+    - _node_9107: 1.74
+    - fClamp: 1
+    - fDecay: 0.93
+    - fDensity: 0.96
+    - fExposure: 0.6
+    - fWeight: 0.4
+    - fX: 0.5
+    - fY: 0.5
+    - iSamples: 20
+    m_Colors:
+    - WaveSpeed: {r: 19, g: 9, b: -16, a: -7}
+    - _AnimationDirection: {r: 1, g: 1, b: 1, a: 1}
+    - _AnimationTiling: {r: 2.2, g: 2.2, b: -1.1, a: -1.1}
+    - _BaseColor: {r: 0.54, g: 0.95, b: 0.99, a: 0.5}
+    - _BumpDirection: {r: 1, g: 1, b: -1, a: 1}
+    - _BumpTiling: {r: 1, g: 1, b: -2, a: 3}
+    - _Color: {r: 0, g: 0.5033939, b: 0.8088235, a: 1}
+    - _Color1: {r: 0.2431499, g: 0.7201206, b: 0.880597, a: 1}
+    - _DistortParams: {r: 1, g: 1, b: 2, a: 1.15}
+    - _Edgecolor: {r: 1, g: 0.5147059, b: 0.5147059, a: 1}
+    - _EmisColor: {r: 0.2, g: 0.2, b: 0.2, a: 0}
+    - _Emission: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Foam: {r: 0.1, g: 0.375, b: 0, a: 0}
+    - _FogColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FreshnelColor: {r: 0, g: 0.2380469, b: 0.7279412, a: 1}
+    - _FresnelColor: {r: 0.1716418, g: 0.4438995, b: 1, a: 1}
+    - _GAmplitude: {r: 0.3, g: 0.35, b: 0.25, a: 0.25}
+    - _GDirectionAB: {r: 0.3, g: 0.85, b: 0.85, a: 0.25}
+    - _GDirectionCD: {r: 0.1, g: 0.9, b: 0.5, a: 0.5}
+    - _GFrequency: {r: 1.3, g: 1.35, b: 1.25, a: 1.25}
+    - _GSpeed: {r: 1.2, g: 1.375, b: 1.1, a: 1.5}
+    - _GSteepness: {r: 1, g: 1, b: 1, a: 1}
+    - _InvFadeParemeter: {r: 0.15, g: 0.15, b: 0.5, a: 1}
+    - _MainColor: {r: 0.07228781, g: 0.2550063, b: 0.4402985, a: 1}
+    - _OutlineColor: {r: 0, g: 0.1853448, b: 0.625, a: 1}
+    - _ReflectColor: {r: 1, g: 1, b: 1, a: 0.5}
+    - _ReflectionColor: {r: 0.54, g: 0.95, b: 0.99, a: 0.5}
+    - _SpecColor: {r: 0.5298507, g: 0.5857427, b: 1, a: 1}
+    - _SpecularColor: {r: 1, g: 0, b: 0, a: 1}
+    - _TintColor: {r: 0, g: 0.1544118, b: 0.3088235, a: 1}
+    - _WaveAndDistance: {r: 12, g: 3.6, b: 1, a: 1}
+    - _WavingTint: {r: 0.7, g: 0.6, b: 0.5, a: 0}
+    - _WorldLightDir: {r: 0, g: 0.1, b: -0.5, a: 0}
+    - _horizonColor: {r: 0.172, g: 0.463, b: 0.435, a: 0}
+    - _node_6167: {r: 0.2426471, g: 0.3732252, b: 1, a: 1}
+    - _node_7830: {r: 0.294388, g: 0.6203004, b: 0.7279412, a: 1}

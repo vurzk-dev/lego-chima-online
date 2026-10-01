@@ -1,0 +1,1501 @@
+fileFormatVersion: 2
+guid: 040e584a24ec5ac46b99e1ad5d2b2b5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UISocialFriendFinder_0
+  - first:
+      213: 21300002
+    second: UISocialFriendFinder_1
+  - first:
+      213: 21300004
+    second: UISocialFriendFinder_2
+  - first:
+      213: 21300006
+    second: UISocialFriendFinder_3
+  - first:
+      213: 21300008
+    second: UISocialFriendFinder_4
+  - first:
+      213: 21300010
+    second: UISocialFriendFinder_5
+  - first:
+      213: 21300012
+    second: UISocialFriendFinder_6
+  - first:
+      213: 21300014
+    second: UISocialFriendFinder_7
+  - first:
+      213: 21300016
+    second: UISocialFriendFinder_8
+  - first:
+      213: 21300018
+    second: UISocialFriendFinder_9
+  - first:
+      213: 21300020
+    second: UISocialFriendFinder_10
+  - first:
+      213: 21300022
+    second: UISocialFriendFinder_11
+  - first:
+      213: 21300024
+    second: UISocialFriendFinder_12
+  - first:
+      213: 21300026
+    second: UISocialFriendFinder_13
+  - first:
+      213: 21300028
+    second: UISocialFriendFinder_14
+  - first:
+      213: 21300030
+    second: UISocialFriendFinder_15
+  - first:
+      213: 21300032
+    second: UISocialFriendFinder_16
+  - first:
+      213: 21300034
+    second: UISocialFriendFinder_19
+  - first:
+      213: 21300036
+    second: UISocialFriendFinder_20
+  - first:
+      213: 21300038
+    second: UISocialFriendFinder_21
+  - first:
+      213: 21300040
+    second: UISocialFriendFinder_22
+  - first:
+      213: 21300042
+    second: UISocialFriendFinder_24
+  - first:
+      213: 21300044
+    second: UISocialFriendFinder_25
+  - first:
+      213: 21300046
+    second: UISocialFriendFinder_31
+  - first:
+      213: 21300048
+    second: UISocialFriendFinder_32
+  - first:
+      213: 21300050
+    second: UISocialFriendFinder_35
+  - first:
+      213: 21300052
+    second: UISocialFriendFinder_36
+  - first:
+      213: 21300054
+    second: UISocialFriendFinder_37
+  - first:
+      213: 21300056
+    second: UISocialFriendFinder_38
+  - first:
+      213: 21300058
+    second: UISocialFriendFinder_39
+  - first:
+      213: 21300060
+    second: UISocialFriendFinder_40
+  - first:
+      213: 21300062
+    second: UISocialFriendFinder_41
+  - first:
+      213: 21300064
+    second: UISocialFriendFinder_42
+  - first:
+      213: 21300066
+    second: UISocialFriendFinder_43
+  - first:
+      213: 21300068
+    second: UISocialFriendFinder_44
+  - first:
+      213: 21300070
+    second: UISocialFriendFinder_50
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UISocialFriendFinder_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 902
+        width: 426
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 213, y: -57.5}
+        - {x: -213, y: -57.5}
+        - {x: -213, y: 57.5}
+        - {x: 213, y: 57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_1
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 968
+        width: 52
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -25.5}
+        - {x: -26, y: -16.5}
+        - {x: -26, y: 19.5}
+        - {x: -22, y: 25.5}
+        - {x: 18, y: 25.5}
+        - {x: 26, y: 21.5}
+        - {x: 26, y: -24.5}
+        - {x: 21, y: -25.5}
+      physicsShape:
+      - - {x: 12, y: 25.5}
+        - {x: -21, y: 25.5}
+        - {x: -26, y: 9.5}
+        - {x: -26, y: -20.5}
+        - {x: -22, y: -25.5}
+        - {x: 26, y: -25.5}
+        - {x: 26, y: 12.5}
+        - {x: 23, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 908
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -26}
+        - {x: -26, y: -26}
+        - {x: -26, y: 23}
+        - {x: -15, y: 26}
+        - {x: 24, y: 26}
+        - {x: 26, y: 19}
+        - {x: 26, y: -25}
+      physicsShape:
+      - - {x: 15, y: 26}
+        - {x: -21, y: 26}
+        - {x: -26, y: 10}
+        - {x: -26, y: -16}
+        - {x: -14, y: -26}
+        - {x: 10, y: -26}
+        - {x: 24, y: -16}
+        - {x: 26, y: -11}
+        - {x: 26, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 865
+        width: 393
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -196.5, y: -13.5}
+        - {x: -196.5, y: 13.5}
+        - {x: 196.5, y: 13.5}
+        - {x: 196.5, y: -13.5}
+      physicsShape:
+      - - {x: -162.5, y: 13.5}
+        - {x: -167.5, y: -2.5}
+        - {x: -167.5, y: -13.5}
+        - {x: 196.5, y: -13.5}
+        - {x: 196.5, y: 13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 860
+        width: 33
+        height: 35.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5010595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -17.96194}
+        - {x: -16.5, y: -13.96194}
+        - {x: -16.5, y: 8.038061}
+        - {x: -7.5, y: 18.03806}
+        - {x: 3.5, y: 18.03806}
+        - {x: 16.5, y: 16.03806}
+        - {x: 16.5, y: -17.96194}
+      physicsShape:
+      - - {x: -5.5, y: 17.03806}
+        - {x: -16.5, y: 5.038062}
+        - {x: -16.5, y: -6.961939}
+        - {x: -6.5, y: -17.96194}
+        - {x: 2.5, y: -17.96194}
+        - {x: 15.5, y: -14.96194}
+        - {x: 16.5, y: -10.96194}
+        - {x: 16.5, y: 11.03806}
+        - {x: 5.5, y: 17.03806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 850
+        width: 52
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -25.5}
+        - {x: -26, y: -19.5}
+        - {x: -26, y: 18.5}
+        - {x: -13, y: 25.5}
+        - {x: 14, y: 25.5}
+        - {x: 26, y: 19.5}
+        - {x: 26, y: -21.5}
+        - {x: 25, y: -25.5}
+      physicsShape:
+      - - {x: -23, y: 25.5}
+        - {x: -26, y: 14.5}
+        - {x: -26, y: -8.5}
+        - {x: -24, y: -17.5}
+        - {x: -15, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 26, y: -21.5}
+        - {x: 26, y: 16.5}
+        - {x: 23, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 833
+        width: 393
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -196.5, y: -13.5}
+        - {x: -196.5, y: 13.5}
+        - {x: 196.5, y: 13.5}
+        - {x: 196.5, y: -13.5}
+      physicsShape:
+      - - {x: -167.5, y: 13.5}
+        - {x: -167.5, y: -13.5}
+        - {x: 196.5, y: -13.5}
+        - {x: 196.5, y: 13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 823
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -17}
+        - {x: -16.5, y: -3}
+        - {x: -16.5, y: 10}
+        - {x: -7.5, y: 17}
+        - {x: 12.5, y: 17}
+        - {x: 16.5, y: 15}
+        - {x: 16.5, y: -17}
+      physicsShape:
+      - - {x: -6.5, y: 17}
+        - {x: -16.5, y: 6}
+        - {x: -16.5, y: -7}
+        - {x: -6.5, y: -17}
+        - {x: 16.5, y: -17}
+        - {x: 16.5, y: 14}
+        - {x: 9.5, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_8
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 825
+        width: 19
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -10.5}
+        - {x: -9.5, y: 10.5}
+        - {x: 9.5, y: 10.5}
+        - {x: 9.5, y: -10.5}
+      physicsShape:
+      - - {x: -9.5, y: 10.5}
+        - {x: -9.5, y: -8.5}
+        - {x: -4.5, y: -10.5}
+        - {x: 3.5, y: -10.5}
+        - {x: 8.5, y: -8.5}
+        - {x: 9.5, y: -6.5}
+        - {x: 9.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 802
+        width: 393
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -196.5, y: -13.5}
+        - {x: -196.5, y: 13.5}
+        - {x: 196.5, y: 13.5}
+        - {x: 196.5, y: -13.5}
+      physicsShape:
+      - - {x: 196.5, y: 13.5}
+        - {x: -168.5, y: 13.5}
+        - {x: -196.5, y: -10.5}
+        - {x: -196.5, y: -13.5}
+        - {x: 196.5, y: -13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 718
+        width: 92
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: -50}
+        - {x: -46, y: -50}
+        - {x: -46, y: 50}
+        - {x: 3, y: 50}
+        - {x: 46, y: 45}
+      physicsShape:
+      - - {x: -46, y: 50}
+        - {x: -46, y: -48}
+        - {x: 46, y: -48}
+        - {x: 46, y: 42}
+        - {x: 12, y: 50}
+      - - {x: -13, y: -25}
+        - {x: -10, y: -28}
+        - {x: -8, y: -27}
+        - {x: -26, y: -26}
+      - - {x: 21, y: -28}
+        - {x: 24, y: -25}
+        - {x: 32, y: -18}
+        - {x: 35, y: -10}
+        - {x: 36, y: 12}
+        - {x: 28, y: 26}
+        - {x: 22, y: 29}
+        - {x: 18, y: 34}
+        - {x: 15, y: 35}
+        - {x: 9, y: 34}
+        - {x: 37, y: 33}
+        - {x: 37, y: -26}
+        - {x: 19, y: -27}
+        - {x: 20, y: -28}
+      - - {x: -16, y: 30}
+        - {x: -16, y: 33}
+        - {x: 1, y: 34}
+        - {x: -4, y: 35}
+        - {x: -7, y: 34}
+        - {x: -10, y: 31}
+        - {x: -11, y: 25}
+        - {x: -13, y: 25}
+        - {x: -14, y: 24}
+        - {x: -13, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 717
+        width: 86
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: -38.5}
+        - {x: -43, y: 38.5}
+        - {x: 43, y: 38.5}
+        - {x: 43, y: -38.5}
+      physicsShape:
+      - - {x: -43, y: 38.5}
+        - {x: -43, y: -38.5}
+        - {x: 43, y: -38.5}
+        - {x: 43, y: 38.5}
+      - - {x: -23, y: 31.5}
+        - {x: 36, y: 31.5}
+        - {x: 36, y: -31.5}
+        - {x: -23, y: -31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 760
+        width: 261
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129.5, y: -17}
+        - {x: -130.5, y: -17}
+        - {x: -130.5, y: 15}
+        - {x: -128.5, y: 17}
+        - {x: 130.5, y: 17}
+        - {x: 130.5, y: -14}
+      physicsShape:
+      - - {x: -130.5, y: -16}
+        - {x: -118.5, y: -16}
+        - {x: -118.5, y: 17}
+        - {x: -127.5, y: 17}
+        - {x: -130.5, y: 15}
+      - - {x: 120.5, y: 17}
+        - {x: 117.5, y: 10}
+        - {x: 117.5, y: -16}
+        - {x: 123.5, y: -16}
+        - {x: 130.5, y: -10}
+        - {x: 130.5, y: 16}
+        - {x: 129.5, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 723
+        width: 261
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 127.5, y: -16}
+        - {x: -130.5, y: -16}
+        - {x: -130.5, y: 14}
+        - {x: -128.5, y: 16}
+        - {x: 130.5, y: 16}
+        - {x: 130.5, y: -13}
+      physicsShape:
+      - - {x: -122.5, y: 15}
+        - {x: -123.5, y: 16}
+        - {x: -126.5, y: 16}
+        - {x: -130.5, y: 12}
+        - {x: -130.5, y: -16}
+        - {x: -125.5, y: -16}
+        - {x: -124.5, y: -15}
+        - {x: -124.5, y: -14}
+        - {x: -122.5, y: 13}
+      - - {x: 124.5, y: 16}
+        - {x: 117.5, y: 3}
+        - {x: 117.5, y: -16}
+        - {x: 125.5, y: -16}
+        - {x: 130.5, y: -11}
+        - {x: 130.5, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 37
+        height: 597
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: -298.5}
+        - {x: -18.5, y: -298.5}
+        - {x: -18.5, y: 296.5}
+        - {x: -16.5, y: 298.5}
+        - {x: 18.5, y: 298.5}
+        - {x: 18.5, y: -297.5}
+      physicsShape:
+      - - {x: -15.5, y: 298.5}
+        - {x: -15.5, y: -296.5}
+        - {x: 18.5, y: -296.5}
+        - {x: 18.5, y: 298.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 656
+        width: 55
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -28}
+        - {x: -27.5, y: -21}
+        - {x: -27.5, y: 27}
+        - {x: -24.5, y: 28}
+        - {x: 26.5, y: 28}
+        - {x: 27.5, y: 26}
+        - {x: 27.5, y: -26}
+        - {x: 18.5, y: -28}
+      physicsShape:
+      - - {x: -8.5, y: 27}
+        - {x: -18.5, y: 24}
+        - {x: -27.5, y: 14}
+        - {x: -27.5, y: -10}
+        - {x: -22.5, y: -25}
+        - {x: 15.5, y: -25}
+        - {x: 24.5, y: -14}
+        - {x: 24.5, y: 13}
+        - {x: 10.5, y: 27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 698
+        width: 176
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88, y: -9.5}
+        - {x: -88, y: 9.5}
+        - {x: 88, y: 9.5}
+        - {x: 88, y: -9.5}
+      physicsShape:
+      - - {x: -88.00001, y: 9.5}
+        - {x: -88.00001, y: -9.5}
+        - {x: 88.00001, y: -9.5}
+        - {x: 88.00001, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_19
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 675
+        width: 176
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88, y: -10}
+        - {x: -88, y: 10}
+        - {x: 88, y: 10}
+        - {x: 88, y: -10}
+      physicsShape:
+      - - {x: -88.00001, y: 10}
+        - {x: -88.00001, y: -10}
+        - {x: 88.00001, y: -10}
+        - {x: 88.00001, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 598
+        width: 55
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -27}
+        - {x: -27.5, y: -20}
+        - {x: -27.5, y: 23}
+        - {x: -26.5, y: 27}
+        - {x: 23.5, y: 27}
+        - {x: 27.5, y: 24}
+        - {x: 27.5, y: -20}
+        - {x: 25.5, y: -27}
+      physicsShape:
+      - - {x: -17.5, y: 27}
+        - {x: -27.5, y: 13}
+        - {x: -27.5, y: -9}
+        - {x: -25.5, y: -14}
+        - {x: -12.5, y: -24}
+        - {x: 7.5, y: -24}
+        - {x: 15.5, y: -22}
+        - {x: 24.5, y: -12}
+        - {x: 24.5, y: 14}
+        - {x: 13.5, y: 27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_21
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 653
+        width: 176
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88, y: -9.5}
+        - {x: -88, y: 9.5}
+        - {x: 88, y: 9.5}
+        - {x: 88, y: -9.5}
+      physicsShape:
+      - - {x: -88.00001, y: 9.5}
+        - {x: -88.00001, y: -9.5}
+        - {x: 88.00001, y: -9.5}
+        - {x: 88.00001, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_22
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 630
+        width: 157
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.5, y: -8.5}
+        - {x: -78.5, y: 8.5}
+        - {x: 78.5, y: 8.5}
+        - {x: 78.5, y: -8.5}
+      physicsShape:
+      - - {x: -68.5, y: 8.5}
+        - {x: -78.50001, y: -1.5}
+        - {x: -78.50001, y: -8.5}
+        - {x: 78.50001, y: -8.5}
+        - {x: 78.50001, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 609
+        width: 157
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.5, y: -6.5}
+        - {x: -78.5, y: 6.5}
+        - {x: 78.5, y: 6.5}
+        - {x: 78.5, y: -6.5}
+      physicsShape:
+      - - {x: -78.50001, y: 6.5}
+        - {x: -78.50001, y: -6.5}
+        - {x: 78.50001, y: -6.5}
+        - {x: 78.50001, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 540
+        width: 55
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -28}
+        - {x: -27.5, y: -21}
+        - {x: -27.5, y: 27}
+        - {x: -24.5, y: 28}
+        - {x: 26.5, y: 28}
+        - {x: 27.5, y: 26}
+        - {x: 27.5, y: -26}
+        - {x: 18.5, y: -28}
+      physicsShape:
+      - - {x: -8.5, y: 27}
+        - {x: -18.5, y: 24}
+        - {x: -27.5, y: 14}
+        - {x: -27.5, y: -10}
+        - {x: -22.5, y: -25}
+        - {x: 15.5, y: -25}
+        - {x: 24.5, y: -14}
+        - {x: 24.5, y: 13}
+        - {x: 10.5, y: 27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 560
+        width: 126
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: -9.5}
+        - {x: -63, y: 9.5}
+        - {x: 63, y: 9.5}
+        - {x: 63, y: -9.5}
+      physicsShape:
+      - - {x: -63, y: 7.5}
+        - {x: -63, y: -9.5}
+        - {x: 63, y: -9.5}
+        - {x: 63, y: 7.5}
+        - {x: 61, y: 9.5}
+        - {x: -61, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_32
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 453
+        width: 18
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -63}
+        - {x: -9, y: 63}
+        - {x: 9, y: 63}
+        - {x: 9, y: -63}
+      physicsShape:
+      - - {x: -9, y: -63}
+        - {x: 9, y: -63}
+        - {x: 9, y: 63}
+        - {x: -9, y: 63}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 486
+        width: 93
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.5, y: -42}
+        - {x: -46.5, y: -42}
+        - {x: -46.5, y: 42}
+        - {x: 46.5, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_36
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 538
+        width: 126
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: -9.5}
+        - {x: -63, y: 9.5}
+        - {x: 63, y: 9.5}
+        - {x: 63, y: -9.5}
+      physicsShape:
+      - - {x: -63, y: 9.5}
+        - {x: -63, y: -7.5}
+        - {x: -61, y: -9.5}
+        - {x: 61, y: -9.5}
+        - {x: 63, y: -7.5}
+        - {x: 63, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 464
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -34.5}
+        - {x: -48, y: -21.5}
+        - {x: -48, y: 29.5}
+        - {x: -35, y: 46.5}
+        - {x: 23, y: 46.5}
+        - {x: 48, y: 38.5}
+        - {x: 48, y: -36.5}
+        - {x: 23, y: -46.5}
+        - {x: -32, y: -46.5}
+      physicsShape:
+      - - {x: 40, y: 25.5}
+        - {x: 24, y: 41.5}
+        - {x: 11, y: 46.5}
+        - {x: -15, y: 46.5}
+        - {x: -28, y: 39.5}
+        - {x: -46, y: 28.5}
+        - {x: -48, y: 16.5}
+        - {x: -48, y: -16.5}
+        - {x: -40, y: -26.5}
+        - {x: -24, y: -41.5}
+        - {x: -12, y: -45.5}
+        - {x: 18, y: -45.5}
+        - {x: 45, y: -25.5}
+        - {x: 45, y: 17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_38
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 439
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: -46.5}
+        - {x: -48, y: -31.5}
+        - {x: -48, y: 24.5}
+        - {x: -32, y: 46.5}
+        - {x: 29, y: 46.5}
+        - {x: 48, y: 24.5}
+        - {x: 48, y: -18.5}
+        - {x: 36, y: -46.5}
+      physicsShape:
+      - - {x: 36, y: 30.5}
+        - {x: 27, y: 39.5}
+        - {x: 11, y: 46.5}
+        - {x: -18, y: 46.5}
+        - {x: -41, y: 29.5}
+        - {x: -46, y: 13.5}
+        - {x: -48, y: 8.5}
+        - {x: -48, y: -11.5}
+        - {x: -47, y: -19.5}
+        - {x: -27, y: -41.5}
+        - {x: -18, y: -45.5}
+        - {x: 10, y: -45.5}
+        - {x: 23, y: -43.5}
+        - {x: 42, y: -23.5}
+        - {x: 45, y: -15.5}
+        - {x: 45, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 380
+        width: 86
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: -38.5}
+        - {x: -43, y: 38.5}
+        - {x: 43, y: 38.5}
+        - {x: 43, y: -38.5}
+      physicsShape:
+      - - {x: -43, y: 38.5}
+        - {x: -43, y: -38.5}
+        - {x: 43, y: -38.5}
+        - {x: 43, y: 38.5}
+      - - {x: -23, y: 31.5}
+        - {x: 36, y: 31.5}
+        - {x: 36, y: -31.5}
+        - {x: -23, y: -31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_40
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 384
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -34.5}
+        - {x: -48, y: -21.5}
+        - {x: -48, y: 29.5}
+        - {x: -35, y: 46.5}
+        - {x: 23, y: 46.5}
+        - {x: 48, y: 38.5}
+        - {x: 48, y: -36.5}
+        - {x: 23, y: -46.5}
+        - {x: -32, y: -46.5}
+      physicsShape:
+      - - {x: 40, y: 25.5}
+        - {x: 25, y: 41.5}
+        - {x: 10, y: 46.5}
+        - {x: -19, y: 46.5}
+        - {x: -41, y: 29.5}
+        - {x: -48, y: 17.5}
+        - {x: -48, y: -13.5}
+        - {x: -40, y: -26.5}
+        - {x: -24, y: -41.5}
+        - {x: -12, y: -45.5}
+        - {x: 18, y: -45.5}
+        - {x: 43, y: -23.5}
+        - {x: 45, y: -14.5}
+        - {x: 45, y: 13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_41
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 355
+        width: 86
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: -38.5}
+        - {x: -43, y: 38.5}
+        - {x: 43, y: 38.5}
+        - {x: 43, y: -38.5}
+      physicsShape:
+      - - {x: -43, y: 38.5}
+        - {x: -43, y: -38.5}
+        - {x: 43, y: -38.5}
+        - {x: 43, y: 38.5}
+      - - {x: -23, y: 31.5}
+        - {x: 36, y: 31.5}
+        - {x: 36, y: -31.5}
+        - {x: -23, y: -31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_42
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 296
+        width: 86
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: -38.5}
+        - {x: -43, y: 38.5}
+        - {x: 43, y: 38.5}
+        - {x: 43, y: -38.5}
+      physicsShape:
+      - - {x: -43, y: 38.5}
+        - {x: -43, y: -38.5}
+        - {x: 43, y: -38.5}
+        - {x: 43, y: 38.5}
+      - - {x: -23, y: 31.5}
+        - {x: 36, y: 31.5}
+        - {x: 36, y: -31.5}
+        - {x: -23, y: -31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_43
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 300
+        width: 86
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: -38.5}
+        - {x: -43, y: 38.5}
+        - {x: 43, y: 38.5}
+        - {x: 43, y: -38.5}
+      physicsShape:
+      - - {x: -43, y: 38.5}
+        - {x: -43, y: -38.5}
+        - {x: 43, y: -38.5}
+        - {x: 43, y: 38.5}
+      - - {x: -23, y: 31.5}
+        - {x: 36, y: 31.5}
+        - {x: 36, y: -31.5}
+        - {x: -23, y: -31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_44
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 271
+        width: 86
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: -38.5}
+        - {x: -43, y: 38.5}
+        - {x: 43, y: 38.5}
+        - {x: 43, y: -38.5}
+      physicsShape:
+      - - {x: -43, y: 38.5}
+        - {x: -43, y: -38.5}
+        - {x: 43, y: -38.5}
+        - {x: 43, y: 38.5}
+      - - {x: -23, y: 31.5}
+        - {x: 36, y: 31.5}
+        - {x: 36, y: -31.5}
+        - {x: -23, y: -31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISocialFriendFinder_50
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 574
+        width: 107
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.5, y: -11}
+        - {x: -53.5, y: 11}
+        - {x: 53.5, y: 11}
+        - {x: 53.5, y: -11}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UISocialFriendFinder_15: 21300030
+      UISocialFriendFinder_1: 21300002
+      UISocialFriendFinder_12: 21300024
+      UISocialFriendFinder_16: 21300032
+      UISocialFriendFinder_38: 21300056
+      UISocialFriendFinder_41: 21300062
+      UISocialFriendFinder_4: 21300008
+      UISocialFriendFinder_36: 21300052
+      UISocialFriendFinder_43: 21300066
+      UISocialFriendFinder_40: 21300060
+      UISocialFriendFinder_35: 21300050
+      UISocialFriendFinder_2: 21300004
+      UISocialFriendFinder_44: 21300068
+      UISocialFriendFinder_3: 21300006
+      UISocialFriendFinder_22: 21300040
+      UISocialFriendFinder_11: 21300022
+      UISocialFriendFinder_14: 21300028
+      UISocialFriendFinder_0: 21300000
+      UISocialFriendFinder_6: 21300012
+      UISocialFriendFinder_5: 21300010
+      UISocialFriendFinder_13: 21300026
+      UISocialFriendFinder_19: 21300034
+      UISocialFriendFinder_21: 21300038
+      UISocialFriendFinder_25: 21300044
+      UISocialFriendFinder_32: 21300048
+      UISocialFriendFinder_50: 21300070
+      UISocialFriendFinder_7: 21300014
+      UISocialFriendFinder_39: 21300058
+      UISocialFriendFinder_24: 21300042
+      UISocialFriendFinder_10: 21300020
+      UISocialFriendFinder_9: 21300018
+      UISocialFriendFinder_8: 21300016
+      UISocialFriendFinder_31: 21300046
+      UISocialFriendFinder_20: 21300036
+      UISocialFriendFinder_42: 21300064
+      UISocialFriendFinder_37: 21300054
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: MF_Lion_Head_Template
+  m_Shader: {fileID: 4800000, guid: 4a424ca603f675b4e9d51ce8f3139e46, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Base_Mask:
+        m_Texture: {fileID: 2800000, guid: 31ba8fca848c4f54d8568ed0bf03637a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Detail:
+        m_Texture: {fileID: 2800000, guid: 62004f8e97988f843aa804bf15a25907, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Matcap1:
+        m_Texture: {fileID: 2800000, guid: bd8ac7cbd28baf64595e8843f0cfaa07, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Occlusion:
+        m_Texture: {fileID: 2800000, guid: 489008b8508768b4fb54b252bb6f2bf9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sticker:
+        m_Texture: {fileID: 2800000, guid: 5a7f943b766a5884087362712bcbae7e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sticker_Mask:
+        m_Texture: {fileID: 2800000, guid: abc88c3d733707e4fb909726d2ddad7d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - PixelSnap: 0
+    - _Ambiant_Light: 0
+    - _Emission: 0
+    - _Intensity: 1
+    - _NoiseTile: 8
+    - _Tile: 1
+    m_Colors:
+    - _Color: {r: 0.7960784, g: 0.4078431, b: 0.1411765, a: 1}
+    - _Color1: {r: 0.5686275, g: 0.1568628, b: 0.1215686, a: 1}
+    - _Color2: {r: 0.9333333, g: 0.7960784, b: 0.5843138, a: 1}
+    - _Color3: {r: 1, g: 1, b: 1, a: 1}
+    - _Sticker_Color: {r: 1, g: 0, b: 0, a: 1}
+    - _Sticker_Color1: {r: 1, g: 0, b: 0, a: 1}
+    - _Sticker_Color2: {r: 1, g: 0.5379311, b: 0, a: 1}

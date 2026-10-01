@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 5ca44056206d17345a5bbbf381e0b8fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UILifeBarWarlordEnemy_0
+  - first:
+      213: 21300002
+    second: UILifeBarWarlordEnemy_1
+  - first:
+      213: 21300004
+    second: UILifeBarWarlordEnemy_2
+  - first:
+      213: 21300006
+    second: UILifeBarWarlordEnemy_3
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 128
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UILifeBarWarlordEnemy_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 84
+        width: 121
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -19.5}
+        - {x: -60.5, y: -14.5}
+        - {x: -60.5, y: 12.5}
+        - {x: -52.5, y: 19.5}
+        - {x: 60.5, y: 19.5}
+        - {x: 60.5, y: -19.5}
+      physicsShape:
+      - - {x: 42.5, y: 16.5}
+        - {x: 38.5, y: 15.5}
+        - {x: 29.5, y: 8.5}
+        - {x: 20.5, y: 16.5}
+        - {x: 18.5, y: 16.5}
+        - {x: 7.5, y: 15.5}
+        - {x: -9.5, y: 12.5}
+        - {x: -17.5, y: 14.5}
+        - {x: -29.5, y: 11.5}
+        - {x: -33.5, y: 16.5}
+        - {x: -39.5, y: 16.5}
+        - {x: -50.5, y: 7.5}
+        - {x: -56.5, y: 0.5}
+        - {x: -56.5, y: -7.5}
+        - {x: -52.5, y: -13.5}
+        - {x: -49.5, y: -15.5}
+        - {x: 56.5, y: -15.5}
+        - {x: 58.5, y: -14.5}
+        - {x: 58.5, y: -7.5}
+        - {x: 50.5, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UILifeBarWarlordEnemy_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 70
+        width: 87
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: -4.5}
+        - {x: -43.5, y: 4.5}
+        - {x: 43.5, y: 4.5}
+        - {x: 43.5, y: -4.5}
+      physicsShape:
+      - - {x: -43.5, y: 4.5}
+        - {x: -43.5, y: -4.5}
+        - {x: 43.5, y: -4.5}
+        - {x: 43.5, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UILifeBarWarlordEnemy_2
+      rect:
+        serializedVersion: 2
+        x: 0.0761205
+        y: 23
+        width: 47.92388
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4992058, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.03806, y: -21.5}
+        - {x: -24.03806, y: -17.5}
+        - {x: -24.03806, y: 15.5}
+        - {x: -14.03806, y: 21.5}
+        - {x: -0.03805923, y: 21.5}
+        - {x: 18.96194, y: 16.5}
+        - {x: 23.96194, y: 8.5}
+        - {x: 23.96194, y: -19.5}
+        - {x: 22.96194, y: -21.5}
+      physicsShape:
+      - - {x: -4.038059, y: 20.5}
+        - {x: -11.03806, y: 20.5}
+        - {x: -21.03806, y: 1.5}
+        - {x: -21.03806, y: -8.5}
+        - {x: -8.038059, y: -21.5}
+        - {x: 7.961941, y: -21.5}
+        - {x: 22.96194, y: -18.5}
+        - {x: 22.96194, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UILifeBarWarlordEnemy_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 87
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: -4}
+        - {x: -43.5, y: 4}
+        - {x: 43.5, y: 4}
+        - {x: 43.5, y: -4}
+      physicsShape:
+      - - {x: -43.5, y: 4}
+        - {x: -43.5, y: -4}
+        - {x: 43.5, y: -4}
+        - {x: 43.5, y: 3}
+        - {x: 42.5, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UILifeBarWarlordEnemy_0: 21300000
+      UILifeBarWarlordEnemy_3: 21300006
+      UILifeBarWarlordEnemy_2: 21300004
+      UILifeBarWarlordEnemy_1: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

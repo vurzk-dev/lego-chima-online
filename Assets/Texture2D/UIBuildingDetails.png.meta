@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 282f67dedbf0d4d4eacbcc144560cb92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UIBuildingDetails_13
+  - first:
+      213: 21300002
+    second: UIBuildingDetails_1
+  - first:
+      213: 21300004
+    second: UIBuildingDetails_10
+  - first:
+      213: 21300006
+    second: UIBuildingDetails_11
+  - first:
+      213: 21300008
+    second: UIBuildingDetails_12
+  - first:
+      213: 21300010
+    second: UIBuildingDetails_14
+  - first:
+      213: 21300012
+    second: UIBuildingDetails_15
+  - first:
+      213: 21300014
+    second: UIBuildingDetails_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UIBuildingDetails_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 34
+        width: 27
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -15}
+        - {x: -13.5, y: 15}
+        - {x: 13.5, y: 15}
+        - {x: 13.5, y: -15}
+      physicsShape:
+      - - {x: -13.5, y: 15}
+        - {x: -13.5, y: -12}
+        - {x: -7.5, y: -15}
+        - {x: 8.5, y: -15}
+        - {x: 13.5, y: -9.999999}
+        - {x: 13.5, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIBuildingDetails_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 172
+        width: 251
+        height: 333
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116.5, y: -166.5}
+        - {x: -125.5, y: -157.5}
+        - {x: -125.5, y: 166.5}
+        - {x: 125.5, y: 166.5}
+        - {x: 125.5, y: -166.5}
+      physicsShape:
+      - - {x: 125.5, y: 41.5}
+        - {x: 125.5, y: 161.5}
+        - {x: -125.5, y: 161.5}
+        - {x: -125.5, y: -145.5}
+        - {x: -104.5, y: -166.5}
+        - {x: 125.5, y: -166.5}
+        - {x: 125.5, y: 37.5}
+        - {x: 123.5, y: 37.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIBuildingDetails_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 12
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -17}
+        - {x: -21, y: -7}
+        - {x: -21, y: 11}
+        - {x: -10, y: 17}
+        - {x: 14, y: 17}
+        - {x: 21, y: 12}
+        - {x: 21, y: -6}
+        - {x: 14, y: -17}
+      physicsShape:
+      - - {x: 17, y: 17}
+        - {x: -17, y: 17}
+        - {x: -20, y: 8}
+        - {x: -20, y: -5}
+        - {x: -11, y: -12}
+        - {x: -1, y: -16}
+        - {x: 3, y: -16}
+        - {x: 14, y: -11}
+        - {x: 19, y: -6}
+        - {x: 19, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIBuildingDetails_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 25
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -17}
+        - {x: -16, y: -13}
+        - {x: -16, y: 17}
+        - {x: 16, y: 17}
+        - {x: 16, y: -17}
+      physicsShape:
+      - - {x: -12, y: 17}
+        - {x: -15, y: 14}
+        - {x: -16, y: 9.999999}
+        - {x: -16, y: -8}
+        - {x: -8, y: -16}
+        - {x: 5, y: -16}
+        - {x: 15, y: -8}
+        - {x: 15, y: 15}
+        - {x: 9.999999, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIBuildingDetails_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 27
+        width: 35
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -16.5}
+        - {x: -17.5, y: -10.5}
+        - {x: -17.5, y: 15.5}
+        - {x: -16.5, y: 16.5}
+        - {x: 17.5, y: 16.5}
+        - {x: 17.5, y: -13.5}
+        - {x: 16.5, y: -16.5}
+      physicsShape:
+      - - {x: -15.5, y: 16.5}
+        - {x: -16.5, y: 14.5}
+        - {x: -16.5, y: -15.5}
+        - {x: -11.5, y: -16.5}
+        - {x: 13.5, y: -16.5}
+        - {x: 17.5, y: -9.5}
+        - {x: 17.5, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIBuildingDetails_14
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 33
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -16.5}
+        - {x: -16.5, y: -16.5}
+        - {x: -16.5, y: 16.5}
+        - {x: 16.5, y: 16.5}
+      physicsShape:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIBuildingDetails_15
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 34
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -16.5}
+        - {x: -16.5, y: -16.5}
+        - {x: -16.5, y: 16.5}
+        - {x: 16.5, y: 16.5}
+      physicsShape:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIBuildingDetails_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 14
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -11.5}
+        - {x: -7, y: 11.5}
+        - {x: 7, y: 11.5}
+        - {x: 7, y: -11.5}
+      physicsShape:
+      - - {x: -7, y: 11.5}
+        - {x: -7, y: 5.5}
+        - {x: 4, y: -10.5}
+        - {x: 7, y: -10.5}
+        - {x: 7, y: 6.5}
+        - {x: -4, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UIBuildingDetails_14: 21300010
+      UIBuildingDetails_15: 21300012
+      UIBuildingDetails_10: 21300004
+      UIBuildingDetails_11: 21300006
+      UIBuildingDetails_13: 21300000
+      UIBuildingDetails_1: 21300002
+      UIBuildingDetails_12: 21300008
+      UIBuildingDetails_16: 21300014
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

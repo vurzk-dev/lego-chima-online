@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_Name: AE_Ruins_CastleFloor_01
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 48
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 18
+    localAABB:
+      m_Center: {x: -0.4365876, y: 1.109379, z: -9.521484E-07}
+      m_Extent: {x: 4.338296, y: 4.272383, z: 0}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes:
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 1
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer:
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 0
+    m_VertexCount: 0
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 0
+    _typelessdata:
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 54
+      m_Range: 10.15664
+      m_Start: -4.774883
+      m_Data: 836990b6b99e8577ac362e30ef59785099e199da9e85379806a2eee65978c76aa39d359e85a71cc19ea9ed59785b05f8ffff9e85e75b5affffef59785440ea02f39e85a71cc16ee0e459781dab4d50949e858719d4699beb597898412dea6e9e85b755800a8ae259785440aa9d359e85e75b5a0a8ae259785099e1064e9e850700000445e95978
+      m_BitSize: 20
+    m_UV:
+      m_NumItems: 72
+      m_Range: 3.471134
+      m_Start: 0.00390625
+      m_Data: e7241729a7dbfba0929f7cabf357d665917291c40d2af9c9f7f0ee5ee0f33bec05be6caababdafb8cd5ae0f0ee25c1feff7f4ef299fb655d9eb9cf1e1abfc391c4adb8cd1e9a6caaac05aaf35712ac2b6ec9082405538dc46743132268b4938cc06817d5483045401490463bf8aab47b048647bb4783da7c364414d0740c5923d93d02a9515230901a8d7681af0a000083da3045008607000013224cc7000080dd23
+      m_BitSize: 18
+    m_Normals:
+      m_NumItems: 36
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 18
+      m_Data: ffff03
+      m_BitSize: 1
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 48
+      m_Data: 20083042182490128a09e698820a4925a9a2964a2c91969a6be49101e300
+      m_BitSize: 5
+    m_UVInfo: 85
+  m_LocalAABB:
+    m_Center: {x: -0.4365876, y: 1.109379, z: -9.521484E-07}
+    m_Extent: {x: 4.338296, y: 4.272383, z: 0}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshOptimized: 1

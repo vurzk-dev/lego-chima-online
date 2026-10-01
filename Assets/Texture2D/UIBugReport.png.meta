@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: eb312bd54fa44c74dacd4d44f4451066
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UIBugReport_9
+  - first:
+      213: 21300002
+    second: UIBugReport_14
+  - first:
+      213: 21300004
+    second: UIBugReport_16
+  - first:
+      213: 21300006
+    second: UIBugReport_18
+  - first:
+      213: 21300008
+    second: UIBugReport_1
+  - first:
+      213: 21300010
+    second: UIBugReport_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UIBugReport_9
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 244
+        width: 48
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -15}
+        - {x: -24, y: 15}
+        - {x: 24, y: 15}
+        - {x: 24, y: -15}
+      physicsShape:
+      - - {x: -24, y: 2}
+        - {x: -24, y: -6}
+        - {x: -11, y: -15}
+        - {x: -2, y: -15}
+        - {x: 24, y: 9}
+        - {x: 24, y: 15}
+        - {x: 6, y: 15}
+        - {x: -11, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIBugReport_14
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 106
+        width: 116
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: -25}
+        - {x: -58, y: -25}
+        - {x: -58, y: 25}
+        - {x: 58, y: 25}
+      physicsShape:
+      - - {x: -58, y: 22}
+        - {x: -58, y: -24}
+        - {x: 56, y: -24}
+        - {x: 56, y: 22}
+        - {x: 53, y: 25}
+        - {x: -55, y: 25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIBugReport_16
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 52
+        width: 116
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: -25}
+        - {x: -58, y: -25}
+        - {x: -58, y: 25}
+        - {x: 58, y: 25}
+      physicsShape:
+      - - {x: -56, y: 25}
+        - {x: -58, y: 23}
+        - {x: -58, y: -19}
+        - {x: -57, y: -23}
+        - {x: 56, y: -23}
+        - {x: 56, y: 23}
+        - {x: 54, y: 25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIBugReport_18
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 116
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: -24.5}
+        - {x: -58, y: -24.5}
+        - {x: -58, y: 24.5}
+        - {x: 58, y: 24.5}
+      physicsShape:
+      - - {x: -56, y: 24.5}
+        - {x: -58, y: 22.5}
+        - {x: -58, y: -23.5}
+        - {x: 56, y: -23.5}
+        - {x: 56, y: 22.5}
+        - {x: 54, y: 24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIBugReport_1
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 450
+        width: 24
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -17}
+        - {x: -12, y: 17}
+        - {x: 12, y: 17}
+        - {x: 12, y: -17}
+      physicsShape:
+      - - {x: -4, y: 17}
+        - {x: -12, y: 17}
+        - {x: -12, y: -16}
+        - {x: -3, y: -16}
+        - {x: 9, y: -8}
+        - {x: 12, y: -2}
+        - {x: 12, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIBugReport_13
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 3
+        width: 270.9732
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5000494, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -125.4866, y: -79.5}
+        - {x: -135.4866, y: -75.5}
+        - {x: -135.4866, y: -69.5}
+        - {x: -133.4866, y: 27.5}
+        - {x: -135.4866, y: 45.5}
+        - {x: -135.4866, y: 67.5}
+        - {x: -130.4866, y: 79.5}
+        - {x: 129.5134, y: 79.5}
+        - {x: 135.5134, y: 77.5}
+        - {x: 135.5134, y: -78.5}
+        - {x: 103.5134, y: -79.5}
+        - {x: 54.51338, y: -79.5}
+        - {x: -51.48662, y: -74.5}
+        - {x: -94.48662, y: -79.5}
+      physicsShape:
+      - - {x: 45.51338, y: -75.5}
+        - {x: 76.51338, y: -79.49999}
+        - {x: 130.5134, y: -78.5}
+        - {x: 134.5134, y: -76.5}
+        - {x: 134.5134, y: -18.5}
+        - {x: 135.5134, y: -1.5}
+        - {x: 135.5134, y: 14.5}
+        - {x: 132.5134, y: 15.5}
+        - {x: 135.5134, y: 40.5}
+        - {x: 132.5134, y: 54.5}
+        - {x: 132.5134, y: 75.5}
+        - {x: 130.5134, y: 77.5}
+        - {x: 64.51338, y: 77.5}
+        - {x: 64.51338, y: 76.5}
+        - {x: -43.48662, y: 76.5}
+        - {x: -43.48662, y: 77.5}
+        - {x: -62.48662, y: 77.5}
+        - {x: -79.48661, y: 76.5}
+        - {x: -104.4866, y: 77.5}
+        - {x: -130.4866, y: 77.5}
+        - {x: -135.4866, y: 66.5}
+        - {x: -135.4866, y: 56.5}
+        - {x: -131.4866, y: 28.5}
+        - {x: -133.4866, y: -0.5}
+        - {x: -133.4866, y: -48.5}
+        - {x: -135.4866, y: -75.5}
+        - {x: -120.4866, y: -79.49999}
+        - {x: -109.4866, y: -79.49999}
+        - {x: -106.4866, y: -76.5}
+        - {x: -75.48662, y: -75.5}
+        - {x: -46.48662, y: -73.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UIBugReport_18: 21300006
+      UIBugReport_14: 21300002
+      UIBugReport_9: 21300000
+      UIBugReport_13: 21300010
+      UIBugReport_1: 21300008
+      UIBugReport_16: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,282 @@
+<Database>
+  <ConfigVersion value="1" />
+  <Building>
+    <BuildingType ID="0" Name="Portal" Info="" TileX="12" TileZ="12" LevelMax="5" Category="0" MaxCount="1,1,1,1,1,1,1,1,1,1">
+      <BuildingDef HitPoint="1500" BuildPrice="0,0,0" BuildTime="0" PlayerLevelRequired="0">
+        <Capacity Brick="1000000" Studs="1000000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="1600" BuildPrice="1000,0,0" BuildTime="10" PlayerLevelRequired="1">
+        <Capacity Brick="1000000" Studs="1000000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="1850" BuildPrice="4000,0,0" BuildTime="10800" PlayerLevelRequired="2">
+        <Capacity Brick="1000000" Studs="1000000" />
+      </BuildingDef>
+    </BuildingType>
+	<BuildingType ID="1" Name="Eagle Tent" Info="Eagles are eager to produce studs for you!" TileX="5" TileZ="5" LevelMax="5" Category="0" MaxCount="10,10,10,10,10,10,10,10,10,10">
+        	<BuildingDef HitPoint="250" BuildPrice="0,700,0" BuildTime="10" PlayerLevelRequired="0">
+                	<Capacity Brick="0" Studs="1000000" />
+			<Production Type="Studs" ProductionRate="1" />
+		</BuildingDef>
+		<BuildingDef HitPoint="500" BuildPrice="0,2250,0" BuildTime="20" PlayerLevelRequired="0">
+			<Capacity Brick="0" Studs="1000000" />
+			<Production Type="Studs" ProductionRate="1.2" />
+		</BuildingDef>
+		<BuildingDef HitPoint="750" BuildPrice="0,7000,0" BuildTime="30" PlayerLevelRequired="0">
+			<Capacity Brick="0" Studs="1000000" />
+			<Production Type="Studs" ProductionRate="1.3" />
+		</BuildingDef>
+		<BuildingDef HitPoint="1000" BuildPrice="0,13550,0" BuildTime="60" PlayerLevelRequired="0">
+			<Capacity Brick="0" Studs="1000000" />
+			<Production Type="Studs" ProductionRate="1.4" />
+		</BuildingDef>
+		<BuildingDef HitPoint="1250" BuildPrice="0,16555,0" BuildTime="120" PlayerLevelRequired="0">
+			<Capacity Brick="0" Studs="1000000" />
+			<Production Type="Studs" ProductionRate="1.5" />
+		</BuildingDef>
+	</BuildingType>
+	<BuildingType ID="2" Name="Wall" Info="Invisible" TileX="2" TileZ="2" LevelMax="5" Category="0" MaxCount="10,10,10,10,10,10,10,10,10,10">
+	        <BuildingDef HitPoint="250" BuildPrice="0,15000,0" BuildTime="10" PlayerLevelRequired="0">
+        	        <Capacity Brick="1000000" Studs="0" />
+	        </BuildingDef>
+	</BuildingType>
+
+	<BuildingType ID="3" Name="Brick FarmB 1x1" Info="Gorilla Farmers gather bricks to help you build!" TileX="6" TileZ="6" LevelMax="5" Category="0" MaxCount="10,10,10,10,10,10,10,10,10,10">
+	        <BuildingDef HitPoint="250" BuildPrice="0,50000,0" BuildTime="10" PlayerLevelRequired="0">
+        	        <Capacity Brick="1000000" Studs="0" />
+                	<Production Type="Brick" ProductionRate="1" />
+	        </BuildingDef>
+        	<BuildingDef HitPoint="500" BuildPrice="0,75000,0" BuildTime="20" PlayerLevelRequired="0">
+                	<Capacity Brick="1000000" Studs="0" />
+	                <Production Type="Brick" ProductionRate="1.2" />
+        	</BuildingDef>
+	        <BuildingDef HitPoint="750" BuildPrice="0,90000,0" BuildTime="30" PlayerLevelRequired="0">
+        	        <Capacity Brick="1000000" Studs="0" />
+                	<Production Type="Brick" ProductionRate="1.3" />
+	         </BuildingDef>
+        	<BuildingDef HitPoint="1000" BuildPrice="0,105000,0" BuildTime="60" PlayerLevelRequired="0">
+                	<Capacity Brick="1000000" Studs="0" />
+	                <Production Type="Brick" ProductionRate="1.4" />
+        	</BuildingDef>
+		<BuildingDef HitPoint="1250" BuildPrice="0,130000,0" BuildTime="120" PlayerLevelRequired="0">
+		        <Capacity Brick="1000000" Studs="0" />
+		        <Production Type="Brick" ProductionRate="1.5" />
+		</BuildingDef>
+	</BuildingType>
+
+	<BuildingType ID="4" Name="Brick Farm 2x1" Info="Gorilla Brickmakers produce bricks to for your building needs!" TileX="6" TileZ="6" LevelMax="5" Category="0" MaxCount="10,10,10,10,10,10,10,10,10,10">
+	        <BuildingDef HitPoint="250" BuildPrice="0,30000,0" BuildTime="10" PlayerLevelRequired="0">
+        	        <Capacity Brick="1000000" Studs="0" />
+                	<Production Type="Brick" ProductionRate="1" />
+	        </BuildingDef>
+        	<BuildingDef HitPoint="500" BuildPrice="0,75000,0" BuildTime="20" PlayerLevelRequired="0">
+                	<Capacity Brick="1000000" Studs="0" />
+	                <Production Type="Brick" ProductionRate="1.2" />
+        	</BuildingDef>
+	        <BuildingDef HitPoint="750" BuildPrice="0,150000,0" BuildTime="30" PlayerLevelRequired="0">
+        	        <Capacity Brick="1000000" Studs="0" />
+                	<Production Type="Brick" ProductionRate="1.3" />
+	         </BuildingDef>
+	        <BuildingDef HitPoint="1000" BuildPrice="0,300000,0" BuildTime="60" PlayerLevelRequired="0">
+        	        <Capacity Brick="1000000" Studs="0" />
+                	<Production Type="Brick" ProductionRate="1.4" />
+	         </BuildingDef>
+	        <BuildingDef HitPoint="1250" BuildPrice="0,600000,0" BuildTime="120" PlayerLevelRequired="0">
+        	        <Capacity Brick="1000000" Studs="0" />
+                	<Production Type="Brick" ProductionRate="1.5" />
+	         </BuildingDef>
+
+	</BuildingType>
+
+	<BuildingType ID="5" Name="Lion Tent" Info="The Lion Hut produces studs - for CHIMA!" TileX="5" TileZ="5" LevelMax="5" Category="0" MaxCount="10,10,10,10,10,10,10,10,10,10">
+	        <BuildingDef HitPoint="250" BuildPrice="0,0,10" BuildTime="10" PlayerLevelRequired="0">
+        	        <Capacity Brick="0" Studs="1000000" />
+                	<Production Type="Studs" ProductionRate="2" />
+	        </BuildingDef>
+        	<BuildingDef HitPoint="500" BuildPrice="0,14500,0" BuildTime="20" PlayerLevelRequired="0">
+                	<Capacity Brick="0" Studs="1000000" />
+	                <Production Type="Studs" ProductionRate="2.2" />
+        	</BuildingDef>
+	        <BuildingDef HitPoint="750" BuildPrice="0,18500,0" BuildTime="30" PlayerLevelRequired="0">
+        	        <Capacity Brick="0" Studs="1000000" />
+                	<Production Type="Studs" ProductionRate="2.3" />
+	         </BuildingDef>
+        	<BuildingDef HitPoint="1000" BuildPrice="0,25000,0" BuildTime="60" PlayerLevelRequired="0">
+                	<Capacity Brick="0" Studs="1000000" />
+	                <Production Type="Studs" ProductionRate="2.4" />
+        	</BuildingDef>
+        	<BuildingDef HitPoint="1250" BuildPrice="0,50000,0" BuildTime="120" PlayerLevelRequired="0">
+                	<Capacity Brick="0" Studs="1000000" />
+	                <Production Type="Studs" ProductionRate="2.5" />
+        	</BuildingDef>
+	</BuildingType>
+
+	<BuildingType ID="6" Name="Blacksmith" Info="Build and customize your own weapons at Blacksmith!" TileX="6" TileZ="8" LevelMax="5" Category="1" MaxCount="1,1,1,1,1,1,1,1,1,1">
+		<BuildingDef HitPoint="250" BuildPrice="0,1500,0" BuildTime="10" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="500" BuildPrice="0,4500,0" BuildTime="20" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="750" BuildPrice="0,8000,0" BuildTime="30" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1000" BuildPrice="0,16000,0" BuildTime="40" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1250" BuildPrice="0,18750,0" BuildTime="50" PlayerLevelRequired="0" />
+	</BuildingType>
+
+	<BuildingType ID="7" Name="Armorer" Info="The Lion Armorer will let you craft armor from building instructions." TileX="6" TileZ="8" LevelMax="5" Category="1" MaxCount="1,1,1,1,1,1,1,1,1,1">
+		<BuildingDef HitPoint="1500" BuildPrice="0,4500,0" BuildTime="10" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="4500" BuildPrice="0,6000,0" BuildTime="20" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="8000" BuildPrice="0,10000,0" BuildTime="30" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="16000" BuildPrice="0,19000,0" BuildTime="40" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="18750" BuildPrice="0,25000,0" BuildTime="50" PlayerLevelRequired="0" />
+	</BuildingType>
+
+	<BuildingType ID="8" Name="Lion House" Info="The Lion House produces lots of studs - for CHIMA!" TileX="7" TileZ="7" LevelMax="5" Category="0" MaxCount="10,10,10,10,10,10,10,10,10,10">
+	        <BuildingDef HitPoint="250" BuildPrice="0,25000,0" BuildTime="10" PlayerLevelRequired="0">
+        	        <Capacity Brick="0" Studs="1000000" />
+                	<Production Type="Studs" ProductionRate="2" />
+	        </BuildingDef>
+        	<BuildingDef HitPoint="500" BuildPrice="0,45000,0" BuildTime="20" PlayerLevelRequired="0">
+                	<Capacity Brick="0" Studs="1000000" />
+	                <Production Type="Studs" ProductionRate="2.2" />
+        	</BuildingDef>
+	        <BuildingDef HitPoint="750" BuildPrice="0,76500,0" BuildTime="30" PlayerLevelRequired="0">
+        	        <Capacity Brick="0" Studs="1000000" />
+                	<Production Type="Studs" ProductionRate="2.3" />
+	         </BuildingDef>
+        	<BuildingDef HitPoint="1000" BuildPrice="0,87500,0" BuildTime="60" PlayerLevelRequired="0">
+                	<Capacity Brick="0" Studs="1000000" />
+	                <Production Type="Studs" ProductionRate="2.4" />
+        	</BuildingDef>
+        	<BuildingDef HitPoint="1250" BuildPrice="0,11550,0" BuildTime="120" PlayerLevelRequired="0">
+                	<Capacity Brick="0" Studs="1000000" />
+	                <Production Type="Studs" ProductionRate="2.5" />
+        	</BuildingDef>
+	</BuildingType>
+
+	<BuildingType ID="9" Name="Proto Spewer Bay" Info="Drop the Proto-Spewer in battle for some extra damage!" TileX="7" TileZ="8" LevelMax="5" Category="2" MaxCount="1,1,1,1,1,1,1,1,1,1">
+		<BuildingDef HitPoint="250" BuildPrice="0,700,0" BuildTime="10" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="500" BuildPrice="0,2000,0" BuildTime="20" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="750" BuildPrice="0,6350,0" BuildTime="30" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1000" BuildPrice="0,10285,0" BuildTime="40" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1250" BuildPrice="0,13350,0" BuildTime="50" PlayerLevelRequired="0" />
+	</BuildingType>
+	<BuildingType ID="10" Name="Armor Enchanter" Info="Enhance your armor with a boost of health (HP)" TileX="5" TileZ="5" LevelMax="5" Category="0" MaxCount="1,1,1,1,1,1,1,1,1,1">
+		<BuildingDef HitPoint="250" BuildPrice="0,0,40" BuildTime="10" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="500" BuildPrice="0,30000,0" BuildTime="20" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="750" BuildPrice="0,75000,0" BuildTime="30" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1000" BuildPrice="0,110000,0" BuildTime="40" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1250" BuildPrice="0,235000,0" BuildTime="50" PlayerLevelRequired="0" />
+	</BuildingType>
+	<BuildingType ID="11" Name="Chi Blast" Info="Gives you the ability to cast a burst of CHI energy that will damage all enemies!" TileX="6" TileZ="6" LevelMax="5" Category="3" MaxCount="1,1,1,1,1,1,1,1,1,1">
+		<BuildingDef HitPoint="250" BuildPrice="0,0,100" BuildTime="10" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="500" BuildPrice="0,10000,0" BuildTime="20" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="750" BuildPrice="0,30000,0" BuildTime="30" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1000" BuildPrice="0,60000,0" BuildTime="40" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1250" BuildPrice="0,110000,0" BuildTime="50" PlayerLevelRequired="0" />
+	</BuildingType>
+	<BuildingType ID="12" Name="Gorilla Healing" Info="Summons a Gorilla Healing Rig into battle that heals you and nearby friends." TileX="8" TileZ="7" LevelMax="5" Category="2" MaxCount="1,1,1,1,1,1,1,1,1,1">
+		<BuildingDef HitPoint="250" BuildPrice="0,52000,0" BuildTime="10" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="500" BuildPrice="0,75000,0" BuildTime="20" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="750" BuildPrice="0,115000,0" BuildTime="30" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1000" BuildPrice="0,235000,0" BuildTime="40" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1250" BuildPrice="0,550000,0" BuildTime="50" PlayerLevelRequired="0" />
+	</BuildingType>
+	<BuildingType ID="13" Name="Shadow Den" Info="Summon Darkwind!" TileX="5" TileZ="5" LevelMax="1" Category="3" MaxCount="1,1,1,1,1,1,1,1,1,1">
+		<BuildingDef HitPoint="250" BuildPrice="0,0,250" BuildTime="10" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="500" BuildPrice="0,30000,0" BuildTime="20" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="750" BuildPrice="0,75000,0" BuildTime="30" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1000" BuildPrice="0,150000,0" BuildTime="40" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1250" BuildPrice="0,1100000,0" BuildTime="50" PlayerLevelRequired="0" />
+	</BuildingType>
+	<BuildingType ID="14" Name="Speed Booster" Info="Boosts your speed for swift travel - or hasty retreats!" TileX="5" TileZ="5" LevelMax="1" Category="3" MaxCount="1,1,1,1,1,1,1,1,1,1">
+		<BuildingDef HitPoint="250" BuildPrice="0,0,50" BuildTime="10" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="500" BuildPrice="0,35000,0" BuildTime="20" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="750" BuildPrice="0,85000,0" BuildTime="30" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1000" BuildPrice="0,150000,0" BuildTime="40" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1250" BuildPrice="0,250000,0" BuildTime="50" PlayerLevelRequired="0" />
+	</BuildingType>
+	<BuildingType ID="15" Name="Super Spewer Bay" Info="Knockback and damage your enemies from long range with the Super Smash Spewer!" TileX="8" TileZ="9" LevelMax="5" Category="2" MaxCount="1,1,1,1,1,1,1,1,1,1">
+		<BuildingDef HitPoint="250" BuildPrice="0,0,50" BuildTime="10" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="500" BuildPrice="0,35000,0" BuildTime="20" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="750" BuildPrice="0,85000,0" BuildTime="30" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1000" BuildPrice="0,150000,0" BuildTime="40" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1250" BuildPrice="0,250000,0" BuildTime="50" PlayerLevelRequired="0" />
+	</BuildingType>
+	<BuildingType ID="16" Name="Treasure Dig" Info="Build your custom dungeons with Rhino Treasure Dig" TileX="8" TileZ="9" LevelMax="5" Category="2" MaxCount="1,1,1,1,1,1,1,1,1,1">
+		<BuildingDef HitPoint="250" BuildPrice="0,7500,0" BuildTime="10" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="500" BuildPrice="0,75000,0" BuildTime="20" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="750" BuildPrice="0,120000,0" BuildTime="30" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1000" BuildPrice="0,195000,0" BuildTime="40" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1250" BuildPrice="0,250000,0" BuildTime="50" PlayerLevelRequired="0" />
+	</BuildingType>
+	<BuildingType ID="17" Name="Weapon Enchanter" Info="Enchant your current weapon, giving it a damage boost!" TileX="5" TileZ="5" LevelMax="1" Category="3" MaxCount="1">
+		<BuildingDef HitPoint="250" BuildPrice="0,0,50" BuildTime="10" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="500" BuildPrice="0,10000,0" BuildTime="20" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="750" BuildPrice="0,30000,0" BuildTime="30" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1000" BuildPrice="0,50000,0" BuildTime="40" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1250" BuildPrice="0,900000,0" BuildTime="50" PlayerLevelRequired="0" />
+	</BuildingType>
+	<BuildingType ID="18" Name="Bear Beekeeper" Info="Let enemies feel the sting of your BEES!" TileX="9" TileZ="9" LevelMax="5" Category="2" MaxCount="1,1,1,1,1,1,1,1,1,1">
+		<BuildingDef HitPoint="250" BuildPrice="0,55000,0" BuildTime="10" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="500" BuildPrice="0,80000,0" BuildTime="20" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="750" BuildPrice="0,114200,0" BuildTime="30" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1000" BuildPrice="0,155000,0" BuildTime="40" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1250" BuildPrice="0,198000,0" BuildTime="50" PlayerLevelRequired="0" />
+	</BuildingType>
+	<BuildingType ID="19" Name="Lion Market" Info="The Lion Market will let you sell items to other players on the open market." TileX="8" TileZ="8" LevelMax="5" Category="0" MaxCount="1,1,1,1,1,1,1,1,1,1">
+		<BuildingDef HitPoint="250" BuildPrice="0,7500,0" BuildTime="10" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="500" BuildPrice="0,12500,0" BuildTime="20" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="750" BuildPrice="0,27890,0" BuildTime="30" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1000" BuildPrice="0,50259,0" BuildTime="40" PlayerLevelRequired="0" />
+		<BuildingDef HitPoint="1250" BuildPrice="0,75555,0" BuildTime="50" PlayerLevelRequired="0" />
+	</BuildingType>
+	<BuildingType ID="20" Name="Brick Farm 1x1" Info="Gorilla Farmers gather bricks to help you build!" TileX="6" TileZ="6" LevelMax="5" Category="0" MaxCount="10,10,10,10,10,10,10,10,10,10">
+	        <BuildingDef HitPoint="250" BuildPrice="0,15000,0" BuildTime="10" PlayerLevelRequired="0">
+        	        <Capacity Brick="1000000" Studs="0" />
+                	<Production Type="Brick" ProductionRate="1" />
+	        </BuildingDef>
+        	<BuildingDef HitPoint="500" BuildPrice="0,45000,0" BuildTime="20" PlayerLevelRequired="0">
+                	<Capacity Brick="1000000" Studs="0" />
+	                <Production Type="Brick" ProductionRate="1.2" />
+        	</BuildingDef>
+	        <BuildingDef HitPoint="750" BuildPrice="0,60000,0" BuildTime="30" PlayerLevelRequired="0">
+        	        <Capacity Brick="1000000" Studs="0" />
+                	<Production Type="Brick" ProductionRate="1.3" />
+	         </BuildingDef>
+        	<BuildingDef HitPoint="1000" BuildPrice="0,75000,0" BuildTime="60" PlayerLevelRequired="0">
+                	<Capacity Brick="1000000" Studs="0" />
+	                <Production Type="Brick" ProductionRate="1.4" />
+        	</BuildingDef>
+		<BuildingDef HitPoint="1000" BuildPrice="0,100000,0" BuildTime="60" PlayerLevelRequired="0">
+		        <Capacity Brick="1000000" Studs="0" />
+        		<Production Type="Brick" ProductionRate="1.5" />
+		</BuildingDef>
+	</BuildingType>
+    <BuildingType ID="21" Name="ExpansionSlot" Info="" TileX="12" TileZ="12" LevelMax="5" Category="0" MaxCount="1,1,1,1,1,1,1,1,1,1">
+      <BuildingDef HitPoint="1500" BuildPrice="0,0,0" BuildTime="0" PlayerLevelRequired="0">
+        <Capacity Brick="1000000" Studs="1000000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="1600" BuildPrice="1000,0,0" BuildTime="10" PlayerLevelRequired="1">
+        <Capacity Brick="1000000" Studs="1000000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="1850" BuildPrice="4000,0,0" BuildTime="10800" PlayerLevelRequired="2">
+        <Capacity Brick="1000000" Studs="1000000" />
+      </BuildingDef>
+    </BuildingType>
+    <BuildingType ID="22" Name="ExpansionSlotSmall" Info="" TileX="12" TileZ="8" LevelMax="5" Category="0" MaxCount="1,1,1,1,1,1,1,1,1,1">
+      <BuildingDef HitPoint="1500" BuildPrice="0,0,0" BuildTime="0" PlayerLevelRequired="0">
+        <Capacity Brick="1000000" Studs="1000000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="1600" BuildPrice="1000,0,0" BuildTime="10" PlayerLevelRequired="1">
+        <Capacity Brick="1000000" Studs="1000000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="1850" BuildPrice="4000,0,0" BuildTime="10800" PlayerLevelRequired="2">
+        <Capacity Brick="1000000" Studs="1000000" />
+      </BuildingDef>
+    </BuildingType>
+ <BuildingType ID="23" Name="Bear Healing Bay" Info="The Bear Healing Wave provides strong pulses of healing power for you and your allies." TileX="9" TileZ="9" LevelMax="5" Category="2" MaxCount="1,1,1,1,1,1,1,1,1,1">
+         <BuildingDef HitPoint="250" BuildPrice="0,152000,0" BuildTime="10" PlayerLevelRequired="0" />
+         <BuildingDef HitPoint="500" BuildPrice="0,800000,0" BuildTime="20" PlayerLevelRequired="0" />
+         <BuildingDef HitPoint="750" BuildPrice="0,1350000,0" BuildTime="30" PlayerLevelRequired="0" />
+         <BuildingDef HitPoint="1000" BuildPrice="0,2110000,0" BuildTime="40" PlayerLevelRequired="0" />
+         <BuildingDef HitPoint="1250" BuildPrice="0,2500000,0" BuildTime="50" PlayerLevelRequired="0" />
+ </BuildingType>
+
+  </Building>
+</Database>

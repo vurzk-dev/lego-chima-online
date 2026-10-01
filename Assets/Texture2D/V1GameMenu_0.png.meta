@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 71a2ba58e56c6944b94bb853746d051f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Game_rightmenu
+  - first:
+      213: 21300002
+    second: RightMenu_house_nonpressed
+  - first:
+      213: 21300004
+    second: RightMenu_house_pressed
+  - first:
+      213: 21300006
+    second: RightMenu_house_highlighted
+  - first:
+      213: 21300008
+    second: RightMenu_house_disabled
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game_rightmenu
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 361
+        width: 146
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -74.5}
+        - {x: -73, y: -68.5}
+        - {x: -73, y: 22.5}
+        - {x: -19, y: 74.5}
+        - {x: 69, y: 74.5}
+        - {x: 73, y: 72.5}
+        - {x: 73, y: -74.5}
+      physicsShape:
+      - - {x: 27, y: 70.5}
+        - {x: 15, y: 59.5}
+        - {x: 11, y: 47.5}
+        - {x: 43, y: 53.5}
+        - {x: 61, y: -47.5}
+        - {x: 49, y: -61.5}
+        - {x: -38, y: -61.5}
+        - {x: -52, y: -20.5}
+        - {x: -53, y: -16.5}
+        - {x: -66.99999, y: -25.5}
+        - {x: -69, y: -33.5}
+        - {x: -69, y: -49.5}
+        - {x: -68, y: -52.5}
+        - {x: -65, y: -59.5}
+        - {x: -60, y: -71.5}
+        - {x: 71, y: -71.5}
+        - {x: 71, y: 63.5}
+        - {x: 56, y: 70.5}
+      - - {x: -58, y: 30.5}
+        - {x: -63, y: 11.5}
+        - {x: -63, y: -11.5}
+        - {x: -56, y: -18.5}
+        - {x: -52, y: -18.5}
+        - {x: -50, y: -17.5}
+        - {x: -48, y: 11.5}
+        - {x: -29, y: 25.5}
+        - {x: -29, y: 30.5}
+      - - {x: 17, y: 55.5}
+        - {x: 8, y: 61.5}
+        - {x: -17, y: 61.5}
+        - {x: -30, y: 45.5}
+        - {x: -30, y: 30.5}
+        - {x: -28, y: 28.5}
+        - {x: -25, y: 29.5}
+        - {x: -22, y: 33.5}
+        - {x: 16, y: 50.5}
+        - {x: 17, y: 52.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightMenu_house_nonpressed
+      rect:
+        serializedVersion: 2
+        x: 1.07612
+        y: 113
+        width: 78.92388
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4931825, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.53806, y: -40}
+        - {x: -39.53806, y: -27}
+        - {x: -39.53806, y: 24}
+        - {x: -20.53806, y: 40}
+        - {x: 38.46194, y: 40}
+        - {x: 39.46194, y: 37}
+        - {x: 39.46194, y: -35}
+        - {x: 26.46194, y: -40}
+      physicsShape:
+      - - {x: 39.46193, y: 12}
+        - {x: 37.46194, y: 18}
+        - {x: 24.46194, y: 35}
+        - {x: 9.461936, y: 40}
+        - {x: -10.53806, y: 40}
+        - {x: -15.53806, y: 39}
+        - {x: -33.53806, y: 23}
+        - {x: -37.53806, y: 14}
+        - {x: -38.53806, y: 9.999999}
+        - {x: -38.53806, y: -5}
+        - {x: -37.53806, y: -14}
+        - {x: -32.53806, y: -24}
+        - {x: -15.53806, y: -37}
+        - {x: -6.538063, y: -39}
+        - {x: 8.461937, y: -39}
+        - {x: 24.46194, y: -34}
+        - {x: 38.46194, y: -17}
+        - {x: 39.46193, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightMenu_house_pressed
+      rect:
+        serializedVersion: 2
+        x: 1.07612
+        y: 277
+        width: 78.92388
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4931825, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.53806, y: -40}
+        - {x: -39.53806, y: -27}
+        - {x: -39.53806, y: 24}
+        - {x: -20.53806, y: 40}
+        - {x: 38.46194, y: 40}
+        - {x: 39.46194, y: 37}
+        - {x: 39.46194, y: -35}
+        - {x: 26.46194, y: -40}
+      physicsShape:
+      - - {x: 39.46193, y: 12}
+        - {x: 37.46194, y: 18}
+        - {x: 24.46194, y: 35}
+        - {x: 9.461936, y: 40}
+        - {x: -10.53806, y: 40}
+        - {x: -15.53806, y: 39}
+        - {x: -33.53806, y: 23}
+        - {x: -37.53806, y: 14}
+        - {x: -38.53806, y: 9.999999}
+        - {x: -38.53806, y: -5}
+        - {x: -37.53806, y: -14}
+        - {x: -32.53806, y: -24}
+        - {x: -15.53806, y: -37}
+        - {x: -6.538063, y: -39}
+        - {x: 8.461937, y: -39}
+        - {x: 24.46194, y: -34}
+        - {x: 38.46194, y: -17}
+        - {x: 39.46193, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightMenu_house_highlighted
+      rect:
+        serializedVersion: 2
+        x: 1.07612
+        y: 195
+        width: 78.92388
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4931825, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.53806, y: -40}
+        - {x: -39.53806, y: -27}
+        - {x: -39.53806, y: 24}
+        - {x: -20.53806, y: 40}
+        - {x: 38.46194, y: 40}
+        - {x: 39.46194, y: 37}
+        - {x: 39.46194, y: -35}
+        - {x: 26.46194, y: -40}
+      physicsShape:
+      - - {x: 39.46193, y: 12}
+        - {x: 37.46194, y: 18}
+        - {x: 24.46194, y: 35}
+        - {x: 9.461936, y: 40}
+        - {x: -10.53806, y: 40}
+        - {x: -15.53806, y: 39}
+        - {x: -33.53806, y: 23}
+        - {x: -37.53806, y: 14}
+        - {x: -38.53806, y: 9.999999}
+        - {x: -38.53806, y: -5}
+        - {x: -37.53806, y: -14}
+        - {x: -32.53806, y: -24}
+        - {x: -15.53806, y: -37}
+        - {x: -6.538063, y: -39}
+        - {x: 8.461937, y: -39}
+        - {x: 24.46194, y: -34}
+        - {x: 38.46194, y: -17}
+        - {x: 39.46193, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightMenu_house_disabled
+      rect:
+        serializedVersion: 2
+        x: 83.07612
+        y: 122
+        width: 73.91097
+        height: 73.97325
+      alignment: 9
+      pivot: {x: 0.4928075, y: 0.4934216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.0316, y: -36.98663}
+        - {x: -37.0316, y: -29.98662}
+        - {x: -37.0316, y: 22.01337}
+        - {x: -26.0316, y: 37.01337}
+        - {x: 14.9684, y: 37.01337}
+        - {x: 35.9684, y: 29.01337}
+        - {x: 36.9684, y: 28.01337}
+        - {x: 36.9684, y: -25.98663}
+        - {x: 30.9684, y: -36.98663}
+      physicsShape:
+      - - {x: 19.9684, y: 35.01337}
+        - {x: 14.9684, y: 36.01337}
+        - {x: -17.0316, y: 36.01337}
+        - {x: -31.0316, y: 25.01337}
+        - {x: -36.0316, y: 11.01337}
+        - {x: -36.0316, y: -10.98663}
+        - {x: -31.0316, y: -22.98663}
+        - {x: -16.0316, y: -32.98663}
+        - {x: -12.0316, y: -34.98663}
+        - {x: 7.968395, y: -34.98663}
+        - {x: 20.96839, y: -30.98663}
+        - {x: 32.96839, y: -14.98663}
+        - {x: 34.9684, y: -8.986626}
+        - {x: 34.9684, y: 15.01337}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RightMenu_house_highlighted: 21300006
+      RightMenu_house_pressed: 21300004
+      RightMenu_house_nonpressed: 21300002
+      Game_rightmenu: 21300000
+      RightMenu_house_disabled: 21300008
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

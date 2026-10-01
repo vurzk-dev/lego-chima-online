@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_Name: CrossedGod_Rays
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 24
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 16
+    localAABB:
+      m_Center: {x: -4.768372E-07, y: 0, z: -9.388508}
+      m_Extent: {x: 3.120001, y: 3.120001, z: 9.359999}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes:
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 1
+  m_IsReadable: 0
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer:
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 0
+    m_VertexCount: 0
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 0
+    _typelessdata:
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 48
+      m_Range: 21.86851
+      m_Start: -18.74851
+      m_Data: 3a6fdb79db46b2edffff9db70d00003a6fdb79db0000e0ffff9db76d24db3a6fdb79db46b2edffff9db70d0000feffdf79db46b2adf3b69db70d00009db7fdffff46b2dd79db3a6f0b00009db7edffff0000d079db3a6f6b24db9db7fdffff46b2dd79db3a6f0b00009db7adf3b646b2dd79dbfeff0f0000
+      m_BitSize: 20
+    m_UV:
+      m_NumItems: 32
+      m_Range: 0.999976
+      m_Start: -1.190113E-05
+      m_Data: 0100ffffffff000000000000ffffffffffffffff010000000000ffffffff00000000ffffffff000001000000ffffffffffffffff000000000100ffffffff0000
+      m_BitSize: 16
+    m_Normals:
+      m_NumItems: 32
+      m_Range: 1.999985
+      m_Start: -0.9999924
+      m_Data: fdfddfdffffdfddfdffffd01d01f00fd01d01f00fff7f77f7ffff7f77f7f00f407407f00f407407f
+      m_BitSize: 10
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 16
+      m_Data:
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 24
+      m_Data: 101230545674989ab8dcdefc
+      m_BitSize: 4
+    m_UVInfo: 5
+  m_LocalAABB:
+    m_Center: {x: -4.768372E-07, y: 0, z: -9.388508}
+    m_Extent: {x: 3.120001, y: 3.120001, z: 9.359999}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshOptimized: 1

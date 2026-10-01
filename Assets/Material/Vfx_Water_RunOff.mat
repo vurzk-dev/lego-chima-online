@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: Vfx_Water_RunOff
+  m_Shader: {fileID: 4800000, guid: 91abd3a74d7c77147826617df497bf68, type: 3}
+  m_ShaderKeywords: _NORMALMAP
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 05d73b14790ba20479619e704dbe6f42, type: 3}
+        m_Scale: {x: 0.5, y: 0.5}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: d47c98a6c272d364dac8f204cfbe5a5a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ShoreTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Ambient: 0.8
+    - _BumpMap2Strength: 0.95
+    - _BumpMapStrength: 1.59
+    - _BumpScale: 1
+    - _ColorTextureOverlay: 0.75
+    - _CubeMapMinimumValues: 0.06
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _Displacement: 1
+    - _DisplacementTiling: 1
+    - _DstBlend: 0
+    - _Flow: 1
+    - _FreshnelPower: 1.119608
+    - _FresnelPower: 2
+    - _FresnelScale: 0.73
+    - _GerstnerIntensity: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _InvFade: 1
+    - _InvFadeFoam: 1
+    - _MasterOpacity: 0.74
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Opacity: 0.5328891
+    - _OutlineWidth: 0.1
+    - _Parallax: 0.02
+    - _ReflDistort: 0.44
+    - _Reflectionstrength: 0.31
+    - _RefrDistort: 0.4
+    - _Refractivity: 1
+    - _Scroll2X: 0
+    - _Scroll2Y: -0.2
+    - _ScrollX: 0
+    - _ScrollY: -0.12
+    - _Shininess: 146
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _Speed: 0.8
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _WaveScale: 0.063
+    - _ZWrite: 1
+    - _node_9568: 0.5128205
+    m_Colors:
+    - WaveSpeed: {r: 19, g: 9, b: -16, a: -7}
+    - _AnimationDirection: {r: 2, g: 1, b: 1, a: 1}
+    - _AnimationTiling: {r: 0.1, g: 0.1, b: -0.1, a: -0.1}
+    - _BaseColor: {r: 0.54, g: 0.95, b: 0.99, a: 0.5}
+    - _BumpDirection: {r: 2, g: 2, b: 2, a: 2}
+    - _BumpTiling: {r: 2, g: 1, b: -2, a: 3}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _CubeMapBaseColor: {r: 0.1249721, g: 0.1592439, b: 0.1641791, a: 0}
+    - _DistortParams: {r: 1, g: 1, b: 2, a: 1.15}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Foam: {r: 0.1, g: 0.375, b: 0, a: 0}
+    - _GAmplitude: {r: 0.03, g: 0.035, b: 0.025, a: 0.025}
+    - _GDirectionAB: {r: 0.3, g: 0.85, b: 0.85, a: 0.25}
+    - _GDirectionCD: {r: 0.1, g: 0.9, b: 0.5, a: 0.5}
+    - _GFrequency: {r: 1.3, g: 1.35, b: 1.25, a: 1.25}
+    - _GSpeed: {r: 1.2, g: 1.375, b: 1.1, a: 1.5}
+    - _GSteepness: {r: 1, g: 1, b: 1, a: 1}
+    - _HorizonColor: {r: 0.172, g: 0.463, b: 0.435, a: 1}
+    - _InvFadeParemeter: {r: 0.15, g: 0.15, b: 0.5, a: 1}
+    - _OutlineColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ReflectionColor: {r: 0.54, g: 0.95, b: 0.99, a: 0.5}
+    - _RefrColor: {r: 0.34, g: 0.85, b: 0.92, a: 1}
+    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    - _SpecularColor: {r: 0.72, g: 0.72, b: 0.72, a: 1}
+    - _TintColor: {r: 0.3823529, g: 0.3823529, b: 0.3823529, a: 0.891}
+    - _TransformScale: {r: 1, g: 1, b: 1, a: 1}
+    - _UvAnimation: {r: 0.15, g: 0.5, b: 0.1, a: 2}
+    - _WorldLightDir: {r: 0, g: 0.1, b: -0.5, a: 0}
+    - _horizonColor: {r: 0.172, g: 0.463, b: 0.435, a: 0}

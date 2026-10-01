@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: Default-Diffuse
+  m_Shader: {fileID: 4800000, guid: 4a424ca603f675b4e9d51ce8f3139e46, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Base_Mask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Detail:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Matcap1:
+        m_Texture: {fileID: 2800000, guid: 2152a296b5620144d96f7faf95800167, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Occlusion:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sticker:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sticker_Mask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - PixelSnap: 0
+    - _Ambiant_Light: 0
+    - _BaseOpacity: 1.714286
+    - _Bias: 0
+    - _BlinkingTimeOffsScale: 5
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DetailTexOpacity: 0.8928571
+    - _DetailTexScaleUvs: 5
+    - _DetailTextureMul: 1
+    - _DstBlend: 0
+    - _EdgeBlendOpacity: 1.5
+    - _Emission: 0
+    - _EmissionLM: 0
+    - _FresnelPower: 0.8
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _InvFadeParemeter: 0.8928571
+    - _MainTextureMul: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _Multiplier: 1
+    - _NoiseAmount: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Scroll2X: 1
+    - _Scroll2Y: 0
+    - _ScrollX: 2
+    - _ScrollXB: 1
+    - _ScrollY: 0
+    - _ScrollYB: 1
+    - _Shininess: 0.7
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _TimeOffDuration: 0.5
+    - _TimeOnDuration: 0.5
+    - _UVSec: 0
+    - _VertAnimDisplacement: 0.1
+    - _VertAnimDisplacementB: 0.1
+    - _VertAnimSpeed: 100
+    - _VertAnimSpeedB: 100
+    - _ZWrite: 1
+    m_Colors:
+    - _BaseColor: {r: 0.2205882, g: 0.5162272, b: 1, a: 0.5019608}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color1: {r: 1, g: 1, b: 1, a: 1}
+    - _Color2: {r: 1, g: 1, b: 1, a: 1}
+    - _Color3: {r: 1, g: 1, b: 1, a: 1}
+    - _Emission: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 0}
+    - _Sticker_Color1: {r: 1, g: 1, b: 1, a: 1}
+    - _Sticker_Color2: {r: 1, g: 1, b: 1, a: 1}

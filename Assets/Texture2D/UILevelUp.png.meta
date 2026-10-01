@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 426a23e986b56bc40b6f79a673a085a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UILevelUp_0
+  - first:
+      213: 21300002
+    second: UILevelUp_1
+  - first:
+      213: 21300004
+    second: UILevelUp_3
+  - first:
+      213: 21300006
+    second: UILevelUp_4
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UILevelUp_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 426
+        width: 136
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -35.5}
+        - {x: -68, y: -20.5}
+        - {x: -68, y: -9.5}
+        - {x: -49, y: 27.5}
+        - {x: -24, y: 35.5}
+        - {x: 52, y: 35.5}
+        - {x: 68, y: 9.5}
+        - {x: 68, y: -16.5}
+        - {x: 38, y: -35.5}
+      physicsShape:
+      - - {x: 33, y: 35.5}
+        - {x: 27, y: 35.5}
+        - {x: 27, y: 13.5}
+        - {x: 36, y: -19.5}
+        - {x: 28, y: -16.5}
+        - {x: 27, y: -17.5}
+        - {x: 27, y: -35.5}
+        - {x: 35, y: -35.5}
+        - {x: 68, y: -6.5}
+        - {x: 68, y: 6.5}
+      - - {x: 27, y: 12.5}
+        - {x: 27, y: 13.5}
+        - {x: 23, y: 16.5}
+        - {x: -43, y: 16.5}
+        - {x: -68, y: -11.5}
+        - {x: -68, y: -18.5}
+        - {x: 25, y: -18.5}
+        - {x: 27, y: -16.5}
+        - {x: 26, y: -13.5}
+        - {x: 18, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UILevelUp_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 423
+        width: 140.9239
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5002701, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.53806, y: -37}
+        - {x: -70.46194, y: -23}
+        - {x: -70.46194, y: 7}
+        - {x: -15.46194, y: 37}
+        - {x: 49.53806, y: 37}
+        - {x: 70.53806, y: 6}
+        - {x: 70.53806, y: -16}
+        - {x: 36.53806, y: -37}
+      physicsShape:
+      - - {x: 48.53806, y: 37}
+        - {x: -25.46194, y: 37}
+        - {x: -51.46194, y: 31}
+        - {x: -70.46194, y: -8}
+        - {x: -70.46194, y: -20}
+        - {x: 17.53806, y: -37}
+        - {x: 30.53806, y: -37}
+        - {x: 36.53805, y: -34}
+        - {x: 69.53806, y: -1}
+        - {x: 69.53806, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UILevelUp_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 343
+        width: 140.9239
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5002701, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.538055, y: -37}
+        - {x: -70.46194, y: -22}
+        - {x: -70.46194, y: -9}
+        - {x: -45.46194, y: 20}
+        - {x: 22.53806, y: 34}
+        - {x: 24.53806, y: 37}
+        - {x: 34.53806, y: 37}
+        - {x: 70.53806, y: 5}
+        - {x: 70.53806, y: -6}
+        - {x: 35.53806, y: -37}
+      physicsShape:
+      - - {x: 32.53806, y: 37}
+        - {x: -3.461945, y: 37}
+        - {x: -70.46194, y: 9}
+        - {x: -70.46194, y: -20}
+        - {x: 19.53806, y: -37}
+        - {x: 32.53806, y: -37}
+        - {x: 69.53806, y: -4}
+        - {x: 69.53806, y: 2}
+        - {x: 68.53806, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UILevelUp_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 343
+        width: 140.9239
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5002701, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.538055, y: -37}
+        - {x: -70.46194, y: -22}
+        - {x: -70.46194, y: -9}
+        - {x: -45.46194, y: 20}
+        - {x: 22.53806, y: 34}
+        - {x: 24.53806, y: 37}
+        - {x: 34.53806, y: 37}
+        - {x: 70.53806, y: 5}
+        - {x: 70.53806, y: -6}
+        - {x: 35.53806, y: -37}
+      physicsShape:
+      - - {x: 32.53806, y: 37}
+        - {x: -3.461945, y: 37}
+        - {x: -70.46194, y: 9}
+        - {x: -70.46194, y: -20}
+        - {x: 19.53806, y: -37}
+        - {x: 32.53806, y: -37}
+        - {x: 69.53806, y: -4}
+        - {x: 69.53806, y: 2}
+        - {x: 68.53806, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UILevelUp_0: 21300000
+      UILevelUp_4: 21300006
+      UILevelUp_1: 21300002
+      UILevelUp_3: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

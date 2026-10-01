@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: WaterFall
+  m_Shader: {fileID: 4800000, guid: 45f2acf4f0d4972499f1324e1acde9fd, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BlendTexture:
+        m_Texture: {fileID: 2800000, guid: e8afff12aa3f39f42bb325cd7310b82e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 22dd40b261b29e24fb6717964ac4e37a, type: 3}
+        m_Scale: {x: 8, y: 0.7}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlphaPower: 2.380597
+    - _BGSpeedX: 1
+    - _BGSpeedY: -0.2
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _Cycle: 1
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _EmissionLM: 0
+    - _FresnelScale: 0.75
+    - _GerstnerIntensity: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _InvFade: 1
+    - _MainPower: 0.3283582
+    - _MainSpeedX: -2
+    - _MainSpeedY: -0.35
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Outline: 0.005
+    - _Parallax: 0.02
+    - _Rate: 1
+    - _SSpeedX: 0.5
+    - _SSpeedY: 3
+    - _Scale: 10
+    - _ScrollX: 0.05117042
+    - _ScrollY: -0.8443139
+    - _Shininess: 0.078125
+    - _SmoothnessTextureChannel: 0
+    - _SparkPower: 0.1
+    - _SpecularHighlights: 1
+    - _Speed: 0.05
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    - _node_9568: 1.28
+    m_Colors:
+    - _AnimationDirection: {r: 1, g: 1, b: 1, a: 1}
+    - _AnimationTiling: {r: 2.2, g: 2.2, b: -1.1, a: -1.1}
+    - _BaseColor: {r: 0.54, g: 0.95, b: 0.99, a: 0.5}
+    - _BgColor: {r: 0.7089552, g: 0.8900951, b: 1, a: 0.2588235}
+    - _BumpDirection: {r: 1, g: 1, b: -1, a: 1}
+    - _BumpTiling: {r: 1, g: 1, b: -2, a: 3}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DistortParams: {r: 1, g: 1, b: 2, a: 1.15}
+    - _Emission: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Foam: {r: 0.1, g: 0.375, b: 0, a: 0}
+    - _GAmplitude: {r: 0.3, g: 0.35, b: 0.25, a: 0.25}
+    - _GDirectionAB: {r: 0.3, g: 0.85, b: 0.85, a: 0.25}
+    - _GDirectionCD: {r: 0.1, g: 0.9, b: 0.5, a: 0.5}
+    - _GFrequency: {r: 1.3, g: 1.35, b: 1.25, a: 1.25}
+    - _GSpeed: {r: 1.2, g: 1.375, b: 1.1, a: 1.5}
+    - _GSteepness: {r: 1, g: 1, b: 1, a: 1}
+    - _InvFadeParemeter: {r: 0.15, g: 0.15, b: 0.5, a: 1}
+    - _MainColor: {r: 0.6641791, g: 0.8731865, b: 1, a: 1}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ReflectColor: {r: 1, g: 1, b: 1, a: 0.5}
+    - _ReflectionColor: {r: 0.54, g: 0.95, b: 0.99, a: 0.5}
+    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _SpecularColor: {r: 0.72, g: 0.72, b: 0.72, a: 1}
+    - _TestSpeed: {r: 0.8, g: -0.2, b: -0.15, a: -0.02}
+    - _TintColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    - _WaterColor: {r: 0.7985075, g: 0.7687124, b: 0.7687124, a: 1}
+    - _WorldLightDir: {r: 0, g: 0.1, b: -0.5, a: 0}
